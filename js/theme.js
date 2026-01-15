@@ -183,5 +183,59 @@ const Theme = {
     }
 };
 
+/**
+ * Share functionality
+ */
+const Share = {
+    init() {
+        this.initShareButtons();
+    },
+
+    initShareButtons() {
+        // Native share button (mobile)
+        const nativeBtn = document.querySelector('.share-native');
+        if (nativeBtn && navigator.share) {
+            nativeBtn.addEventListener('click', async () => {
+                try {
+                    await navigator.share({
+                        title: document.title,
+                        url: window.location.href
+                    });
+                } catch (err) {
+                    // User cancelled or error
+                }
+            });
+        }
+
+        // Copy link button
+        const copyBtn = document.querySelector('.share-copy');
+        if (copyBtn) {
+            copyBtn.addEventListener('click', async () => {
+                try {
+                    await navigator.clipboard.writeText(window.location.href);
+                    copyBtn.classList.add('copied');
+                    const originalText = copyBtn.innerHTML;
+                    copyBtn.innerHTML = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg> Copied';
+                    setTimeout(() => {
+                        copyBtn.classList.remove('copied');
+                        copyBtn.innerHTML = originalText;
+                    }, 2000);
+                } catch (err) {
+                    // Fallback for older browsers
+                    const input = document.createElement('input');
+                    input.value = window.location.href;
+                    document.body.appendChild(input);
+                    input.select();
+                    document.execCommand('copy');
+                    document.body.removeChild(input);
+                }
+            });
+        }
+    }
+};
+
 // Initialize on DOM ready
-document.addEventListener('DOMContentLoaded', () => Theme.init());
+document.addEventListener('DOMContentLoaded', () => {
+    Theme.init();
+    Share.init();
+});

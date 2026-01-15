@@ -808,6 +808,83 @@ a:hover {
     border-color: var(--color-accent);
 }
 
+/* Share buttons */
+.share-section {
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--color-bar-bg);
+}
+
+.share-label {
+    font-size: var(--font-size-sm);
+    color: var(--color-text-secondary);
+    margin-bottom: 0.75rem;
+}
+
+.share-buttons {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.share-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.5rem 0.75rem;
+    font-family: var(--font-family);
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    border: 1px solid var(--color-bar-bg);
+    border-radius: 4px;
+    background: var(--color-bg);
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    transition: border-color var(--transition), color var(--transition), background var(--transition);
+    text-decoration: none;
+}
+
+.share-button:hover {
+    border-color: var(--color-text-tertiary);
+    color: var(--color-text);
+    text-decoration: none;
+}
+
+.share-button svg {
+    width: 14px;
+    height: 14px;
+}
+
+/* LinkedIn blue on hover */
+.share-button.share-linkedin:hover {
+    border-color: #0077b5;
+    color: #0077b5;
+}
+
+/* Twitter/X on hover */
+.share-button.share-twitter:hover {
+    border-color: var(--color-text);
+    color: var(--color-text);
+}
+
+/* Copy button states */
+.share-button.share-copy.copied {
+    border-color: #2e7d32;
+    color: #2e7d32;
+}
+
+/* Native share (mobile) */
+.share-button.share-native {
+    display: none;
+}
+
+@media (max-width: 767px) {
+    /* On mobile, show native share button first */
+    .share-button.share-native {
+        display: inline-flex;
+    }
+}
+
 /* Desktop */
 @media (min-width: 768px) {
     #app {
