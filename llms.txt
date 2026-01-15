@@ -12,12 +12,12 @@ Lenny Distilled is a curated collection of product management wisdom extracted f
 
 The content is organized into six dimensions of PM craft:
 
-- Strategy: Vision, positioning, prioritization, business models, roadmaps, policy/compliance/ethics
-- Discovery: Understanding users, research, identifying problems & opportunities, psychology, UX thinking
-- Execution: Shipping, iteration, process, working with eng/design, technical decisions
-- Growth: Acquisition, activation, retention, monetization, metrics, experimentation
-- Leadership: Influence without authority, stakeholders, teams, culture, org design
-- Craft: Personal PM toolkit: decision-making, time management, senses, frameworks, career
+- Craft: Personal PM toolkit and skills
+- Strategy: Vision, positioning, prioritization, business models, roadmaps
+- Leadership: Influence, stakeholders, teams, culture
+- Growth: Acquisition, activation, retention, monetization, metrics
+- Execution: Shipping, iteration, process, working with eng/design
+- Discovery: Understanding users, research, problems & opportunities
 
 ## Navigation
 
