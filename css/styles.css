@@ -3,13 +3,13 @@
  * Extreme minimalism - pure text, no containers
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500;600;700&display=swap');
+/* Font loaded via preconnect + link in HTML for better performance */
 
 :root {
     --color-bg: #ffffff;
     --color-text: #111111;
     --color-text-secondary: #666666;
-    --color-text-tertiary: #999999;
+    --color-text-tertiary: #767676;  /* WCAG AA compliant: 4.54:1 contrast on white */
     --color-accent: #f47c55;
     --color-accent-muted: #fde8e1;
     --color-bar-bg: #fde8e1;
@@ -30,7 +30,7 @@
     --color-bg: #1a1a1a;
     --color-text: #f0f0f0;
     --color-text-secondary: #a0a0a0;
-    --color-text-tertiary: #707070;
+    --color-text-tertiary: #8c8c8c;  /* WCAG AA compliant on dark bg */
     --color-accent: #ff8a65;
     --color-accent-muted: #2d2220;
     --color-bar-bg: #2d2220;
