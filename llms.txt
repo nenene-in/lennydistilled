@@ -1,0 +1,36 @@
+# Lenny Distilled
+
+> PM wisdom distilled from 300+ expert interviews on Lenny's Podcast
+
+URL: https://www.lennydistilled.com
+
+## About
+
+Lenny Distilled is a curated collection of product management wisdom extracted from Lenny Rachitsky's podcast interviews with industry experts. Each insight is backed by verbatim quotes from guests, allowing readers to explore the nuanced perspectives of experienced practitioners.
+
+## Content Structure
+
+The content is organized into six dimensions of PM craft:
+
+- Craft: Personal PM toolkit and skills
+- Strategy: Vision, positioning, prioritization, business models, roadmaps
+- Leadership: Influence, stakeholders, teams, culture
+- Growth: Acquisition, activation, retention, monetization, metrics
+- Execution: Shipping, iteration, process, working with eng/design
+- Discovery: Understanding users, research, problems & opportunities
+
+## Navigation
+
+- Home: https://lennydistilled.com/
+- Each dimension has subthemes containing specific insights
+- Each insight page shows supporting quotes with links to original video sources
+
+## Data Format
+
+All content is available as structured HTML with JSON-LD markup for easy parsing.
+
+## Attribution
+
+- All content by Lenny Rachitsky: https://www.linkedin.com/posts/lennyrachitsky_here-are-the-full-transcripts-from-all-320-activity-7417011928159629313-am-q
+- Original podcast: https://www.lennyspodcast.com/
+- Built by Harsh Nene: https://www.linkedin.com/in/harshnene/
