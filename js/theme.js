@@ -463,6 +463,10 @@ const ShortcutsModal = {
                         <span class="shortcut-keys"><kbd class="kbd">←</kbd></span>
                     </div>
                     <div class="shortcut-row">
+                        <span class="shortcut-desc">Go home</span>
+                        <span class="shortcut-keys"><kbd class="kbd">h</kbd></span>
+                    </div>
+                    <div class="shortcut-row">
                         <span class="shortcut-desc">Random insight</span>
                         <span class="shortcut-keys"><kbd class="kbd">r</kbd></span>
                     </div>
@@ -491,6 +495,12 @@ const ShortcutsModal = {
             if (e.key === 'l' && !e.target.matches('input, textarea')) {
                 if (!document.querySelector('.shortcuts-modal.visible')) {
                     window.open('https://www.lennysnewsletter.com/', '_blank');
+                }
+            }
+
+            if (e.key === 'h' && !e.target.matches('input, textarea')) {
+                if (!document.querySelector('.shortcuts-modal.visible')) {
+                    window.location.href = '/';
                 }
             }
         });
