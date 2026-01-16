@@ -470,6 +470,10 @@ const ShortcutsModal = {
                         <span class="shortcut-desc">Show shortcuts</span>
                         <span class="shortcut-keys"><kbd class="kbd">?</kbd></span>
                     </div>
+                    <div class="shortcut-row shortcut-divider">
+                        <span class="shortcut-desc">Lenny's Newsletter</span>
+                        <span class="shortcut-keys"><kbd class="kbd">l</kbd></span>
+                    </div>
                 </div>
             </div>
         `;
@@ -483,6 +487,11 @@ const ShortcutsModal = {
             }
             if (e.key === 'Escape') {
                 this.hide();
+            }
+            if (e.key === 'l' && !e.target.matches('input, textarea')) {
+                if (!document.querySelector('.shortcuts-modal.visible')) {
+                    window.open('https://www.lennysnewsletter.com/', '_blank');
+                }
             }
         });
 
@@ -523,18 +532,22 @@ const FeelingLucky = {
     insights: [],
 
     init() {
-        const button = document.getElementById('feelingLucky');
-        if (!button) return;
-
-        // Collect all insight URLs from the page if available, or use data attribute
-        const insightsData = button.dataset.insights;
-        if (insightsData) {
-            this.insights = JSON.parse(insightsData);
+        // Use global insights if available (works on all pages)
+        if (window.INSIGHTS && window.INSIGHTS.length > 0) {
+            this.insights = window.INSIGHTS;
         }
 
-        button.addEventListener('click', () => this.goToRandom());
+        // Also try button data attribute (homepage fallback)
+        const button = document.getElementById('feelingLucky');
+        if (button) {
+            const insightsData = button.dataset.insights;
+            if (insightsData && this.insights.length === 0) {
+                this.insights = JSON.parse(insightsData);
+            }
+            button.addEventListener('click', () => this.goToRandom());
+        }
 
-        // Also bind 'r' key
+        // Bind 'r' key globally
         document.addEventListener('keydown', (e) => {
             if (e.key === 'r' && !e.target.matches('input, textarea')) {
                 if (!document.querySelector('.shortcuts-modal.visible')) {
@@ -546,8 +559,83 @@ const FeelingLucky = {
 
     goToRandom() {
         if (this.insights.length === 0) return;
+
+        // Visual feedback
+        this.showFeedback();
+
         const randomIndex = Math.floor(Math.random() * this.insights.length);
-        window.location.href = this.insights[randomIndex];
+        setTimeout(() => {
+            window.location.href = this.insights[randomIndex];
+        }, 2000);
+    },
+
+    euphemisms: [
+        "Rolling the dice...",
+        "Consulting the oracle...",
+        "Shuffling the deck...",
+        "Spinning the wheel...",
+        "Summoning wisdom...",
+        "Channeling the product gods...",
+        "Trust the process...",
+        "Feeling lucky...",
+        "Into the unknown...",
+        "Adventure awaits..."
+    ],
+
+    chars: 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!?.,-\'',
+
+    showFeedback() {
+        // Create modal with keyboard key and cycling text
+        const modal = document.createElement('div');
+        modal.className = 'random-modal';
+
+        const randomEuphemism = this.euphemisms[Math.floor(Math.random() * this.euphemisms.length)];
+
+        modal.innerHTML = `
+            <div class="random-modal-content">
+                <kbd class="random-key">r</kbd>
+                <span class="random-text"></span>
+            </div>
+        `;
+        document.body.appendChild(modal);
+
+        // Trigger animation
+        requestAnimationFrame(() => {
+            modal.classList.add('active');
+            // Start split-flap animation after modal appears
+            setTimeout(() => {
+                this.shuffleText(modal.querySelector('.random-text'), randomEuphemism);
+            }, 100);
+        });
+
+        // Remove after navigation (cleanup)
+        setTimeout(() => modal.remove(), 2500);
+    },
+
+    shuffleText(element, finalText) {
+        let iterations = 0;
+        const totalIterations = 15;
+
+        const interval = setInterval(() => {
+            element.textContent = finalText
+                .split('')
+                .map((char, index) => {
+                    const settlePoint = (iterations / totalIterations) * finalText.length;
+                    if (index < settlePoint) {
+                        return finalText[index];
+                    }
+                    if (char === ' ') return ' ';
+                    return this.chars[Math.floor(Math.random() * this.chars.length)];
+                })
+                .join('');
+
+            iterations++;
+
+            if (iterations >= totalIterations) {
+                clearInterval(interval);
+                element.textContent = finalText;
+            }
+        }, 25);
     }
 };
 
