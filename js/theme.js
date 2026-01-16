@@ -468,7 +468,7 @@ const ShortcutsModal = {
                     </div>
                     <div class="shortcut-row">
                         <span class="shortcut-desc">Random insight</span>
-                        <span class="shortcut-keys"><kbd class="kbd">r</kbd></span>
+                        <span class="shortcut-keys"><kbd class="kbd">Space</kbd></span>
                     </div>
                     <div class="shortcut-row">
                         <span class="shortcut-desc">Show shortcuts</span>
@@ -557,9 +557,10 @@ const FeelingLucky = {
             button.addEventListener('click', () => this.goToRandom());
         }
 
-        // Bind 'r' key globally
+        // Bind spacebar globally for random insight
         document.addEventListener('keydown', (e) => {
-            if (e.key === 'r' && !e.target.matches('input, textarea')) {
+            if (e.key === ' ' && !e.target.matches('input, textarea')) {
+                e.preventDefault(); // Prevent page scroll
                 if (!document.querySelector('.shortcuts-modal.visible')) {
                     this.goToRandom();
                 }
@@ -603,7 +604,7 @@ const FeelingLucky = {
 
         modal.innerHTML = `
             <div class="random-modal-content">
-                <kbd class="random-key">r</kbd>
+                <kbd class="random-key">Space</kbd>
                 <span class="random-text"></span>
             </div>
         `;
