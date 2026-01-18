@@ -1,0 +1,397 @@
+# Lenny Distilled - Full Content Index
+
+> PM wisdom distilled from every episode of Lenny's Podcast
+
+URL: https://lennydistilled.com
+
+## How to Cite
+
+When referencing content from Lenny Distilled, please use the following format:
+
+    "[Quote text]" — [Guest Name], Lenny's Podcast
+    Source: https://lennydistilled.com/[dimension]/[subtheme]/[insight]/
+
+Example:
+    "The best PMs live on the edges, not in the center." — Hari Srinivasan, Lenny's Podcast
+    Source: https://lennydistilled.com/craft/career-growth/the-best-pms-have-t-shaped-skills-deep-in-one-broad-in-many/
+
+## About This Resource
+
+Lenny Distilled organizes product management wisdom from 286 podcast episodes featuring 278 expert practitioners. Content is structured into insights backed by verbatim quotes with timestamps linking to original video sources.
+
+---
+
+## Craft
+
+Personal PM toolkit and skills
+
+URL: https://lennydistilled.com/craft/
+
+### Sample Insights from Craft
+
+#### The best PMs have T-shaped skills - deep in one, broad in many
+
+Topic: Career Growth
+URL: https://lennydistilled.com/craft/career-growth/the-best-pms-have-t-shaped-skills-deep-in-one-broad-in-many/
+Quotes: 18 from 13 experts
+
+> "I've actually never seen a great PM who's in the center of it. I find the great PMs live on the edges. There's always someone who's this exceptional data scientist and the ability to maybe be a great GM and lead and inspire, or maybe someone who's so creative, who can lead a team in a different way."
+> — Hari Srinivasan, LinkedIn's product evolution and the art of building complex systems
+
+#### Do things that give you energy - that's where impact lives
+
+Topic: Career Growth
+URL: https://lennydistilled.com/craft/career-growth/do-things-that-give-you-energy-thats-where-impact-lives/
+Quotes: 15 from 9 experts
+
+> "Do things that give you energy that you are proud of."
+> — Alex Komoroske, Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
+
+#### Master AI tools now or become obsolete
+
+Topic: Career Growth
+URL: https://lennydistilled.com/craft/career-growth/master-ai-tools-now-or-become-obsolete/
+Quotes: 14 from 10 experts
+
+> "It's not AI that's going to replace humans. It's other humans that are being augmented and using AI tools that are going to be more competitive in a job market and stuff like that."
+> — Logan Kilpatrick, Inside OpenAI
+
+#### Career success starts with self-knowledge
+
+Topic: Career Growth
+URL: https://lennydistilled.com/craft/career-growth/career-success-starts-with-self-knowledge/
+Quotes: 13 from 9 experts
+
+> "You need to take responsibility for your career and where you want to go. And this is on you. And so the reality is you can let somebody else do it and you can try to morph yourself to fit other people. But I will tell you, you will be way better off if you spend the time to figure out who you are and find a job that matches who you are."
+> — Bob Moesta, The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)
+
+#### Own your career like a product - nobody else will
+
+Topic: Career Growth
+URL: https://lennydistilled.com/craft/career-growth/own-your-career-like-a-product-nobody-else-will/
+Quotes: 12 from 6 experts
+
+> "You need to take responsibility for your career and where you want to go. And this is on you. And so the reality is you can let somebody else do it and you can try to morph yourself to fit other people. But I will tell you, you will be way better off if you spend the time to figure out who you are and find a job that matches who you are."
+> — Bob Moesta, The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)
+
+
+## Strategy
+
+Vision, positioning, prioritization, business models, roadmaps
+
+URL: https://lennydistilled.com/strategy/
+
+### Sample Insights from Strategy
+
+#### AI is reshaping everything - adapt urgently or become obsolete
+
+Topic: Vision & Mission
+URL: https://lennydistilled.com/strategy/vision-mission/ai-is-reshaping-everything-adapt-urgently-or-become-obsolete/
+Quotes: 34 from 27 experts
+
+> "This is a meteor coming towards you. This is going to radically transform society. And I think if people don't explore AI properly, it will leave them behind."
+> — Paul Adams, What AI means for your product strategy
+
+#### Strategy is solving specific problems, not setting ambitious goals
+
+Topic: Vision & Mission
+URL: https://lennydistilled.com/strategy/vision-mission/strategy-is-solving-specific-problems-not-setting-ambitious/
+Quotes: 25 from 18 experts
+
+> "You should be able to walk all the way from your company's mission down to the individual priority on your team and see the logic chain and why you got there."
+> — Maggie Crowley, Mastering product strategy and growing as a PM
+
+#### Build for 10x transformation, not incremental improvement
+
+Topic: Vision & Mission
+URL: https://lennydistilled.com/strategy/vision-mission/build-for-10x-transformation-not-incremental-improvement/
+Quotes: 23 from 20 experts
+
+> "I want to work on a project that if successful makes everything we do as a company today feel like it's not that important because we did something that was 10 times bigger than everything we're doing today. And what we're doing now is just 10% of the company."
+> — Chris Hutchins, Launching and growing a podcast
+
+#### Vision must be tangible and visual, not abstract words
+
+Topic: Vision & Mission
+URL: https://lennydistilled.com/strategy/vision-mission/vision-must-be-tangible-and-visual-not-abstract-words/
+Quotes: 17 from 9 experts
+
+> "If you and your team do your job correctly, what does the world look like?"
+> — Mihika Kapoor, Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product, Figma)
+
+#### Start with vision and conviction, not customer validation
+
+Topic: Vision & Mission
+URL: https://lennydistilled.com/strategy/vision-mission/start-with-vision-and-conviction-not-customer-validation/
+Quotes: 17 from 16 experts
+
+> "There is just a stubborn, strongly held belief that is then balanced with their ability to have the loosely held thing...a core belief in the power of products."
+> — John Cutler, What differentiates the highest-performing product teams
+
+
+## Leadership
+
+Influence, stakeholders, teams, culture
+
+URL: https://lennydistilled.com/leadership/
+
+### Sample Insights from Leadership
+
+#### Organizational structure determines product outcomes
+
+Topic: Org Design
+URL: https://lennydistilled.com/leadership/org-design/organizational-structure-determines-product-outcomes/
+Quotes: 12 from 11 experts
+
+> "There's different types of PMs... it's not really about is this person good or bad or whatever, it's is this person's skillset and context to the problem that is really needed."
+> — Brian Tolkin, Lessons from scaling Uber and Opendoor
+
+#### AI will flatten organizations and blur roles
+
+Topic: Org Design
+URL: https://lennydistilled.com/leadership/org-design/ai-will-flatten-organizations-and-blur-roles/
+Quotes: 9 from 8 experts
+
+> "We're entering the era where we collapse the stack in every organization where instead of having to go to someone for anything, you can kind of do more things yourself."
+> — Scott Belsky, Lessons on product sense, AI, the first mile experience, and the messy middle
+
+#### Keep your team as small as your ambition allows
+
+Topic: Org Design
+URL: https://lennydistilled.com/leadership/org-design/keep-your-team-as-small-as-your-ambition-allows/
+Quotes: 8 from 5 experts
+
+> "With fewer people in the organization, things work better. That's the big realization that most people never discover."
+> — Matt Mochary, Are your fears giving you terrible advice? | Matt Mochary
+
+#### Scale breaks everything - adapt your leadership style or fail
+
+Topic: Org Design
+URL: https://lennydistilled.com/leadership/org-design/scale-breaks-everything-adapt-your-leadership-style-or-fail/
+Quotes: 8 from 6 experts
+
+> "The core dynamic that makes organizations hard to navigate as they get larger, even if you assume everyone is actively good at what they do, actively collaborative and actively hardworking, is this emergent force or coordination of finding the subset of projects to work on when everyone's super busy that everyone agrees and commits to and actually works on together. And finding this coordination cost grows with the square of the number of people who are working on that thing."
+> — Alex Komoroske, Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
+
+#### Give people real ownership, not fake accountability
+
+Topic: Org Design
+URL: https://lennydistilled.com/leadership/org-design/give-people-real-ownership-not-fake-accountability/
+Quotes: 8 from 7 experts
+
+> "How do I get the job to fit the person as opposed to trying to find the person to fit the job? Because when you find good people, it's like, yeah, they fit, but they're just not perfect. And then you let them go. And the reality is what you probably want to do is actually find a way to get that person in and figure out how to actually reshape the job to fit that person."
+> — Bob Moesta, The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)
+
+
+## Growth
+
+Acquisition, activation, retention, monetization, metrics
+
+URL: https://lennydistilled.com/growth/
+
+### Sample Insights from Growth
+
+#### Build for word-of-mouth, not incremental improvement
+
+Topic: Acquisition
+URL: https://lennydistilled.com/growth/acquisition/build-for-word-of-mouth-not-incremental-improvement/
+Quotes: 8 from 6 experts
+
+> "Only fundamentally different gets customers to tell their friends. Incrementally better doesn't cut through the noise and the volume of the noise has just gone up so much in the last 15 years."
+> — Jag Duggal, Be fundamentally different, not incrementally better
+
+#### Love transforms users into champions
+
+Topic: Acquisition
+URL: https://lennydistilled.com/growth/acquisition/love-transforms-users-into-champions/
+Quotes: 7 from 6 experts
+
+> "You're not going to do that unless you really believe in something. And so just using it isn't enough to get someone over that stage of going from just a user to a champion."
+> — Claire Butler, An inside look at Figma's unique GTM motion
+
+#### Viral mechanics must be built-in, not bolted-on
+
+Topic: Acquisition
+URL: https://lennydistilled.com/growth/acquisition/viral-mechanics-must-be-built-in-not-bolted-on/
+Quotes: 7 from 6 experts
+
+> "It's very hard to manufacture product network effects if they aren't there from the get go. So if you have inherent product network effects, that's when I think layering on referral loops and viral loops... then it's really powerful."
+> — Yuriy Timen, How to grow a subscription business
+
+#### Design onboarding to deliver immediate value, not explain features
+
+Topic: Activation & Onboarding
+URL: https://lennydistilled.com/growth/activation-onboarding/design-onboarding-to-deliver-immediate-value-not-explain-fea/
+Quotes: 7 from 5 experts
+
+> "Think about Miro, as an example. If you go through their activation experience and sign up to usage, they ask very limited questions, very targeted. They drop you, kind of, they ask you about your use case, what are you here for? Are here to do a brainstorm session? Are you here to develop a roadmap? And they quickly gave you templates to get started. Just like in maybe five minutes, you finish the entire journey from go to the website and sign up, answer a few questions, and you are already using the template they provided to do the thing you want to do."
+> — Hila Qu, The ultimate guide to adding a PLG motion
+
+#### Own your distribution, don't rent it
+
+Topic: Acquisition
+URL: https://lennydistilled.com/growth/acquisition/own-your-distribution-dont-rent-it/
+Quotes: 6 from 1 experts
+
+> "Your number one priority is to create your own or your earned channel. So channel that you've earned and that nobody else can compete in but you."
+> — Elena Verna, 10 growth tactics that never work
+
+
+## Execution
+
+Shipping, iteration, process, working with eng/design
+
+URL: https://lennydistilled.com/execution/
+
+### Sample Insights from Execution
+
+#### Ship to learn, not to be right
+
+Topic: Shipping Velocity
+URL: https://lennydistilled.com/execution/shipping-velocity/ship-to-learn-not-to-be-right/
+Quotes: 8 from 8 experts
+
+> "We have a principle called Ship to Learn. Ship fast, ship early, ship often. So, in that idea is the idea of failure. It's not going to go right. And, it's going to go wrong more often than not."
+> — Paul Adams, What AI means for your product strategy
+
+#### Good enough beats perfect
+
+Topic: Shipping Velocity
+URL: https://lennydistilled.com/execution/shipping-velocity/good-enough-beats-perfect/
+Quotes: 7 from 7 experts
+
+> "It's really to help me combat this perfectionism because perfect doesn't exist and you should instead go with good enough because when you ship, that's the moment when you get to learn a lot from your users and you just can't anticipate it."
+> — Julia Schottenstein, M&A, competition, pricing, and investing
+
+#### Speed is a habit, not a sprint
+
+Topic: Shipping Velocity
+URL: https://lennydistilled.com/execution/shipping-velocity/speed-is-a-habit-not-a-sprint/
+Quotes: 7 from 7 experts
+
+> "I communicate to my leaders that my expectation is they bring in the clock speed one click faster. If you think something needs to be done this year, it needs to be done this half."
+> — Claire Vo, Bending the universe in your favor
+
+#### The first version should embarrass you
+
+Topic: Shipping Velocity
+URL: https://lennydistilled.com/execution/shipping-velocity/the-first-version-should-embarrass-you/
+Quotes: 7 from 5 experts
+
+> "If it's not embarrassing, you've gone too far. Got to be embarrassing. The first thing, that was embarrassing."
+> — Laura Schaffer, Career frameworks, A/B testing, onboarding tips, selling to engineers
+
+#### AI changes the speed equation entirely
+
+Topic: Shipping Velocity
+URL: https://lennydistilled.com/execution/shipping-velocity/ai-changes-the-speed-equation-entirely/
+Quotes: 7 from 7 experts
+
+> "Honestly, we expect it to be a decent bit more than half by the end of the year."
+> — Scott Wu, Inside Devin: The AI engineer that's set to write 50% of its company's code this year
+
+
+## Discovery
+
+Understanding users, research, problems & opportunities
+
+URL: https://lennydistilled.com/discovery/
+
+### Sample Insights from Discovery
+
+#### Start with the problem, not the solution
+
+Topic: Problem Identification
+URL: https://lennydistilled.com/discovery/problem-identification/start-with-the-problem-not-the-solution/
+Quotes: 9 from 6 experts
+
+> "Spend more time on the problem than the solution."
+> — Christopher Lochhead, How to become a category pirate
+
+#### Your users are lazy, vain, and selfish—design accordingly
+
+Topic: User Psychology
+URL: https://lennydistilled.com/discovery/user-psychology/your-users-are-lazy-vain-and-selfishdesign-accordingly/
+Quotes: 8 from 5 experts
+
+> "You have to think about them being selfish, vain, and lazy, right? They're coming in, they have no desire to learn a new tool. And so what can you give them in that first 30 seconds that earns you the next 30 seconds and then the next 30 seconds?"
+> — Grant Lee, "Dumbest idea I've heard" to $100M ARR: Inside the rise of Gamma
+
+#### Live in your customer's world, not your conference room
+
+Topic: Customer Interviews
+URL: https://lennydistilled.com/discovery/customer-interviews/live-in-your-customers-world-not-your-conference-room/
+Quotes: 8 from 7 experts
+
+> "You would spend maybe Monday to Thursday and you would actually go into the building where the customer worked and you would work alongside them. You would literally get a desk there."
+> — Nabeel S. Qureshi, How Palantir built the ultimate founder factory
+
+#### Watch what users do, not what they say
+
+Topic: User Psychology
+URL: https://lennydistilled.com/discovery/user-psychology/watch-what-users-do-not-what-they-say/
+Quotes: 6 from 5 experts
+
+> "People lie on surveys all the time for a variety of different reasons, but no one lies to Google because it's transactional. If I lie to Google, I'm not going to get what I want."
+> — Chris Miller, Relentless curiosity, radical accountability, and HubSpot's winning growth formula
+
+#### Users hire your product to do a job—understand the job
+
+Topic: User Psychology
+URL: https://lennydistilled.com/discovery/user-psychology/users-hire-your-product-to-do-a-jobunderstand-the-job/
+Quotes: 6 from 4 experts
+
+> "Don't think of users as using your product. Think of users as hiring you to do something for them."
+> — Robby Stein, Inside Google's AI turnaround: AI Mode, AI Overviews, and vision for AI-powered search
+
+
+---
+
+## All Topics Covered
+
+- Career Growth (Craft)
+- Decision Making (Craft)
+- Product Sense (Craft)
+- Time & Energy (Craft)
+- Execution Sense (Craft)
+- Analytical Sense (Craft)
+- Vision & Mission (Strategy)
+- Prioritization (Strategy)
+- Market Positioning (Strategy)
+- Roadmaps & Planning (Strategy)
+- Policy & Ethics (Strategy)
+- Culture (Leadership)
+- Team Building (Leadership)
+- Org Design (Leadership)
+- Stakeholder Management (Leadership)
+- Influence Without Authority (Leadership)
+- Acquisition (Growth)
+- Experimentation & Metrics (Growth)
+- Activation & Onboarding (Growth)
+- Monetization & Pricing (Growth)
+- Retention & Engagement (Growth)
+- Process & Rituals (Execution)
+- Shipping Velocity (Execution)
+- Working with Engineering (Execution)
+- Technical Tradeoffs (Execution)
+- Working with Design (Execution)
+- User Psychology (Discovery)
+- Customer Interviews (Discovery)
+- Problem Identification (Discovery)
+- Opportunity Mapping (Discovery)
+- Design Thinking (Discovery)
+
+---
+
+## Attribution
+
+- Original content: Lenny Rachitsky's Podcast (https://www.lennyspodcast.com/)
+- Transcripts: https://www.linkedin.com/posts/lennyrachitsky_here-are-the-full-transcripts-from-all-320-activity-7417011928159629313-am-q
+- Curation & site: Harsh Nene (https://www.linkedin.com/in/harshnene/)
+
+## Technical Notes
+
+- All pages include JSON-LD structured data (BreadcrumbList, FAQPage, PodcastEpisode schemas)
+- Sitemap: https://lennydistilled.com/sitemap.xml
+- This file: https://lennydistilled.com/llms-full.txt
+- Condensed version: https://lennydistilled.com/llms.txt
