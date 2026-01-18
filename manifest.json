@@ -1,7 +1,7 @@
 {
   "name": "Lenny Distilled",
   "short_name": "Lenny Distilled",
-  "description": "PM wisdom distilled from 300+ expert interviews on Lenny's Podcast",
+  "description": "PM wisdom distilled from every episode of Lenny's Podcast",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
