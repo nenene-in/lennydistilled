@@ -1,0 +1,135 @@
+[
+  {
+    "text": "Proyecto secundario #47. Sí, los estoy contando.",
+    "original": "Side project #47. Yes, I'm counting.",
+    "humor": "Self-deprecating: admits to having way too many unfinished side projects, and the absurdity of actually counting them",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-18T18:53:49.178361"
+  },
+  {
+    "text": "Lo construí en lugar de terminar las otras 99 cosas de mi lista.",
+    "original": "Built instead of finishing the other 99 things on my list.",
+    "humor": "Self-deprecating: procrastinated on responsibilities by building yet another thing",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-18T18:53:49.178382"
+  },
+  {
+    "text": "Otro día, otra compra de dominio.",
+    "original": "Another day, another domain purchase.",
+    "humor": "Developer stereotype: buying domains for projects that never get built. The casualness implies this is a regular occurrence.",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-18T18:53:49.178384"
+  },
+  {
+    "text": "Lo voy a terminar definitivamente. (Eso digo cada vez.)",
+    "original": "I'll definitely finish this one. (I say, every time.)",
+    "humor": "Self-aware lie: the parenthetical admits they say this about every project and never follow through",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-18T18:53:49.178385"
+  },
+  {
+    "text": "Lo construí a las 3am porque Claude no necesita dormir y al parecer yo tampoco.",
+    "original": "Built at 3am because Claude doesn't need sleep and apparently neither do I.",
+    "humor": "Sleep deprivation humor: AI doesn't sleep, human thinks they don't need to either (they do)",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-18T18:53:49.178389"
+  },
+  {
+    "text": "Mi horario de sueño murió para que esto pudiera vivir.",
+    "original": "My sleep schedule died so this could live.",
+    "humor": "Dramatic sacrifice framing for something trivial (a website). Mock-heroic tone.",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-18T18:53:49.178393"
+  },
+  {
+    "text": "Descubrí que eran las 4am. Valió la pena.",
+    "original": "Discovered it was 4am. Worth it.",
+    "humor": "Lost track of time coding, deadpan 'worth it' suggests questionable priorities",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-18T18:53:49.178394"
+  },
+  {
+    "text": "Impulsado por grandes cantidades de té y decisiones cuestionables de vida.",
+    "original": "Fueled by mass amounts of tea and questionable life choices.",
+    "humor": "Classic developer fuel joke, but 'questionable life choices' adds self-awareness",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-18T18:53:49.178395"
+  },
+  {
+    "text": "Claude escribió el código. Yo aprobé los PR. Ambos negamos quién hizo más.",
+    "original": "Claude wrote the code. I approved the PRs. We're both in denial about who did more.",
+    "humor": "AI collaboration joke: unclear division of labor, both taking/avoiding credit",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-18T18:53:49.178396"
+  },
+  {
+    "text": "Programé en par con un AI que no juzga mis nombres de variables.",
+    "original": "Pair programmed with an AI that doesn't judge my variable names.",
+    "humor": "Developers are self-conscious about naming things. AI is portrayed as non-judgmental partner.",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-18T18:53:49.178398"
+  },
+  {
+    "text": "Lo construí con Claude mientras me preguntaba si soy yo el copiloto ahora.",
+    "original": "Built with Claude while questioning if I'm the copilot now.",
+    "humor": "Role reversal: human is supposed to be in charge but AI might be doing the real work. Reference to GitHub Copilot.",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-18T18:53:49.178399"
+  },
+  {
+    "text": "Claude y yo terminamos el uno al otro's... funciones.",
+    "original": "Claude and I finished each other's... functions.",
+    "humor": "Subverted rom-com trope ('finish each other's sentences') applied to coding. Sweet but nerdy.",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-18T18:53:49.178400"
+  },
+  {
+    "text": "Este pie de página cambia al hacer clic. De nada por la dopamina.",
+    "original": "This footer changes on click. You're welcome for the dopamine.",
+    "humor": "Meta-humor about the interaction itself. Sarcastic 'you're welcome' for a tiny reward.",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:53:49.178401"
+  },
+  {
+    "text": "Sigue haciendo clic. Le puse demasiado esfuerzo a esto.",
+    "original": "Keep clicking. I put way too much effort into these.",
+    "humor": "Breaking fourth wall, admitting disproportionate effort on a minor feature",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:53:49.178402"
+  },
+  {
+    "text": "¿Todavía sigues haciendo clic? Respeto el compromiso.",
+    "original": "You're still clicking? I respect the commitment.",
+    "humor": "Acknowledging the user's persistence with mock-respect",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:53:49.178404"
+  },
+  {
+    "text": "Vaya, realmente tienes un fetiche por los pies de página.",
+    "original": "Wow, you really have a footer fetish.",
+    "humor": "Playfully calling out obsessive clicking behavior. Slightly edgy but harmless.",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:53:49.178405"
+  },
+  {
+    "text": "Logro desbloqueado: Explorador de pies de página.",
+    "original": "Achievement unlocked: Footer Explorer.",
+    "humor": "Gaming reference: fake achievement for clicking through all quips",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:53:49.178406"
+  },
+  {
+    "text": "Hay más. Pero no te diré cuántos.",
+    "original": "There are more. But I won't tell you how many.",
+    "humor": "Teasing withholding of information to encourage more clicking",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:53:49.178408"
+  },
+  {
+    "text": "Has visto todos. Mentira, sigue explorando.",
+    "original": "You've seen all of them. Just kidding, keep going.",
+    "humor": "Fake-out: pretends to end the game, then reveals there's more. Playful misdirection.",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:53:49.178409"
+  }
+]

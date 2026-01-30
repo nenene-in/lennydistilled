@@ -1,0 +1,2747 @@
+{
+  "data-informs-but-doesnt-decide": {
+    "text": "数据可以为决策提供参考,但不应作为决定性因素",
+    "original": "Data informs but doesn't decide",
+    "translated_at": "2026-01-19T09:27:19.031005"
+  },
+  "your-inner-critic-is-always-wrong": {
+    "text": "你内心的批评声音总是错误的",
+    "original": "Your inner critic is always wrong",
+    "translated_at": "2026-01-19T09:27:19.031013"
+  },
+  "all-decisions-are-emotional-not-logical": {
+    "text": "所有决策都是情感驱动的,而非逻辑分析",
+    "original": "All decisions are emotional, not logical",
+    "translated_at": "2026-01-19T09:27:19.031014"
+  },
+  "speed-beats-perfection-for-reversible-decisions": {
+    "text": "对可逆转的决策而言,速度比完美重要",
+    "original": "Speed beats perfection for reversible decisions",
+    "translated_at": "2026-01-19T09:27:19.031015"
+  },
+  "frameworks-are-tools-not-gospel": {
+    "text": "框架仅是工具,而非教条",
+    "original": "Frameworks are tools, not gospel",
+    "translated_at": "2026-01-19T09:27:19.031017"
+  },
+  "action-mistakes-beat-inaction-regrets": {
+    "text": "行动失误要好过犹豫不决的遗憾",
+    "original": "Action mistakes beat inaction regrets",
+    "translated_at": "2026-01-19T09:27:19.031018"
+  },
+  "your-problem-isnt-unique-learn-from-others": {
+    "text": "你遇到的问题并非独一无二,向他人学习",
+    "original": "Your problem isn't unique - learn from others",
+    "translated_at": "2026-01-19T09:27:19.031019"
+  },
+  "understanding-beats-solutioning": {
+    "text": "理解比求解方案更重要",
+    "original": "Understanding beats solutioning",
+    "translated_at": "2026-01-19T09:27:19.031020"
+  },
+  "write-to-think-dont-think-to-write": {
+    "text": "写作可以帮助思考,但不应过度思考再写作",
+    "original": "Write to think, don't think to write",
+    "translated_at": "2026-01-19T09:27:19.031021"
+  },
+  "hard-choices-now-prevent-harder-problems-later": {
+    "text": "现在做出艰难选择,可避免将来更大困难",
+    "original": "Hard choices now prevent harder problems later",
+    "translated_at": "2026-01-19T09:27:19.031022"
+  },
+  "conviction-requires-clarity-and-focus": {
+    "text": "确信需要明确和专注",
+    "original": "Conviction requires clarity and focus",
+    "translated_at": "2026-01-19T09:27:19.031024"
+  },
+  "ask-better-questions-to-get-better-answers": {
+    "text": "提出更好的问题,才能得到更好的答案",
+    "original": "Ask better questions to get better answers",
+    "translated_at": "2026-01-19T09:27:19.031025"
+  },
+  "perfect-is-the-enemy-of-good-enough": {
+    "text": "完美是好的敌人",
+    "original": "Perfect is the enemy of good enough",
+    "translated_at": "2026-01-19T09:27:19.031026"
+  },
+  "beginners-mind-beats-experts-mind": {
+    "text": "保持初学者心态比专家心态更有价值",
+    "original": "Beginner's mind beats expert's mind",
+    "translated_at": "2026-01-19T09:27:19.031038"
+  },
+  "failure-without-learning-is-the-real-failure": {
+    "text": "没有学习的失败才是真正的失败",
+    "original": "Failure without learning is the real failure",
+    "translated_at": "2026-01-19T09:27:19.031044"
+  },
+  "success-comes-from-deciding-not-deliberating": {
+    "text": "决策而非犹豫决定成功",
+    "original": "Success comes from deciding, not deliberating",
+    "translated_at": "2026-01-19T09:27:19.031045"
+  },
+  "context-determines-right-vs-wrong-approaches": {
+    "text": "正确与错误取决于具体情境",
+    "original": "Context determines right vs wrong approaches",
+    "translated_at": "2026-01-19T09:27:19.031047"
+  },
+  "most-decisions-dont-matter-as-much-as-you-think": {
+    "text": "大多数决策并非如你所想的那样重要",
+    "original": "Most decisions don't matter as much as you think",
+    "translated_at": "2026-01-19T09:27:19.031048"
+  },
+  "quitting-late-is-worse-than-quitting-early": {
+    "text": "延迟放弃比及时放弃更糟",
+    "original": "Quitting late is worse than quitting early",
+    "translated_at": "2026-01-19T09:27:19.031049"
+  },
+  "dont-trust-your-first-answer-dig-deeper": {
+    "text": "不要相信你的第一个答案,需要更深入探究",
+    "original": "Don't trust your first answer - dig deeper",
+    "translated_at": "2026-01-19T09:27:19.031050"
+  },
+  "taste-beats-process-when-ai-can-do-the-rest": {
+    "text": "当 AI 可以处理其他部分时,品味胜过流程",
+    "original": "Taste beats process when AI can do the rest",
+    "translated_at": "2026-01-19T09:28:47.981480"
+  },
+  "storytelling-as-synthesis-is-the-pm-superpower": {
+    "text": "讲述是产品经理的超能力",
+    "original": "Storytelling as synthesis is the PM superpower",
+    "translated_at": "2026-01-19T09:28:47.981486"
+  },
+  "your-superpowers-feel-obvious-to-you-remarkable-to-others": {
+    "text": "你感觉理所当然的优势,对他人来说是非凡的",
+    "original": "Your superpowers feel obvious to you, remarkable to others",
+    "translated_at": "2026-01-19T09:28:47.981487"
+  },
+  "relentless-curiosity-trumps-knowing-all-the-answers": {
+    "text": "永不满足的好奇心比拥有所有答案更重要",
+    "original": "Relentless curiosity trumps knowing all the answers",
+    "translated_at": "2026-01-19T09:28:47.981488"
+  },
+  "product-sense-is-compressed-experience-not-innate-talent": {
+    "text": "产品直觉是压缩的经验,而非天赋",
+    "original": "Product sense is compressed experience, not innate talent",
+    "translated_at": "2026-01-19T09:28:47.981489"
+  },
+  "turn-ambiguity-into-clarity-thats-the-job": {
+    "text": "将模糊转化为清晰,这就是工作",
+    "original": "Turn ambiguity into clarity - that's the job",
+    "translated_at": "2026-01-19T09:28:47.981489"
+  },
+  "communication-is-the-work-not-a-side-activity": {
+    "text": "沟通就是工作,而不是附带活动",
+    "original": "Communication is the work, not a side activity",
+    "translated_at": "2026-01-19T09:28:47.981490"
+  },
+  "great-products-require-perpetual-dissatisfaction": {
+    "text": "伟大的产品需要持续的不满足",
+    "original": "Great products require perpetual dissatisfaction",
+    "translated_at": "2026-01-19T09:28:47.981491"
+  },
+  "ai-changes-the-game-taste-and-judgment-matter-more-than-exec": {
+    "text": "AI改变游戏规则:品位和判断力比执行更重要",
+    "original": "AI changes the game: taste and judgment matter more than execution",
+    "translated_at": "2026-01-19T09:28:47.981492"
+  },
+  "product-managers-creators-or-facilitators": {
+    "text": "产品经理:创造者还是促进者?",
+    "original": "Product managers: creators or facilitators?",
+    "translated_at": "2026-01-19T09:28:47.981492"
+  },
+  "learn-by-doing-frameworks-help-but-practice-decides": {
+    "text": "通过实践学习:框架有帮助,但实践决定一切",
+    "original": "Learn by doing: frameworks help but practice decides",
+    "translated_at": "2026-01-19T09:28:47.981493"
+  },
+  "simplicity-is-the-ultimate-sophistication": {
+    "text": "简单是至高无上的复杂",
+    "original": "Simplicity is the ultimate sophistication",
+    "translated_at": "2026-01-19T09:28:47.981494"
+  },
+  "build-for-delight-not-just-function": {
+    "text": "为了愉悦而不只是为了功能来构建",
+    "original": "Build for delight, not just function",
+    "translated_at": "2026-01-19T09:28:47.981495"
+  },
+  "selling-is-problem-solving-not-convincing": {
+    "text": "销售就是解决问题,而不是说服",
+    "original": "Selling is problem-solving, not convincing",
+    "translated_at": "2026-01-19T09:28:47.981495"
+  },
+  "play-with-ai-to-understand-it-dont-just-read-about-it": {
+    "text": "与 AI 互动以理解它,而不只是阅读关于它的内容",
+    "original": "Play with AI to understand it, don't just read about it",
+    "translated_at": "2026-01-19T09:28:47.981496"
+  },
+  "context-is-everything-in-ai-communication": {
+    "text": "在 AI 沟通中,环境是一切",
+    "original": "Context is everything in AI communication",
+    "translated_at": "2026-01-19T09:28:47.981497"
+  },
+  "work-backwards-from-capability-not-forward-from-frameworks": {
+    "text": "从能力出发,而不是从框架出发",
+    "original": "Work backwards from capability, not forward from frameworks",
+    "translated_at": "2026-01-19T09:28:47.981498"
+  },
+  "innovation-happens-at-the-intersection-of-existing-ideas": {
+    "text": "创新发生在现有思想的交叉点",
+    "original": "Innovation happens at the intersection of existing ideas",
+    "translated_at": "2026-01-19T09:28:47.981499"
+  },
+  "viability-beats-feasibility-in-the-ai-era": {
+    "text": "在 AI 时代,可行性不如可行性重要",
+    "original": "Viability beats feasibility in the AI era",
+    "translated_at": "2026-01-19T09:28:47.981499"
+  },
+  "error-analysis-is-where-the-magic-happens": {
+    "text": "错误分析是魔法发生的地方",
+    "original": "Error analysis is where the magic happens",
+    "translated_at": "2026-01-19T09:28:47.981500"
+  },
+  "work-where-your-energy-naturally-flows": {
+    "text": "集中在自身自然流动的能量上工作",
+    "original": "Work where your energy naturally flows",
+    "translated_at": "2026-01-19T09:30:16.311335"
+  },
+  "focus-on-what-matters-most-and-ignore-the-rest": {
+    "text": "专注于最重要的事情,忽略其余的",
+    "original": "Focus on what matters most and ignore the rest",
+    "translated_at": "2026-01-19T09:30:16.311342"
+  },
+  "your-calendar-reveals-your-true-priorities": {
+    "text": "你的日程表揭示了你真正的优先事项",
+    "original": "Your calendar reveals your true priorities",
+    "translated_at": "2026-01-19T09:30:16.311343"
+  },
+  "burnout-whispers-before-it-screams": {
+    "text": "倦怠感会先发出警示,然后变得严重",
+    "original": "Burnout whispers before it screams",
+    "translated_at": "2026-01-19T09:30:16.311345"
+  },
+  "deep-work-requires-protected-time-not-stolen-moments": {
+    "text": "深入工作需要被保护的时间,而不是偷来的时刻",
+    "original": "Deep work requires protected time, not stolen moments",
+    "translated_at": "2026-01-19T09:30:16.311346"
+  },
+  "work-life-balance-is-about-seasons-not-daily-perfection": {
+    "text": "工作生活平衡是关于季节,而不是每天的完美",
+    "original": "Work-life balance is about seasons, not daily perfection",
+    "translated_at": "2026-01-19T09:30:16.311347"
+  },
+  "meetings-multiply-until-they-consume-all-available-time": {
+    "text": "会议会不断增加,直到占据所有可用时间",
+    "original": "Meetings multiply until they consume all available time",
+    "translated_at": "2026-01-19T09:30:16.311348"
+  },
+  "rules-beat-willpower-every-time": {
+    "text": "规则击败意志力",
+    "original": "Rules beat willpower every time",
+    "translated_at": "2026-01-19T09:30:16.311350"
+  },
+  "most-urgent-things-arent-important": {
+    "text": "最紧迫的事情并不一定重要",
+    "original": "Most urgent things aren't important",
+    "translated_at": "2026-01-19T09:30:16.311351"
+  },
+  "detachment-from-outcomes-improves-performance": {
+    "text": "与结果保持疏离有助于提高绩效",
+    "original": "Detachment from outcomes improves performance",
+    "translated_at": "2026-01-19T09:30:16.311352"
+  },
+  "time-off-is-productive-not-lazy": {
+    "text": "休息时间是生产性的,而不是懒惰的",
+    "original": "Time off is productive, not lazy",
+    "translated_at": "2026-01-19T09:30:16.311353"
+  },
+  "physical-health-unlocks-mental-performance": {
+    "text": "身体健康解锁了心理表现",
+    "original": "Physical health unlocks mental performance",
+    "translated_at": "2026-01-19T09:30:16.311354"
+  },
+  "excellence-means-knowing-when-good-enough-is-perfect": {
+    "text": "卓越意味着知道什么时候足够好就是完美的",
+    "original": "Excellence means knowing when good enough is perfect",
+    "translated_at": "2026-01-19T09:30:16.311356"
+  },
+  "everything-changes-so-appreciate-what-you-have-now": {
+    "text": "一切都在变化,所以要珍惜当下",
+    "original": "Everything changes, so appreciate what you have now",
+    "translated_at": "2026-01-19T09:30:16.311357"
+  },
+  "saying-yes-to-one-thing-means-saying-no-to-another": {
+    "text": "说是于一件事就意味着要说否于另一件事",
+    "original": "Saying yes to one thing means saying no to another",
+    "translated_at": "2026-01-19T09:30:16.311358"
+  },
+  "sustainability-beats-intensity-over-time": {
+    "text": "可持续性胜过短期的强度",
+    "original": "Sustainability beats intensity over time",
+    "translated_at": "2026-01-19T09:30:16.311359"
+  },
+  "ai-dramatically-shifts-productivity-baselines": {
+    "text": "人工智能大幅提升了生产力基线",
+    "original": "AI dramatically shifts productivity baselines",
+    "translated_at": "2026-01-19T09:30:16.311360"
+  },
+  "do-the-work-no-one-else-will": {
+    "text": "做那些其他人不愿意做的工作",
+    "original": "Do the work no one else will",
+    "translated_at": "2026-01-19T09:31:33.409670"
+  },
+  "ship-fast-learn-faster": {
+    "text": "快速发布,学习得更快",
+    "original": "Ship fast, learn faster",
+    "translated_at": "2026-01-19T09:31:33.409680"
+  },
+  "resourcefulness-beats-resources": {
+    "text": "善用现有资源胜过拥有大量资源",
+    "original": "Resourcefulness beats resources",
+    "translated_at": "2026-01-19T09:31:33.409682"
+  },
+  "the-last-5-is-everything": {
+    "text": "最后 5% 至关重要",
+    "original": "The last 5% is everything",
+    "translated_at": "2026-01-19T09:31:33.409683"
+  },
+  "start-with-action-not-planning": {
+    "text": "从行动开始,而非仅做规划",
+    "original": "Start with action, not planning",
+    "translated_at": "2026-01-19T09:31:33.409684"
+  },
+  "accountability-creates-achievement": {
+    "text": "责任感催生成就感",
+    "original": "Accountability creates achievement",
+    "translated_at": "2026-01-19T09:31:33.409685"
+  },
+  "follow-through-separates-great-from-good": {
+    "text": "落实跟上说法,这才是优秀的关键",
+    "original": "Follow-through separates great from good",
+    "translated_at": "2026-01-19T09:31:33.409686"
+  },
+  "body-drives-mind-not-vice-versa": {
+    "text": "身体引导心智,而非相反",
+    "original": "Body drives mind, not vice versa",
+    "translated_at": "2026-01-19T09:31:33.409688"
+  },
+  "practice-beats-preparation": {
+    "text": "练习胜过准备",
+    "original": "Practice beats preparation",
+    "translated_at": "2026-01-19T09:31:33.409689"
+  },
+  "ai-works-best-when-treated-like-humans": {
+    "text": "将人工智能视为人类,效果最佳",
+    "original": "AI works best when treated like humans",
+    "translated_at": "2026-01-19T09:31:33.409691"
+  },
+  "iteration-beats-perfection": {
+    "text": "反复迭代胜过追求完美",
+    "original": "Iteration beats perfection",
+    "translated_at": "2026-01-19T09:31:33.409692"
+  },
+  "focus-on-energy-words-will-follow": {
+    "text": "专注于激情,言语会随之而来",
+    "original": "Focus on energy, words will follow",
+    "translated_at": "2026-01-19T09:31:33.409693"
+  },
+  "excellence-demands-obsessive-depth": {
+    "text": "追求卓越需要执著的专注深度",
+    "original": "Excellence demands obsessive depth",
+    "translated_at": "2026-01-19T09:31:33.409695"
+  },
+  "constraints-create-productivity": {
+    "text": "限制催生生产力",
+    "original": "Constraints create productivity",
+    "translated_at": "2026-01-19T09:31:33.409696"
+  },
+  "great-products-speak-for-themselves": {
+    "text": "优秀的产品自有其言说",
+    "original": "Great products speak for themselves",
+    "translated_at": "2026-01-19T09:31:33.409697"
+  },
+  "efficiency-is-maximum-output-from-minimum-input": {
+    "text": "效率是以最少投入获得最大产出",
+    "original": "Efficiency is maximum output from minimum input",
+    "translated_at": "2026-01-19T09:31:33.409699"
+  },
+  "preparation-unlocks-spontaneity": {
+    "text": "充分准备解锁自发性",
+    "original": "Preparation unlocks spontaneity",
+    "translated_at": "2026-01-19T09:31:33.409700"
+  },
+  "clarity-beats-cleverness": {
+    "text": "清晰胜过聪明",
+    "original": "Clarity beats cleverness",
+    "translated_at": "2026-01-19T09:31:33.409701"
+  },
+  "data-tells-you-what-not-why": {
+    "text": "数据告诉你什么,不告诉你为什么",
+    "original": "Data tells you what, not why",
+    "translated_at": "2026-01-19T09:32:49.570771"
+  },
+  "the-best-experiments-surprise-you": {
+    "text": "最好的实验会让你意外",
+    "original": "The best experiments surprise you",
+    "translated_at": "2026-01-19T09:32:49.570780"
+  },
+  "systems-thinking-reveals-hidden-leverage": {
+    "text": "系统思维揭示隐藏的杠杆点",
+    "original": "Systems thinking reveals hidden leverage",
+    "translated_at": "2026-01-19T09:32:49.570781"
+  },
+  "count-first-complicate-later": {
+    "text": "先统计基础数据,再逐步完善",
+    "original": "Count first, complicate later",
+    "translated_at": "2026-01-19T09:32:49.570782"
+  },
+  "curiosity-beats-credentials": {
+    "text": "好奇心胜于资历",
+    "original": "Curiosity beats credentials",
+    "translated_at": "2026-01-19T09:32:49.570784"
+  },
+  "clear-thinking-shows-up-in-clear-writing": {
+    "text": "清晰的思维会反映在清晰的写作中",
+    "original": "Clear thinking shows up in clear writing",
+    "translated_at": "2026-01-19T09:32:49.570785"
+  },
+  "reality-trumps-your-model-every-time": {
+    "text": "现实永远胜过你的模型",
+    "original": "Reality trumps your model every time",
+    "translated_at": "2026-01-19T09:32:49.570786"
+  },
+  "ai-amplifies-judgment-doesnt-replace-it": {
+    "text": "AI放大判断力,但不能取代它",
+    "original": "AI amplifies judgment, doesn't replace it",
+    "translated_at": "2026-01-19T09:32:49.570787"
+  },
+  "ask-for-reactions-not-opinions": {
+    "text": "寻求反馈,而不是单纯的意见",
+    "original": "Ask for reactions, not opinions",
+    "translated_at": "2026-01-19T09:32:49.570788"
+  },
+  "ai-is-reshaping-everything-adapt-urgently-or-become-obsolete": {
+    "text": "人工智能正在重塑一切 - 紧急适应或将失去生存空间",
+    "original": "AI is reshaping everything - adapt urgently or become obsolete",
+    "translated_at": "2026-01-19T09:33:24.566807"
+  },
+  "strategy-is-solving-specific-problems-not-setting-ambitious": {
+    "text": "战略是解决具体问题,而不是设定宏大目标",
+    "original": "Strategy is solving specific problems, not setting ambitious goals",
+    "translated_at": "2026-01-19T09:33:24.566822"
+  },
+  "build-for-10x-transformation-not-incremental-improvement": {
+    "text": "着眼于10倍转变,而非渐进性改善",
+    "original": "Build for 10x transformation, not incremental improvement",
+    "translated_at": "2026-01-19T09:33:24.566827"
+  },
+  "vision-must-be-tangible-and-visual-not-abstract-words": {
+    "text": "愿景必须具体可视,而非抽象词语",
+    "original": "Vision must be tangible and visual, not abstract words",
+    "translated_at": "2026-01-19T09:33:24.566830"
+  },
+  "start-with-vision-and-conviction-not-customer-validation": {
+    "text": "从愿景和坚定信念开始,而非客户验证",
+    "original": "Start with vision and conviction, not customer validation",
+    "translated_at": "2026-01-19T09:33:24.566832"
+  },
+  "build-now-for-the-ai-capabilities-of-tomorrow": {
+    "text": "现在就为明天的人工智能能力做准备",
+    "original": "Build now for the AI capabilities of tomorrow",
+    "translated_at": "2026-01-19T09:33:24.566834"
+  },
+  "focus-on-customer-value-creation-not-internal-metrics": {
+    "text": "关注客户价值创造,而非内部指标",
+    "original": "Focus on customer value creation, not internal metrics",
+    "translated_at": "2026-01-19T09:33:24.566836"
+  },
+  "opinionated-products-beat-flexible-ones": {
+    "text": "强力的产品胜过灵活的产品",
+    "original": "Opinionated products beat flexible ones",
+    "translated_at": "2026-01-19T09:33:24.566839"
+  },
+  "the-job-evolves-but-the-why-remains-constant": {
+    "text": "工作在变革,但初衷永恒不变",
+    "original": "The job evolves but the why remains constant",
+    "translated_at": "2026-01-19T09:33:24.566841"
+  },
+  "systems-thinking-beats-linear-execution": {
+    "text": "系统思维胜过线性执行",
+    "original": "Systems thinking beats linear execution",
+    "translated_at": "2026-01-19T09:33:24.566842"
+  },
+  "platform-thinking-unlocks-exponential-growth": {
+    "text": "平台思维解锁指数级增长",
+    "original": "Platform thinking unlocks exponential growth",
+    "translated_at": "2026-01-19T09:33:24.566844"
+  },
+  "disruptive-ideas-look-like-toys-until-they-transform-everyth": {
+    "text": "突破性创意初看似玩具,最终却转变一切",
+    "original": "Disruptive ideas look like toys until they transform everything",
+    "translated_at": "2026-01-19T09:33:24.566846"
+  },
+  "small-can-be-the-goal-not-just-a-phase": {
+    "text": "小规模可以成为目标,而不仅仅是过渡阶段",
+    "original": "Small can be the goal, not just a phase",
+    "translated_at": "2026-01-19T09:33:24.566848"
+  },
+  "define-the-game-dont-play-theirs": {
+    "text": "定义游戏规则,不要受制于他人",
+    "original": "Define the game, don't play theirs",
+    "translated_at": "2026-01-19T09:37:24.190970"
+  },
+  "category-creation-requires-ecosystem-validation": {
+    "text": "创立新品类需要生态系统验证",
+    "original": "Category creation requires ecosystem validation",
+    "translated_at": "2026-01-19T09:37:24.190984"
+  },
+  "win-through-segmentation-before-scale": {
+    "text": "先通过细分市场占领市场,再进行规模化扩张",
+    "original": "Win through segmentation before scale",
+    "translated_at": "2026-01-19T09:37:24.190987"
+  },
+  "ai-changes-everything-about-moats": {
+    "text": "人工智能改变了行业护城河的本质",
+    "original": "AI changes everything about moats",
+    "translated_at": "2026-01-19T09:37:24.190990"
+  },
+  "build-on-your-unique-strengths-not-competitors": {
+    "text": "发挥自身独特的优势,而不是盲目追随竞争对手",
+    "original": "Build on your unique strengths, not competitors'",
+    "translated_at": "2026-01-19T09:37:24.190992"
+  },
+  "markets-have-unique-cultural-rules": {
+    "text": "每个市场都有自己独特的文化规则",
+    "original": "Markets have unique cultural rules",
+    "translated_at": "2026-01-19T09:37:24.190994"
+  },
+  "brand-is-how-people-feel-not-what-you-say": {
+    "text": "品牌是人们的感受,而不仅仅是你所说的话",
+    "original": "Brand is how people feel, not what you say",
+    "translated_at": "2026-01-19T09:37:24.190996"
+  },
+  "differentiation-requires-being-different-and-better": {
+    "text": "差异化需要既有差异性又有优势",
+    "original": "Differentiation requires being different AND better",
+    "translated_at": "2026-01-19T09:37:24.190998"
+  },
+  "competition-validates-markets-and-sharpens-execution": {
+    "text": "竞争验证市场并提升执行力",
+    "original": "Competition validates markets and sharpens execution",
+    "translated_at": "2026-01-19T09:37:24.191000"
+  },
+  "product-led-growth-still-needs-sales": {
+    "text": "产品引领式增长仍需销售支撑",
+    "original": "Product-led growth still needs sales",
+    "translated_at": "2026-01-19T09:37:24.191003"
+  },
+  "be-someones-favorite-not-everyones-second-choice": {
+    "text": "成为某些人的最爱,而不是众人的第二选择",
+    "original": "Be someone's favorite, not everyone's second choice",
+    "translated_at": "2026-01-19T09:37:24.191004"
+  },
+  "language-shapes-market-perception": {
+    "text": "语言塑造市场感知",
+    "original": "Language shapes market perception",
+    "translated_at": "2026-01-19T09:37:24.191006"
+  },
+  "focus-on-strategy-not-tactics": {
+    "text": "关注策略,而不是战术",
+    "original": "Focus on strategy, not tactics",
+    "translated_at": "2026-01-19T09:37:24.191008"
+  },
+  "ai-democratizes-what-only-the-rich-could-afford": {
+    "text": "人工智能民主化了之前只有富人才能使用的东西",
+    "original": "AI democratizes what only the rich could afford",
+    "translated_at": "2026-01-19T09:37:24.191011"
+  },
+  "great-names-evoke-without-explaining": {
+    "text": "优秀的品牌名称唤起情感,而不是过度解释",
+    "original": "Great names evoke without explaining",
+    "translated_at": "2026-01-19T09:37:24.191012"
+  },
+  "marketplaces-need-supply-before-demand": {
+    "text": "市场需求要先有充足的供给",
+    "original": "Marketplaces need supply before demand",
+    "translated_at": "2026-01-19T09:37:24.191014"
+  },
+  "ai-startups-need-workflow-integration-and-data-flywheels": {
+    "text": "人工智能创业公司需要工作流整合和数据飞轮",
+    "original": "AI startups need workflow integration and data flywheels",
+    "translated_at": "2026-01-19T09:37:24.191017"
+  },
+  "positioning-shapes-everything-downstream": {
+    "text": "定位塑造了后续的一切",
+    "original": "Positioning shapes everything downstream",
+    "translated_at": "2026-01-19T09:37:24.191019"
+  },
+  "movement-creation-beats-problem-solving": {
+    "text": "创造潮流比解决问题更重要",
+    "original": "Movement creation beats problem-solving",
+    "translated_at": "2026-01-19T09:37:24.191021"
+  },
+  "distribution-trumps-product-quality": {
+    "text": "分销胜过产品质量",
+    "original": "Distribution trumps product quality",
+    "translated_at": "2026-01-19T09:37:24.191022"
+  },
+  "category-size-limits-company-potential": {
+    "text": "品类规模限制了公司的发展潜力",
+    "original": "Category size limits company potential",
+    "translated_at": "2026-01-19T09:37:24.191025"
+  },
+  "simplicity-beats-feature-competition": {
+    "text": "简单性胜过功能竞争",
+    "original": "Simplicity beats feature competition",
+    "translated_at": "2026-01-19T09:37:24.191027"
+  },
+  "controversial-features-signal-revolutionary-change": {
+    "text": "具有争议性的功能意味着革命性的变革",
+    "original": "Controversial features signal revolutionary change",
+    "translated_at": "2026-01-19T09:37:24.191028"
+  },
+  "payment-validates-product-market-fit": {
+    "text": "付费验证了产品市场契合度",
+    "original": "Payment validates product-market fit",
+    "translated_at": "2026-01-19T09:37:24.191030"
+  },
+  "okrs-amplify-good-culture-expose-bad-culture": {
+    "text": "OKR 可以放大好的企业文化,也暴露出差劲的企业文化",
+    "original": "OKRs amplify good culture, expose bad culture",
+    "translated_at": "2026-01-19T09:39:19.593976"
+  },
+  "strategy-isnt-roadmaps-its-coherent-action": {
+    "text": "战略不是路线图,而是一致的行动",
+    "original": "Strategy isn't roadmaps, it's coherent action",
+    "translated_at": "2026-01-19T09:39:19.593986"
+  },
+  "ai-demands-empirical-learning-over-analytical-planning": {
+    "text": "AI 需要依赖经验学习,而不是分析性规划",
+    "original": "AI demands empirical learning over analytical planning",
+    "translated_at": "2026-01-19T09:39:19.593988"
+  },
+  "embrace-uncertainty-avoid-false-precision": {
+    "text": "接纳不确定性,避免虚假的精确性",
+    "original": "Embrace uncertainty, avoid false precision",
+    "translated_at": "2026-01-19T09:39:19.593990"
+  },
+  "plans-are-useless-planning-is-essential": {
+    "text": "计划没用,但计划却很重要",
+    "original": "Plans are useless, planning is essential",
+    "translated_at": "2026-01-19T09:39:19.593991"
+  },
+  "crisis-demands-throwing-out-the-playbook": {
+    "text": "危机要求抛弃既有的做事方式",
+    "original": "Crisis demands throwing out the playbook",
+    "translated_at": "2026-01-19T09:39:19.593992"
+  },
+  "timeline-roadmaps-create-false-commitments": {
+    "text": "时间线路线图造成虚假的承诺",
+    "original": "Timeline roadmaps create false commitments",
+    "translated_at": "2026-01-19T09:39:19.593993"
+  },
+  "growth-requires-constant-reinvention-every-18-months": {
+    "text": "增长需要每18个月彻底改变自己",
+    "original": "Growth requires constant reinvention every 18 months",
+    "translated_at": "2026-01-19T09:39:19.593999"
+  },
+  "metrics-vs-roadmaps-pick-your-religion": {
+    "text": "度量指标与路线图:选择你的信仰",
+    "original": "Metrics vs. roadmaps: Pick your religion",
+    "translated_at": "2026-01-19T09:39:19.594001"
+  },
+  "stage-gates-validate-progress-not-just-ideas": {
+    "text": "阶段门控验证进度,而不仅仅是想法",
+    "original": "Stage gates validate progress, not just ideas",
+    "translated_at": "2026-01-19T09:39:19.594002"
+  },
+  "everything-new-starts-as-10-of-your-time": {
+    "text": "任何新事物都从占你10%的时间开始",
+    "original": "Everything new starts as 10% of your time",
+    "translated_at": "2026-01-19T09:39:19.594003"
+  },
+  "empowered-teams-own-outcomes-feature-teams-just-ship": {
+    "text": "赋权团队负责结果,特性团队只负责交付",
+    "original": "Empowered teams own outcomes, feature teams just ship",
+    "translated_at": "2026-01-19T09:39:19.594004"
+  },
+  "pivot-toward-expertise-not-away-from-pain": {
+    "text": "向专业知识转变,而不是远离痛点",
+    "original": "Pivot toward expertise, not away from pain",
+    "translated_at": "2026-01-19T09:39:19.594005"
+  },
+  "keep-your-secret-roadmap-actually-secret": {
+    "text": "真正保守您的秘密路线图",
+    "original": "Keep your secret roadmap actually secret",
+    "translated_at": "2026-01-19T09:39:19.594006"
+  },
+  "show-dont-tell-your-product-vision": {
+    "text": "用展示而不是讲述来表达产品愿景",
+    "original": "Show don't tell your product vision",
+    "translated_at": "2026-01-19T09:39:19.594007"
+  },
+  "goals-need-process-not-just-declaration": {
+    "text": "目标需要过程,而不仅仅是宣言",
+    "original": "Goals need process, not just declaration",
+    "translated_at": "2026-01-19T09:39:19.594009"
+  },
+  "products-are-becoming-living-systems-not-static-artifacts": {
+    "text": "产品正在变成活的系统,而不是静态制品",
+    "original": "Products are becoming living systems, not static artifacts",
+    "translated_at": "2026-01-19T09:39:19.594010"
+  },
+  "conservative-promises-build-trust-worth-more-than-dilution": {
+    "text": "保守的承诺建立值得更多稀释的信任",
+    "original": "Conservative promises build trust worth more than dilution",
+    "translated_at": "2026-01-19T09:39:19.594011"
+  },
+  "humans-are-more-alike-than-we-think": {
+    "text": "人类比我们想象的更相似",
+    "original": "Humans are more alike than we think",
+    "translated_at": "2026-01-19T09:39:19.594012"
+  },
+  "build-platforms-that-make-features-one-hour-builds": {
+    "text": "建立可以让功能一小时内上线的平台",
+    "original": "Build platforms that make features one-hour builds",
+    "translated_at": "2026-01-19T09:39:19.594013"
+  },
+  "transparency-is-your-strongest-shield": {
+    "text": "透明度是你最强大的防护盾",
+    "original": "Transparency is your strongest shield",
+    "translated_at": "2026-01-19T09:40:45.493964"
+  },
+  "ai-security-is-a-moving-target-not-a-solvable-problem": {
+    "text": "AI安全是一个不断变化的目标,而非可解决的问题",
+    "original": "AI security is a moving target, not a solvable problem",
+    "translated_at": "2026-01-19T09:40:45.493976"
+  },
+  "regulated-industries-demand-mastery-of-details": {
+    "text": "受监管行业需要精通细节",
+    "original": "Regulated industries demand mastery of details",
+    "translated_at": "2026-01-19T09:40:45.493978"
+  },
+  "open-source-is-freedom-in-the-digital-age": {
+    "text": "开源软件是数字时代的自由",
+    "original": "Open source is freedom in the digital age",
+    "translated_at": "2026-01-19T09:40:45.493980"
+  },
+  "your-mission-matters-more-than-your-margins": {
+    "text": "你的使命比利润更重要",
+    "original": "Your mission matters more than your margins",
+    "translated_at": "2026-01-19T09:40:45.493981"
+  },
+  "silicon-valleys-never-quit-gospel-serves-vcs-not-founders": {
+    "text": "硅谷'永不放弃'的福音服务于风投,而非创始人",
+    "original": "Silicon Valley's 'never quit' gospel serves VCs, not founders",
+    "translated_at": "2026-01-19T09:40:45.493982"
+  },
+  "technology-demands-responsible-stewardship": {
+    "text": "科技需要负责任的管理",
+    "original": "Technology demands responsible stewardship",
+    "translated_at": "2026-01-19T09:40:45.493983"
+  },
+  "direct-feedback-builds-strength-avoidance-breeds-weakness": {
+    "text": "直接反馈培养力量,回避则孕育软弱",
+    "original": "Direct feedback builds strength, avoidance breeds weakness",
+    "translated_at": "2026-01-19T09:41:14.433766"
+  },
+  "build-a-culture-where-failure-is-fuel-for-learning": {
+    "text": "建立容错文化,把失败转化为学习动力",
+    "original": "Build a culture where failure is fuel for learning",
+    "translated_at": "2026-01-19T09:41:14.433776"
+  },
+  "ai-adoption-starts-with-leadership-doing-the-work": {
+    "text": "AI应用的关键在于领导层先做好自身工作",
+    "original": "AI adoption starts with leadership doing the work",
+    "translated_at": "2026-01-19T09:41:14.433778"
+  },
+  "ai-changes-everything-except-human-nature": {
+    "text": "AI改变一切,除了人性本质",
+    "original": "AI changes everything except human nature",
+    "translated_at": "2026-01-19T09:41:14.433779"
+  },
+  "your-nervous-system-is-your-organizations-operating-system": {
+    "text": "你的神经系统就是组织的运作系统",
+    "original": "Your nervous system is your organization's operating system",
+    "translated_at": "2026-01-19T09:41:14.433781"
+  },
+  "culture-is-a-product-you-build-for-your-team": {
+    "text": "文化是为团队建立的一件产品",
+    "original": "Culture is a product you build for your team",
+    "translated_at": "2026-01-19T09:41:14.433782"
+  },
+  "high-talent-density-enables-everything-else": {
+    "text": "高密集人才是一切的基础",
+    "original": "High talent density enables everything else",
+    "translated_at": "2026-01-19T09:41:14.433784"
+  },
+  "mission-clarity-unleashes-extreme-performance": {
+    "text": "使命明晰释放极限表现力",
+    "original": "Mission clarity unleashes extreme performance",
+    "translated_at": "2026-01-19T09:41:14.433785"
+  },
+  "persist-beyond-rationality-to-succeed": {
+    "text": "持续超越理性从而实现成功",
+    "original": "Persist beyond rationality to succeed",
+    "translated_at": "2026-01-19T09:41:14.433786"
+  },
+  "create-permission-to-think-bigger": {
+    "text": "给思考更大空间",
+    "original": "Create permission to think bigger",
+    "translated_at": "2026-01-19T09:41:14.433788"
+  },
+  "velocity-requires-radical-empowerment-and-trust": {
+    "text": "速度需要彻底授权和信任",
+    "original": "Velocity requires radical empowerment and trust",
+    "translated_at": "2026-01-19T09:41:14.433789"
+  },
+  "values-need-trade-offs-or-theyre-just-platitudes": {
+    "text": "价值观需要权衡取舍,否则只是空谈",
+    "original": "Values need trade-offs or they're just platitudes",
+    "translated_at": "2026-01-19T09:41:14.433791"
+  },
+  "making-people-happy-isnt-leadership": {
+    "text": "让人快乐并非领导力的核心",
+    "original": "Making people happy isn't leadership",
+    "translated_at": "2026-01-19T09:41:14.433792"
+  },
+  "compensation-strategy-shapes-behavior-profoundly": {
+    "text": "薪酬策略深刻影响行为表现",
+    "original": "Compensation strategy shapes behavior profoundly",
+    "translated_at": "2026-01-19T09:41:14.433794"
+  },
+  "wartime-leadership-demands-cultural-surgery": {
+    "text": "战时领导需要进行文化手术",
+    "original": "Wartime leadership demands cultural surgery",
+    "translated_at": "2026-01-19T09:41:14.433795"
+  },
+  "great-teams-must-evolve-or-die": {
+    "text": "优秀团队必须不断进化或消亡",
+    "original": "Great teams must evolve or die",
+    "translated_at": "2026-01-19T09:41:14.433796"
+  },
+  "extraordinary-results-demand-extraordinary-sacrifice": {
+    "text": "非凡成果需要非凡牺牲",
+    "original": "Extraordinary results demand extraordinary sacrifice",
+    "translated_at": "2026-01-19T09:41:14.433798"
+  },
+  "founder-mode-is-no-excuse-for-poor-management": {
+    "text": "创始人状态不能成为管理缺失的借口",
+    "original": "Founder mode is no excuse for poor management",
+    "translated_at": "2026-01-19T09:41:14.433799"
+  },
+  "rituals-and-language-shape-culture-more-than-policies": {
+    "text": "仪式和语言比政策更塑造文化",
+    "original": "Rituals and language shape culture more than policies",
+    "translated_at": "2026-01-19T09:41:14.433800"
+  },
+  "design-culture-cant-be-grafted-on-later": {
+    "text": "设计文化不能事后嫁接",
+    "original": "Design culture can't be grafted on later",
+    "translated_at": "2026-01-19T09:41:14.433801"
+  },
+  "startup-hunger-beats-corporate-comfort": {
+    "text": "创业饥饿感胜过企业安逸",
+    "original": "Startup hunger beats corporate comfort",
+    "translated_at": "2026-01-19T09:41:14.433803"
+  },
+  "extreme-ownership-means-no-task-is-beneath-you": {
+    "text": "彻底负责意味着没有什么事情是你不屑做的",
+    "original": "Extreme ownership means no task is beneath you",
+    "translated_at": "2026-01-19T09:41:14.433804"
+  },
+  "celebrate-wins-to-transform-team-energy": {
+    "text": "庆祝胜利以转化团队能量",
+    "original": "Celebrate wins to transform team energy",
+    "translated_at": "2026-01-19T09:41:14.433805"
+  },
+  "information-transparency-maximizes-human-potential": {
+    "text": "信息透明化最大化人的潜能",
+    "original": "Information transparency maximizes human potential",
+    "translated_at": "2026-01-19T09:41:14.433809"
+  },
+  "burnout-costs-more-than-prevention": {
+    "text": "预防抗压成本低于缓解消耗",
+    "original": "Burnout costs more than prevention",
+    "translated_at": "2026-01-19T09:41:14.433811"
+  },
+  "engineer-accountability-enables-true-partnership": {
+    "text": "赋予问责制促进真正合作",
+    "original": "Engineer accountability enables true partnership",
+    "translated_at": "2026-01-19T09:41:14.433812"
+  },
+  "communities-die-without-multiple-engaged-voices": {
+    "text": "社区需要多方参与才能持续",
+    "original": "Communities die without multiple engaged voices",
+    "translated_at": "2026-01-19T09:41:14.433813"
+  },
+  "leaders-inject-energy-or-watch-entropy-win": {
+    "text": "领导者注入活力或任由熵增",
+    "original": "Leaders inject energy or watch entropy win",
+    "translated_at": "2026-01-19T09:41:14.433815"
+  },
+  "dogfooding-reveals-cultural-fit-instantly": {
+    "text": "直接使用自己的产品立即揭示文化契合度",
+    "original": "Dogfooding reveals cultural fit instantly",
+    "translated_at": "2026-01-19T09:41:14.433816"
+  },
+  "constraints-drive-innovation-better-than-freedom": {
+    "text": "限制驱动创新优于自由放任",
+    "original": "Constraints drive innovation better than freedom",
+    "translated_at": "2026-01-19T09:41:14.433817"
+  },
+  "hire-smart-people-and-get-out-of-their-way": {
+    "text": "招聘优秀人才并给予他们自主权",
+    "original": "Hire smart people and get out of their way",
+    "translated_at": "2026-01-19T09:43:06.692404"
+  },
+  "small-teams-of-exceptional-people-beat-large-teams-of-averag": {
+    "text": "少数出色的团队胜过大团队平庸者",
+    "original": "Small teams of exceptional people beat large teams of average ones",
+    "translated_at": "2026-01-19T09:43:06.692419"
+  },
+  "hire-for-potential-and-hunger-not-just-experience": {
+    "text": "根据潜力和热情来招聘,而不仅仅是经验",
+    "original": "Hire for potential and hunger, not just experience",
+    "translated_at": "2026-01-19T09:43:06.692422"
+  },
+  "the-best-interview-questions-reveal-how-people-think": {
+    "text": "最佳面试问题能揭示人们的思维方式",
+    "original": "The best interview questions reveal how people think",
+    "translated_at": "2026-01-19T09:43:06.692423"
+  },
+  "fire-fast-when-you-know-its-not-working": {
+    "text": "当你确信不行时,要果断解雇",
+    "original": "Fire fast when you know it's not working",
+    "translated_at": "2026-01-19T09:43:06.692424"
+  },
+  "great-teams-need-both-autonomy-and-clear-expectations": {
+    "text": "优秀团队需要自主权和明确的期望",
+    "original": "Great teams need both autonomy and clear expectations",
+    "translated_at": "2026-01-19T09:43:06.692425"
+  },
+  "build-trust-before-driving-change": {
+    "text": "赢得信任后再推动变革",
+    "original": "Build trust before driving change",
+    "translated_at": "2026-01-19T09:43:06.692426"
+  },
+  "work-samples-beat-interviews-for-assessing-talent": {
+    "text": "工作样本胜过面试来评估人才",
+    "original": "Work samples beat interviews for assessing talent",
+    "translated_at": "2026-01-19T09:43:06.692427"
+  },
+  "direct-feedback-accelerates-performance": {
+    "text": "直接反馈能加快绩效提升",
+    "original": "Direct feedback accelerates performance",
+    "translated_at": "2026-01-19T09:43:06.692428"
+  },
+  "hire-for-mission-alignment-and-intrinsic-motivation": {
+    "text": "根据使命认同和内在动力来招聘",
+    "original": "Hire for mission alignment and intrinsic motivation",
+    "translated_at": "2026-01-19T09:43:06.692428"
+  },
+  "leaders-create-leverage-by-developing-others": {
+    "text": "领导者通过培养他人来创造杠杆效应",
+    "original": "Leaders create leverage by developing others",
+    "translated_at": "2026-01-19T09:43:06.692429"
+  },
+  "functional-expertise-beats-people-management": {
+    "text": "专业技能胜过人员管理",
+    "original": "Functional expertise beats people management",
+    "translated_at": "2026-01-19T09:43:06.692430"
+  },
+  "team-dysfunction-starts-with-leadership": {
+    "text": "团队功能障碍始于领导层",
+    "original": "Team dysfunction starts with leadership",
+    "translated_at": "2026-01-19T09:43:06.692431"
+  },
+  "hire-generalists-in-early-stages-specialists-later": {
+    "text": "早期需要通才,后期需要专家",
+    "original": "Hire generalists in early stages, specialists later",
+    "translated_at": "2026-01-19T09:43:06.692432"
+  },
+  "name-and-celebrate-individual-superpowers": {
+    "text": "发掘并庆祝每个人的超能力",
+    "original": "Name and celebrate individual superpowers",
+    "translated_at": "2026-01-19T09:43:06.692433"
+  },
+  "high-agency-is-the-ultimate-hiring-criterion": {
+    "text": "高主动性是最关键的招聘标准",
+    "original": "High agency is the ultimate hiring criterion",
+    "translated_at": "2026-01-19T09:43:06.692434"
+  },
+  "understanding-individual-motivations-unlocks-team-performanc": {
+    "text": "了解个人动机才能激发团队绩效",
+    "original": "Understanding individual motivations unlocks team performance",
+    "translated_at": "2026-01-19T09:43:06.692434"
+  },
+  "progress-beats-pep-talks-for-morale": {
+    "text": "进步胜过激励演讲提升士气",
+    "original": "Progress beats pep talks for morale",
+    "translated_at": "2026-01-19T09:43:06.692435"
+  },
+  "structural-problems-masquerade-as-people-problems": {
+    "text": "结构性问题常伪装成人员问题",
+    "original": "Structural problems masquerade as people problems",
+    "translated_at": "2026-01-19T09:43:06.692436"
+  },
+  "test-for-intellectual-fearlessness-and-curiosity": {
+    "text": "测试知识探究精神和好奇心",
+    "original": "Test for intellectual fearlessness and curiosity",
+    "translated_at": "2026-01-19T09:43:06.692437"
+  },
+  "organizational-structure-determines-product-outcomes": {
+    "text": "组织结构决定产品成果",
+    "original": "Organizational structure determines product outcomes",
+    "translated_at": "2026-01-19T09:44:42.360563"
+  },
+  "ai-will-flatten-organizations-and-blur-roles": {
+    "text": "AI会扁平化组织并模糊角色边界",
+    "original": "AI will flatten organizations and blur roles",
+    "translated_at": "2026-01-19T09:44:42.360573"
+  },
+  "keep-your-team-as-small-as-your-ambition-allows": {
+    "text": "保持团队规模在你的野心所允许的范围内",
+    "original": "Keep your team as small as your ambition allows",
+    "translated_at": "2026-01-19T09:44:42.360575"
+  },
+  "scale-breaks-everything-adapt-your-leadership-style-or-fail": {
+    "text": "规模化破坏一切 - 要么调整你的领导方式,要么失败",
+    "original": "Scale breaks everything - adapt your leadership style or fail",
+    "translated_at": "2026-01-19T09:44:42.360576"
+  },
+  "give-people-real-ownership-not-fake-accountability": {
+    "text": "给予团队真正的所有权,而非虚假的问责制",
+    "original": "Give people real ownership, not fake accountability",
+    "translated_at": "2026-01-19T09:44:42.360577"
+  },
+  "overhiring-creates-work-that-shouldnt-exist": {
+    "text": "过度招聘会创造不应存在的工作",
+    "original": "Overhiring creates work that shouldn't exist",
+    "translated_at": "2026-01-19T09:44:42.360578"
+  },
+  "hire-when-it-hurts-not-when-you-can": {
+    "text": "需要的时候再招人,而不是随意招人",
+    "original": "Hire when it hurts, not when you can",
+    "translated_at": "2026-01-19T09:44:42.360579"
+  },
+  "strategy-and-structure-must-dance-together": {
+    "text": "战略和结构必须相互配合",
+    "original": "Strategy and structure must dance together",
+    "translated_at": "2026-01-19T09:44:42.360579"
+  },
+  "product-and-engineering-are-two-sides-of-the-same-coin": {
+    "text": "产品和工程是同一枚硬币的两面",
+    "original": "Product and engineering are two sides of the same coin",
+    "translated_at": "2026-01-19T09:44:42.360580"
+  },
+  "functions-must-integrate-not-coordinate": {
+    "text": "职能必须整合,而非仅仅协调",
+    "original": "Functions must integrate, not coordinate",
+    "translated_at": "2026-01-19T09:44:42.360581"
+  },
+  "separate-innovation-from-execution-structurally": {
+    "text": "从结构上分离创新和执行",
+    "original": "Separate innovation from execution structurally",
+    "translated_at": "2026-01-19T09:44:42.360582"
+  },
+  "organizations-are-organisms-that-resist-their-own-truth": {
+    "text": "组织是抵抗自身真相的有机体",
+    "original": "Organizations are organisms that resist their own truth",
+    "translated_at": "2026-01-19T09:44:42.360583"
+  },
+  "ceos-should-own-the-product-not-delegate-it": {
+    "text": "CEO应该负责产品,而不是将其委托他人",
+    "original": "CEOs should own the product, not delegate it",
+    "translated_at": "2026-01-19T09:44:42.360584"
+  },
+  "managers-must-manage-craft-not-just-people": {
+    "text": "管理者必须管理技艺,而不仅仅管理人",
+    "original": "Managers must manage craft, not just people",
+    "translated_at": "2026-01-19T09:44:42.360586"
+  },
+  "organizations-run-on-energy-that-dissipates-from-the-center": {
+    "text": "组织依赖的能量会从中心处消散",
+    "original": "Organizations run on energy that dissipates from the center",
+    "translated_at": "2026-01-19T09:44:42.360586"
+  },
+  "resource-allocation-beats-feature-prioritization": {
+    "text": "资源分配胜过功能优先级",
+    "original": "Resource allocation beats feature prioritization",
+    "translated_at": "2026-01-19T09:44:42.360587"
+  },
+  "ai-adoption-happens-bottom-up-while-executives-remain-blind": {
+    "text": "AI采用是自下而上的,而高管仍然视而不见",
+    "original": "AI adoption happens bottom-up while executives remain blind",
+    "translated_at": "2026-01-19T09:44:42.360588"
+  },
+  "product-ops-should-create-leverage-not-bureaucracy": {
+    "text": "产品运营应该创造杠杆作用,而非官僚主义",
+    "original": "Product ops should create leverage, not bureaucracy",
+    "translated_at": "2026-01-19T09:44:42.360589"
+  },
+  "growth-work-needs-dedicated-ownership-with-full-accountabili": {
+    "text": "增长工作需要专门的所有权和全面问责制",
+    "original": "Growth work needs dedicated ownership with full accountability",
+    "translated_at": "2026-01-19T09:44:42.360590"
+  },
+  "ask-for-help-early-and-often-it-sets-you-apart": {
+    "text": "及时寻求帮助可让你脱颖而出",
+    "original": "Ask for help early and often - it sets you apart",
+    "translated_at": "2026-01-19T09:46:14.080733"
+  },
+  "transparency-builds-trust-especially-in-crisis": {
+    "text": "透明沟通建立信任,尤其在危机时刻",
+    "original": "Transparency builds trust, especially in crisis",
+    "translated_at": "2026-01-19T09:46:14.080743"
+  },
+  "conflict-seeks-understanding-not-victory": {
+    "text": "寻求理解,而非胜利",
+    "original": "Conflict seeks understanding, not victory",
+    "translated_at": "2026-01-19T09:46:14.080745"
+  },
+  "strategic-alignment-requires-cross-functional-leadership": {
+    "text": "跨职能领导才能实现战略一致性",
+    "original": "Strategic alignment requires cross-functional leadership",
+    "translated_at": "2026-01-19T09:46:14.080746"
+  },
+  "close-the-loop-to-build-lasting-relationships": {
+    "text": "完成反馈循环,建立持久关系",
+    "original": "Close the loop to build lasting relationships",
+    "translated_at": "2026-01-19T09:46:14.080747"
+  },
+  "overcommunicate-your-vision-repetition-is-necessary": {
+    "text": "反复传达愿景,重复是必要的",
+    "original": "Overcommunicate your vision - repetition is necessary",
+    "translated_at": "2026-01-19T09:46:14.080749"
+  },
+  "your-manager-is-your-most-important-variable": {
+    "text": "你的经理是最重要的变量",
+    "original": "Your manager is your most important variable",
+    "translated_at": "2026-01-19T09:46:14.080750"
+  },
+  "executive-misalignment-creates-organizational-chaos": {
+    "text": "高层不一致会导致组织混乱",
+    "original": "Executive misalignment creates organizational chaos",
+    "translated_at": "2026-01-19T09:46:14.080751"
+  },
+  "ask-specific-questions-to-get-real-feedback": {
+    "text": "提出具体问题以获得真实反馈",
+    "original": "Ask specific questions to get real feedback",
+    "translated_at": "2026-01-19T09:46:14.080752"
+  },
+  "internal-buy-in-matters-as-much-as-customer-validation": {
+    "text": "内部支持和客户验证同等重要",
+    "original": "Internal buy-in matters as much as customer validation",
+    "translated_at": "2026-01-19T09:46:14.080753"
+  },
+  "pms-must-bridge-builders-and-sellers": {
+    "text": "产品经理必须连接创造者和销售者",
+    "original": "PMs must bridge builders and sellers",
+    "translated_at": "2026-01-19T09:46:14.080754"
+  },
+  "tailor-your-message-to-each-executives-concerns": {
+    "text": "根据每位高管的关切点调整信息",
+    "original": "Tailor your message to each executive's concerns",
+    "translated_at": "2026-01-19T09:46:14.080755"
+  },
+  "listen-deeply-win-wins-exist-when-you-dig-deeper": {
+    "text": "深入倾听,挖掘双赢可能",
+    "original": "Listen deeply - win-wins exist when you dig deeper",
+    "translated_at": "2026-01-19T09:46:14.080756"
+  },
+  "clarify-decision-rights-before-diving-into-work": {
+    "text": "在深入工作前明确决策权限",
+    "original": "Clarify decision rights before diving into work",
+    "translated_at": "2026-01-19T09:46:14.080757"
+  },
+  "founder-relationships-require-exceptional-trust-and-alignmen": {
+    "text": "创始人关系需要极高的信任和一致性",
+    "original": "Founder relationships require exceptional trust and alignment",
+    "translated_at": "2026-01-19T09:46:14.080758"
+  },
+  "crisis-is-inevitable-prepare-your-mindset": {
+    "text": "危机不可避免,要做好心理准备",
+    "original": "Crisis is inevitable - prepare your mindset",
+    "translated_at": "2026-01-19T09:46:14.080759"
+  },
+  "politics-and-interests-complicate-pure-strategy": {
+    "text": "政治和利益会影响纯粹的战略",
+    "original": "Politics and interests complicate pure strategy",
+    "translated_at": "2026-01-19T09:46:14.080760"
+  },
+  "learn-your-bosss-mental-models-not-just-their-decisions": {
+    "text": "了解老板的思维模式,而非仅了解决策",
+    "original": "Learn your boss's mental models, not just their decisions",
+    "translated_at": "2026-01-19T09:46:14.080761"
+  },
+  "managing-up-means-bringing-solutions-not-problems": {
+    "text": "带来解决方案,而非问题",
+    "original": "Managing up means bringing solutions, not problems",
+    "translated_at": "2026-01-19T09:46:14.080762"
+  },
+  "face-to-face-builds-irreplaceable-trust": {
+    "text": "面对面交流建立无可替代的信任",
+    "original": "Face-to-face builds irreplaceable trust",
+    "translated_at": "2026-01-19T09:46:14.080763"
+  },
+  "silence-after-feedback-is-golden": {
+    "text": "沉默是最好的反馈",
+    "original": "Silence after feedback is golden",
+    "translated_at": "2026-01-19T09:46:14.080764"
+  },
+  "your-first-pitch-needs-work-use-rejection-as-feedback": {
+    "text": "你的首次演示需要改进,将拒绝反馈为修正",
+    "original": "Your first pitch needs work - use rejection as feedback",
+    "translated_at": "2026-01-19T09:46:14.080766"
+  },
+  "vulnerability-and-authenticity-build-stronger-influence-than": {
+    "text": "展现脆弱和真诚能带来比权威更强大的影响力",
+    "original": "Vulnerability and authenticity build stronger influence than authority",
+    "translated_at": "2026-01-19T09:47:35.305015"
+  },
+  "trust-is-built-through-deep-knowledge-and-consistent-deliver": {
+    "text": "深厚的知识和持续的交付,而非任期,才是建立信任的根基",
+    "original": "Trust is built through deep knowledge and consistent delivery, not tenure",
+    "translated_at": "2026-01-19T09:47:35.305022"
+  },
+  "stories-create-change-where-facts-fail": {
+    "text": "故事能在事实失效时引发改变",
+    "original": "Stories create change where facts fail",
+    "translated_at": "2026-01-19T09:47:35.305023"
+  },
+  "product-management-is-influence-without-authority": {
+    "text": "产品管理是在没有权威的情况下施加影响",
+    "original": "Product management is influence without authority",
+    "translated_at": "2026-01-19T09:47:35.305024"
+  },
+  "own-problems-beyond-your-scope-to-create-momentum": {
+    "text": "跨越自己的范围去解决问题,能创造出势头",
+    "original": "Own problems beyond your scope to create momentum",
+    "translated_at": "2026-01-19T09:47:35.305026"
+  },
+  "make-your-impact-visible-or-it-doesnt-exist": {
+    "text": "若无法让你的影响力可见,那就等同于无",
+    "original": "Make your impact visible or it doesn't exist",
+    "translated_at": "2026-01-19T09:47:35.305027"
+  },
+  "leaders-probe-and-facilitate-not-dictate": {
+    "text": "领导者应该探索并促成变革,而非颁布命令",
+    "original": "Leaders probe and facilitate, not dictate",
+    "translated_at": "2026-01-19T09:47:35.305027"
+  },
+  "build-consensus-or-make-unilateral-decisions": {
+    "text": "应该建立共识还是做出独立决策?",
+    "original": "Build consensus or make unilateral decisions?",
+    "translated_at": "2026-01-19T09:47:35.305029"
+  },
+  "address-small-conflicts-before-they-become-catastrophic": {
+    "text": "要及时解决小冲突,防止演变成灾难性的后果",
+    "original": "Address small conflicts before they become catastrophic",
+    "translated_at": "2026-01-19T09:47:35.305030"
+  },
+  "never-give-feedback-without-offering-hope": {
+    "text": "提供反馈时,务必给予希望",
+    "original": "Never give feedback without offering hope",
+    "translated_at": "2026-01-19T09:47:35.305031"
+  },
+  "great-pms-make-any-problem-sound-existential": {
+    "text": "出色的产品经理能让任何问题听起来都危机重重",
+    "original": "Great PMs make any problem sound existential",
+    "translated_at": "2026-01-19T09:47:35.305032"
+  },
+  "assume-no-one-cares-and-fight-for-attention": {
+    "text": "假设没人会关心,为获取注意力而奋斗",
+    "original": "Assume no one cares and fight for attention",
+    "translated_at": "2026-01-19T09:47:35.305033"
+  },
+  "ask-for-what-you-want-the-worst-is-status-quo": {
+    "text": "要敢于提出需求 - 最坏的结果也不过是维持现状",
+    "original": "Ask for what you want - the worst is status quo",
+    "translated_at": "2026-01-19T09:47:35.305033"
+  },
+  "help-seeking-builds-relationships-not-weakness": {
+    "text": "寻求帮助能建立关系,而非表现出软弱",
+    "original": "Help-seeking builds relationships, not weakness",
+    "translated_at": "2026-01-19T09:47:35.305034"
+  },
+  "focus-on-being-liked-or-driving-performance": {
+    "text": "应该更注重受欢迎还是业绩表现?",
+    "original": "Focus on being liked or driving performance?",
+    "translated_at": "2026-01-19T09:47:35.305035"
+  },
+  "you-are-what-you-measure-metrics-shape-outcomes": {
+    "text": "你衡量什么,你就成为什么 - 指标塑造结果",
+    "original": "You are what you measure - metrics shape outcomes",
+    "translated_at": "2026-01-19T09:50:31.131047"
+  },
+  "most-experiments-fail-and-thats-exactly-the-point": {
+    "text": "大多数实验失败 - 这正是关键所在",
+    "original": "Most experiments fail - and that's exactly the point",
+    "translated_at": "2026-01-19T09:50:31.131063"
+  },
+  "track-customer-value-not-vanity-metrics": {
+    "text": "关注客户价值,而非虚荣指标",
+    "original": "Track customer value, not vanity metrics",
+    "translated_at": "2026-01-19T09:50:31.131066"
+  },
+  "ab-testing-has-fundamental-limitations": {
+    "text": "A/B测试存在根本性限制",
+    "original": "A/B testing has fundamental limitations",
+    "translated_at": "2026-01-19T09:50:31.131068"
+  },
+  "learning-beats-winning-when-experimenting": {
+    "text": "在实验中,学习胜过获胜",
+    "original": "Learning beats winning when experimenting",
+    "translated_at": "2026-01-19T09:50:31.131070"
+  },
+  "growth-requires-big-bets-not-just-optimization": {
+    "text": "增长需要大胆押注,不仅仅是优化",
+    "original": "Growth requires big bets, not just optimization",
+    "translated_at": "2026-01-19T09:50:31.131071"
+  },
+  "server-side-tracking-beats-client-side-for-analytics": {
+    "text": "服务端跟踪胜过客户端分析",
+    "original": "Server-side tracking beats client-side for analytics",
+    "translated_at": "2026-01-19T09:50:31.131073"
+  },
+  "short-term-wins-often-disappear-long-term": {
+    "text": "短期胜利往往无法持续",
+    "original": "Short-term wins often disappear long-term",
+    "translated_at": "2026-01-19T09:50:31.131075"
+  },
+  "ai-breaks-traditional-productivity-metrics": {
+    "text": "AI打破了传统的生产力指标",
+    "original": "AI breaks traditional productivity metrics",
+    "translated_at": "2026-01-19T09:50:31.131077"
+  },
+  "start-with-imperfect-metrics-and-iterate": {
+    "text": "从不完美的指标开始,并不断迭代",
+    "original": "Start with imperfect metrics and iterate",
+    "translated_at": "2026-01-19T09:50:31.131079"
+  },
+  "simple-metrics-beat-complex-composite-scores": {
+    "text": "简单指标胜过复杂的综合得分",
+    "original": "Simple metrics beat complex composite scores",
+    "translated_at": "2026-01-19T09:50:31.131080"
+  },
+  "time-box-experiments-to-learn-fast": {
+    "text": "设定实验时间窗,快速学习",
+    "original": "Time-box experiments to learn fast",
+    "translated_at": "2026-01-19T09:50:31.131082"
+  },
+  "product-market-fit-has-clear-measurement-thresholds": {
+    "text": "产品市场适配有明确的度量标准",
+    "original": "Product-market fit has clear measurement thresholds",
+    "translated_at": "2026-01-19T09:50:31.131084"
+  },
+  "focus-on-absolute-numbers-not-conversion-rates": {
+    "text": "关注绝对数字,而非转化率",
+    "original": "Focus on absolute numbers, not conversion rates",
+    "translated_at": "2026-01-19T09:50:31.131086"
+  },
+  "attribution-is-investigation-not-destination": {
+    "text": "归因分析是探索,而非终点",
+    "original": "Attribution is investigation, not destination",
+    "translated_at": "2026-01-19T09:50:31.131088"
+  },
+  "leading-indicators-beat-lagging-outcomes": {
+    "text": "关注领先指标,而非滞后结果",
+    "original": "Leading indicators beat lagging outcomes",
+    "translated_at": "2026-01-19T09:50:31.131089"
+  },
+  "qualitative-insights-complete-quantitative-testing": {
+    "text": "定性洞见补充定量测试",
+    "original": "Qualitative insights complete quantitative testing",
+    "translated_at": "2026-01-19T09:50:31.131091"
+  },
+  "metrics-without-action-are-entertainment": {
+    "text": "没有行动的指标只是娱乐",
+    "original": "Metrics without action are entertainment",
+    "translated_at": "2026-01-19T09:50:31.131093"
+  },
+  "growth-needs-culture-not-just-experiments": {
+    "text": "增长需要文化,而非仅仅实验",
+    "original": "Growth needs culture, not just experiments",
+    "translated_at": "2026-01-19T09:50:31.131095"
+  },
+  "north-stars-should-evolve-with-your-growth": {
+    "text": "北极星指标需随增长而演化",
+    "original": "North stars should evolve with your growth",
+    "translated_at": "2026-01-19T09:50:31.131097"
+  },
+  "high-growth-masks-product-problems": {
+    "text": "高增长会掩盖产品问题",
+    "original": "High growth masks product problems",
+    "translated_at": "2026-01-19T09:50:31.131098"
+  },
+  "design-onboarding-to-deliver-immediate-value-not-explain-fea": {
+    "text": "设计新手引导以提供即时价值,而非解释功能",
+    "original": "Design onboarding to deliver immediate value, not explain features",
+    "translated_at": "2026-01-19T09:52:03.724169"
+  },
+  "the-best-activation-metrics-correlate-with-long-term-retenti": {
+    "text": "最佳激活指标与长期留存相关,而非虚荣指标",
+    "original": "The best activation metrics correlate with long-term retention, not vanity metrics",
+    "translated_at": "2026-01-19T09:52:03.724178"
+  },
+  "good-friction-filters-for-quality-bad-friction-blocks-everyo": {
+    "text": "好的阻力有助于筛选优质用户,坏的阻力阻碍所有人",
+    "original": "Good friction filters for quality, bad friction blocks everyone",
+    "translated_at": "2026-01-19T09:52:03.724179"
+  },
+  "your-product-should-sell-itself-before-humans-get-involved": {
+    "text": "您的产品应该在人员参与之前就能自我销售",
+    "original": "Your product should sell itself before humans get involved",
+    "translated_at": "2026-01-19T09:52:03.724180"
+  },
+  "design-for-immediate-habits-not-future-promises": {
+    "text": "设计立即养成的习惯,而非未来的诺言",
+    "original": "Design for immediate habits, not future promises",
+    "translated_at": "2026-01-19T09:52:03.724181"
+  },
+  "segment-users-by-how-they-learn-not-who-they-are": {
+    "text": "根据用户学习方式细分,而非个人特征",
+    "original": "Segment users by how they learn, not who they are",
+    "translated_at": "2026-01-19T09:52:03.724182"
+  },
+  "tie-unfamiliar-concepts-to-familiar-patterns": {
+    "text": "将陌生概念与熟悉模式挂钩",
+    "original": "Tie unfamiliar concepts to familiar patterns",
+    "translated_at": "2026-01-19T09:52:03.724183"
+  },
+  "small-copy-changes-reflecting-values-can-dramatically-increa": {
+    "text": "反映价值观的小幅副本修改可大幅提高转化率",
+    "original": "Small copy changes reflecting values can dramatically increase conversion",
+    "translated_at": "2026-01-19T09:52:03.724184"
+  },
+  "use-your-best-users-to-convert-new-users": {
+    "text": "利用您最优秀的用户来转化新用户",
+    "original": "Use your best users to convert new users",
+    "translated_at": "2026-01-19T09:52:03.724185"
+  },
+  "limit-early-access-to-protect-long-term-adoption": {
+    "text": "限制早期访问以保护长期采用",
+    "original": "Limit early access to protect long-term adoption",
+    "translated_at": "2026-01-19T09:52:03.724186"
+  },
+  "three-screens-or-less-for-mandatory-onboarding": {
+    "text": "强制新手引导限制在三个屏幕以内",
+    "original": "Three screens or less for mandatory onboarding",
+    "translated_at": "2026-01-19T09:52:03.724186"
+  },
+  "growth-is-a-system-not-a-collection-of-tactics": {
+    "text": "增长是一个系统,而非策略的集合",
+    "original": "Growth is a system, not a collection of tactics",
+    "translated_at": "2026-01-19T09:52:03.724187"
+  },
+  "optimize-onboarding-for-user-success-not-company-metrics": {
+    "text": "优化新手引导以实现用户成功,而非公司指标",
+    "original": "Optimize onboarding for user success, not company metrics",
+    "translated_at": "2026-01-19T09:52:03.724188"
+  },
+  "healthy-plg-benchmarks-20-35-signup-5-conversion": {
+    "text": "健康的PLG基准:20-35%注册,5%+转化率",
+    "original": "Healthy PLG benchmarks: 20-35% signup, 5%+ conversion",
+    "translated_at": "2026-01-19T09:52:03.724189"
+  },
+  "ai-products-naturally-solve-activation-through-conversation": {
+    "text": "AI产品通过对话自然解决激活问题",
+    "original": "AI products naturally solve activation through conversation",
+    "translated_at": "2026-01-19T09:52:03.724190"
+  },
+  "price-on-value-not-cost": {
+    "text": "根据价值定价,而非成本",
+    "original": "Price on value, not cost",
+    "translated_at": "2026-01-19T09:53:14.928272"
+  },
+  "test-willingness-to-pay-early-and-often": {
+    "text": "频繁测试客户的支付意愿",
+    "original": "Test willingness to pay early and often",
+    "translated_at": "2026-01-19T09:53:14.928282"
+  },
+  "free-tiers-must-show-your-full-magic": {
+    "text": "免费层必须展现你的全部魔力",
+    "original": "Free tiers must show your full magic",
+    "translated_at": "2026-01-19T09:53:14.928283"
+  },
+  "treat-pricing-like-a-product-feature": {
+    "text": "将定价视为产品功能",
+    "original": "Treat pricing like a product feature",
+    "translated_at": "2026-01-19T09:53:14.928284"
+  },
+  "monetization-beats-acquisition-41": {
+    "text": "获利能力超过用户获取4倍",
+    "original": "Monetization beats acquisition 4:1",
+    "translated_at": "2026-01-19T09:53:14.928285"
+  },
+  "ai-demands-new-pricing-rules": {
+    "text": "人工智能需要全新的定价规则",
+    "original": "AI demands new pricing rules",
+    "translated_at": "2026-01-19T09:53:14.928286"
+  },
+  "most-users-dont-know-what-youre-selling": {
+    "text": "大多数用户不知道你在销售什么",
+    "original": "Most users don't know what you're selling",
+    "translated_at": "2026-01-19T09:53:14.928286"
+  },
+  "freemium-vs-trials-choose-your-religion": {
+    "text": "免费试用与免费层:选择你的信仰",
+    "original": "Freemium vs trials: Choose your religion",
+    "translated_at": "2026-01-19T09:53:14.928287"
+  },
+  "simplicity-is-your-pricing-superpower": {
+    "text": "简单性是你的定价法宝",
+    "original": "Simplicity is your pricing superpower",
+    "translated_at": "2026-01-19T09:53:14.928288"
+  },
+  "price-anchoring-shapes-the-conversation": {
+    "text": "价格锚定塑造了对话走向",
+    "original": "Price anchoring shapes the conversation",
+    "translated_at": "2026-01-19T09:53:14.928288"
+  },
+  "your-best-customers-never-haggle": {
+    "text": "最佳客户从不讨价还价",
+    "original": "Your best customers never haggle",
+    "translated_at": "2026-01-19T09:53:14.928289"
+  },
+  "productivity-gains-are-pricing-quicksand": {
+    "text": "生产力提升是定价的陷阱",
+    "original": "Productivity gains are pricing quicksand",
+    "translated_at": "2026-01-19T09:53:14.928290"
+  },
+  "position-before-you-price": {
+    "text": "定位在定价之前",
+    "original": "Position before you price",
+    "translated_at": "2026-01-19T09:53:14.928291"
+  },
+  "unit-economics-are-the-real-pmf-test": {
+    "text": "单位经济学才是真正的产品市场契合度测试",
+    "original": "Unit economics are the real PMF test",
+    "translated_at": "2026-01-19T09:53:14.928291"
+  },
+  "network-effects-without-pricing-power-are-mirages": {
+    "text": "缺乏定价能力的网络效应都是海市蜃楼",
+    "original": "Network effects without pricing power are mirages",
+    "translated_at": "2026-01-19T09:53:14.928292"
+  },
+  "design-drives-revenue-not-just-delight": {
+    "text": "设计驱动收益,不仅仅是取悦",
+    "original": "Design drives revenue, not just delight",
+    "translated_at": "2026-01-19T09:53:14.928293"
+  },
+  "retention-is-the-only-metric-that-matters": {
+    "text": "留存是唯一重要的指标",
+    "original": "Retention is the only metric that matters",
+    "translated_at": "2026-01-19T09:54:15.797432"
+  },
+  "build-state-to-create-switching-costs": {
+    "text": "构建切换成本来创造用户粘性",
+    "original": "Build state to create switching costs",
+    "translated_at": "2026-01-19T09:54:15.797444"
+  },
+  "your-users-success-is-your-growth-engine": {
+    "text": "用户的成功就是你的增长引擎",
+    "original": "Your users' success is your growth engine",
+    "translated_at": "2026-01-19T09:54:15.797446"
+  },
+  "fix-retention-by-fixing-acquisition": {
+    "text": "通过改善获客来修复留存",
+    "original": "Fix retention by fixing acquisition",
+    "translated_at": "2026-01-19T09:54:15.797448"
+  },
+  "word-of-mouth-beats-paid-channels": {
+    "text": "口碑营销胜过付费渠道",
+    "original": "Word-of-mouth beats paid channels",
+    "translated_at": "2026-01-19T09:54:15.797450"
+  },
+  "60-week-1-retention-or-you-dont-have-product-market-fit": {
+    "text": "如果第一周留存率低于60%,就说明还没有找到产品市场契合度",
+    "original": "60% week-1 retention or you don't have product-market fit",
+    "translated_at": "2026-01-19T09:54:15.797452"
+  },
+  "tactical-retention-is-25-40-of-your-churn": {
+    "text": "针对性的留存措施可以占25-40%的流失原因",
+    "original": "Tactical retention is 25-40% of your churn",
+    "translated_at": "2026-01-19T09:54:15.797454"
+  },
+  "growth-compounds-through-small-systematic-wins": {
+    "text": "通过小步快跑获得累积性增长",
+    "original": "Growth compounds through small systematic wins",
+    "translated_at": "2026-01-19T09:54:15.797455"
+  },
+  "one-metric-should-capture-retention-engagement-and-growth": {
+    "text": "一个指标应该概括留存、参与度和增长",
+    "original": "One metric should capture retention, engagement and growth",
+    "translated_at": "2026-01-19T09:54:15.797457"
+  },
+  "design-quality-directly-drives-growth-metrics": {
+    "text": "设计质量直接影响增长指标",
+    "original": "Design quality directly drives growth metrics",
+    "translated_at": "2026-01-19T09:54:15.797459"
+  },
+  "ai-agents-learn-like-human-teammates": {
+    "text": "AI助理像人类团队成员一样学习",
+    "original": "AI agents learn like human teammates",
+    "translated_at": "2026-01-19T09:54:15.797460"
+  },
+  "meet-users-where-they-already-behave": {
+    "text": "在用户已有行为中触达他们",
+    "original": "Meet users where they already behave",
+    "translated_at": "2026-01-19T09:54:15.797462"
+  },
+  "consumer-subscription-lacks-b2bs-natural-advantages": {
+    "text": "消费者订阅缺乏B2B自然优势",
+    "original": "Consumer subscription lacks B2B's natural advantages",
+    "translated_at": "2026-01-19T09:54:15.797463"
+  },
+  "sometimes-you-must-slow-growth-to-preserve-trust": {
+    "text": "有时必须放缓增长以维护信任",
+    "original": "Sometimes you must slow growth to preserve trust",
+    "translated_at": "2026-01-19T09:54:15.797465"
+  },
+  "ai-changes-work-patterns-not-just-outputs": {
+    "text": "AI改变了工作模式,不仅是产出",
+    "original": "AI changes work patterns, not just outputs",
+    "translated_at": "2026-01-19T09:55:17.621197"
+  },
+  "build-learning-into-every-step-not-just-the-output": {
+    "text": "在每个步骤中都融入学习,而不仅是最终产出",
+    "original": "Build learning into every step, not just the output",
+    "translated_at": "2026-01-19T09:55:17.621209"
+  },
+  "clear-ownership-beats-consensus-for-execution-speed": {
+    "text": "明确的所有权胜过共识,可以加快执行速度",
+    "original": "Clear ownership beats consensus for execution speed",
+    "translated_at": "2026-01-19T09:55:17.621211"
+  },
+  "limit-process-to-preserve-innovation": {
+    "text": "限制流程以保护创新",
+    "original": "Limit process to preserve innovation",
+    "translated_at": "2026-01-19T09:55:17.621212"
+  },
+  "time-constraints-force-better-decisions": {
+    "text": "时间限制迫使做出更好的决策",
+    "original": "Time constraints force better decisions",
+    "translated_at": "2026-01-19T09:55:17.621213"
+  },
+  "manual-work-before-automation-reveals-real-problems": {
+    "text": "在自动化前手工工作可以揭示真正的问题",
+    "original": "Manual work before automation reveals real problems",
+    "translated_at": "2026-01-19T09:55:17.621215"
+  },
+  "small-focused-teams-outperform-large-coordinated-ones": {
+    "text": "小型专注团队胜过大型协调团队",
+    "original": "Small focused teams outperform large coordinated ones",
+    "translated_at": "2026-01-19T09:55:17.621216"
+  },
+  "fewer-meetings-more-execution": {
+    "text": "少开会,多执行",
+    "original": "Fewer meetings, more execution",
+    "translated_at": "2026-01-19T09:55:17.621217"
+  },
+  "build-systems-not-one-offs": {
+    "text": "构建系统,而非一次性解决方案",
+    "original": "Build systems, not one-offs",
+    "translated_at": "2026-01-19T09:55:17.621218"
+  },
+  "front-load-hard-work-to-accelerate-later": {
+    "text": "前端投入大量努力,加速后续进度",
+    "original": "Front-load hard work to accelerate later",
+    "translated_at": "2026-01-19T09:55:17.621219"
+  },
+  "explicit-clarity-prevents-wasted-cycles": {
+    "text": "明确的清晰度可以避免浪费周期",
+    "original": "Explicit clarity prevents wasted cycles",
+    "translated_at": "2026-01-19T09:55:17.621220"
+  },
+  "test-everything-but-test-the-right-version": {
+    "text": "测试一切,但测试正确的版本",
+    "original": "Test everything, but test the right version",
+    "translated_at": "2026-01-19T09:55:17.621221"
+  },
+  "remove-blockers-dont-add-process": {
+    "text": "消除障碍,不要增加流程",
+    "original": "Remove blockers, don't add process",
+    "translated_at": "2026-01-19T09:55:17.621222"
+  },
+  "create-friction-for-bad-habits-not-good-ones": {
+    "text": "对坏习惯制造阻力,而不是好习惯",
+    "original": "Create friction for bad habits, not good ones",
+    "translated_at": "2026-01-19T09:55:17.621223"
+  },
+  "speed-of-learning-beats-speed-of-delivery": {
+    "text": "学习速度胜过交付速度",
+    "original": "Speed of learning beats speed of delivery",
+    "translated_at": "2026-01-19T09:55:17.621224"
+  },
+  "resource-constraints-breed-creativity": {
+    "text": "资源限制培养创造力",
+    "original": "Resource constraints breed creativity",
+    "translated_at": "2026-01-19T09:55:17.621225"
+  },
+  "weekly-cadences-create-momentum": {
+    "text": "每周节奏培养势头",
+    "original": "Weekly cadences create momentum",
+    "translated_at": "2026-01-19T09:55:17.621226"
+  },
+  "dogfooding-drives-product-excellence": {
+    "text": "狗粮驱动卓越产品",
+    "original": "Dogfooding drives product excellence",
+    "translated_at": "2026-01-19T09:55:17.621227"
+  },
+  "ship-to-learn-not-to-be-right": {
+    "text": "快速发布以学习,而不是为了证明自己正确",
+    "original": "Ship to learn, not to be right",
+    "translated_at": "2026-01-19T09:56:35.557903"
+  },
+  "good-enough-beats-perfect": {
+    "text": "够好就好于完美",
+    "original": "Good enough beats perfect",
+    "translated_at": "2026-01-19T09:56:35.557930"
+  },
+  "speed-is-a-habit-not-a-sprint": {
+    "text": "速度是一种习惯,而非短期冲刺",
+    "original": "Speed is a habit, not a sprint",
+    "translated_at": "2026-01-19T09:56:35.557933"
+  },
+  "the-first-version-should-embarrass-you": {
+    "text": "第一个版本应该让人觉得有点丢脸",
+    "original": "The first version should embarrass you",
+    "translated_at": "2026-01-19T09:56:35.557936"
+  },
+  "ai-changes-the-speed-equation-entirely": {
+    "text": "AI完全改变了速度方程式",
+    "original": "AI changes the speed equation entirely",
+    "translated_at": "2026-01-19T09:56:35.557944"
+  },
+  "fake-it-before-you-automate-it": {
+    "text": "先模拟再自动化",
+    "original": "Fake it before you automate it",
+    "translated_at": "2026-01-19T09:56:35.557946"
+  },
+  "cut-scope-not-quality": {
+    "text": "减少范围,但不降低质量",
+    "original": "Cut scope, not quality",
+    "translated_at": "2026-01-19T09:56:35.557948"
+  },
+  "ship-predictably-not-frantically": {
+    "text": "可预测的发布,而非仓促上线",
+    "original": "Ship predictably, not frantically",
+    "translated_at": "2026-01-19T09:56:35.557950"
+  },
+  "small-teams-ship-faster-than-big-teams": {
+    "text": "小团队的发布速度快于大团队",
+    "original": "Small teams ship faster than big teams",
+    "translated_at": "2026-01-19T09:56:35.557952"
+  },
+  "mvp-is-dead-mlp-minimum-lovable-product-is-the-future": {
+    "text": "最小可行产品(MVP)已过时,最小可爱产品(MLP)才是未来",
+    "original": "MVP is dead, MLP (Minimum Lovable Product) is the future",
+    "translated_at": "2026-01-19T09:56:35.557955"
+  },
+  "momentum-feeds-on-itself": {
+    "text": "势头会自我增强",
+    "original": "Momentum feeds on itself",
+    "translated_at": "2026-01-19T09:56:35.557957"
+  },
+  "constraints-force-creativity-and-focus": {
+    "text": "限制会激发创造力和专注力",
+    "original": "Constraints force creativity and focus",
+    "translated_at": "2026-01-19T09:56:35.557959"
+  },
+  "redesigns-almost-never-improve-metrics": {
+    "text": "重新设计几乎从未改善指标",
+    "original": "Redesigns almost never improve metrics",
+    "translated_at": "2026-01-19T09:56:35.557961"
+  },
+  "execution-beats-strategy-every-time": {
+    "text": "卓越的执行力总胜过精巧的策略",
+    "original": "Execution beats strategy every time",
+    "translated_at": "2026-01-19T09:56:35.557963"
+  },
+  "your-biggest-experiments-might-become-your-biggest-products": {
+    "text": "您最大的实验可能会成为您最大的产品",
+    "original": "Your biggest experiments might become your biggest products",
+    "translated_at": "2026-01-19T09:56:35.557965"
+  },
+  "engineers-build-better-when-theyre-in-the-room": {
+    "text": "工程师在现场参与建设效果更佳",
+    "original": "Engineers build better when they're in the room",
+    "translated_at": "2026-01-19T09:57:46.418362"
+  },
+  "teach-ai-like-junior-engineers-not-magic-tools": {
+    "text": "像对待初级工程师一样培养AI,而不是视为神奇工具",
+    "original": "Teach AI like junior engineers, not magic tools",
+    "translated_at": "2026-01-19T09:57:46.418370"
+  },
+  "cross-functional-proximity-beats-process": {
+    "text": "跨职能紧密合作胜过严格流程",
+    "original": "Cross-functional proximity beats process",
+    "translated_at": "2026-01-19T09:57:46.418372"
+  },
+  "detail-drives-execution-not-autonomy": {
+    "text": "细节推动执行,而非自主权",
+    "original": "Detail drives execution, not autonomy",
+    "translated_at": "2026-01-19T09:57:46.418373"
+  },
+  "b2b-buyers-need-education-not-pressure": {
+    "text": "B2B客户需要教育,而非压力",
+    "original": "B2B buyers need education, not pressure",
+    "translated_at": "2026-01-19T09:57:46.418374"
+  },
+  "hire-for-what-theyve-done-not-where-theyve-been": {
+    "text": "根据候选人的实际成就选择,而非经历",
+    "original": "Hire for what they've done, not where they've been",
+    "translated_at": "2026-01-19T09:57:46.418375"
+  },
+  "product-and-sales-tension-signals-healthy-growth": {
+    "text": "产品和销售之间的张力代表健康增长",
+    "original": "Product and sales tension signals healthy growth",
+    "translated_at": "2026-01-19T09:57:46.418376"
+  },
+  "understaffing-forces-focus-overstaffing-breeds-politics": {
+    "text": "缺编会迫使专注,过度编制会导致政治",
+    "original": "Understaffing forces focus, overstaffing breeds politics",
+    "translated_at": "2026-01-19T09:57:46.418377"
+  },
+  "platform-teams-need-different-validation-cycles": {
+    "text": "平台团队需要不同的验证周期",
+    "original": "Platform teams need different validation cycles",
+    "translated_at": "2026-01-19T09:57:46.418378"
+  },
+  "clear-why-beats-detailed-how": {
+    "text": "明确目标重要于详细步骤",
+    "original": "Clear why beats detailed how",
+    "translated_at": "2026-01-19T09:57:46.418380"
+  },
+  "code-generation-changes-everything-about-velocity": {
+    "text": "代码生成彻底改变了开发速度",
+    "original": "Code generation changes everything about velocity",
+    "translated_at": "2026-01-19T09:57:46.418380"
+  },
+  "visual-prototypes-dissolve-communication-barriers": {
+    "text": "视觉原型可以消除沟通障碍",
+    "original": "Visual prototypes dissolve communication barriers",
+    "translated_at": "2026-01-19T09:57:46.418382"
+  },
+  "hell-yes-or-rework-the-request": {
+    "text": "非常赞同或需要重新审视",
+    "original": "Hell yes or rework the request",
+    "translated_at": "2026-01-19T09:57:46.418383"
+  },
+  "true-expertise-comes-from-going-all-the-way": {
+    "text": "真正的专业知识源于全面深入",
+    "original": "True expertise comes from going all the way",
+    "translated_at": "2026-01-19T09:57:46.418384"
+  },
+  "build-redundancy-before-you-need-flexibility": {
+    "text": "在需要灵活性之前先建立冗余",
+    "original": "Build redundancy before you need flexibility",
+    "translated_at": "2026-01-19T09:57:46.418385"
+  },
+  "great-developers-self-organize-around-technical-debt": {
+    "text": "优秀的开发者会主动组织解决技术负债",
+    "original": "Great developers self-organize around technical debt",
+    "translated_at": "2026-01-19T09:57:46.418386"
+  },
+  "technology-multiplies-sales-effectiveness": {
+    "text": "技术可以放大销售效力",
+    "original": "Technology multiplies sales effectiveness",
+    "translated_at": "2026-01-19T09:57:46.418387"
+  },
+  "network-breadth-determines-execution-capacity": {
+    "text": "网络覆盖广度决定执行能力",
+    "original": "Network breadth determines execution capacity",
+    "translated_at": "2026-01-19T09:57:46.418388"
+  },
+  "technical-debt-is-your-friend-until-it-isnt": {
+    "text": "技术债务是你的朋友,直到它不再是。",
+    "original": "Technical debt is your friend until it isn't",
+    "translated_at": "2026-01-19T09:58:55.243713"
+  },
+  "ai-makes-good-enough-suddenly-viable": {
+    "text": "AI使'足够好'突然可行。",
+    "original": "AI makes 'good enough' suddenly viable",
+    "translated_at": "2026-01-19T09:58:55.243721"
+  },
+  "your-data-preparation-matters-more-than-your-tech-stack": {
+    "text": "您的数据准备工作比您的技术栈更重要。",
+    "original": "Your data preparation matters more than your tech stack",
+    "translated_at": "2026-01-19T09:58:55.243722"
+  },
+  "examples-beat-instructions-every-time": {
+    "text": "示例胜过说明。",
+    "original": "Examples beat instructions every time",
+    "translated_at": "2026-01-19T09:58:55.243723"
+  },
+  "humans-define-boundaries-algorithms-execute": {
+    "text": "人类定义边界,算法执行。",
+    "original": "Humans define boundaries, algorithms execute",
+    "translated_at": "2026-01-19T09:58:55.243725"
+  },
+  "error-handling-deserves-more-code-than-the-happy-path": {
+    "text": "错误处理应该比happy path有更多代码。",
+    "original": "Error handling deserves more code than the happy path",
+    "translated_at": "2026-01-19T09:58:55.243726"
+  },
+  "ai-generates-believable-garbage-without-careful-prompting": {
+    "text": "AI可以在不小心提示的情况下生成令人信服的垃圾。",
+    "original": "AI generates believable garbage without careful prompting",
+    "translated_at": "2026-01-19T09:58:55.243727"
+  },
+  "build-for-complexity-early-to-enable-future-scale": {
+    "text": "尽早构建复杂性以支持未来扩展。",
+    "original": "Build for complexity early to enable future scale",
+    "translated_at": "2026-01-19T09:58:55.243728"
+  },
+  "transparency-requires-architectural-sacrifice": {
+    "text": "透明度需要建筑牺牲。",
+    "original": "Transparency requires architectural sacrifice",
+    "translated_at": "2026-01-19T09:58:55.243729"
+  },
+  "build-and-buy-beats-build-or-buy": {
+    "text": "构建和购买胜过构建或购买。",
+    "original": "Build and buy beats build or buy",
+    "translated_at": "2026-01-19T09:58:55.243730"
+  },
+  "ai-implementation-takes-way-longer-than-the-hype-suggests": {
+    "text": "AI实施花费的时间远远超过炒作时间。",
+    "original": "AI implementation takes way longer than the hype suggests",
+    "translated_at": "2026-01-19T09:58:55.243731"
+  },
+  "delete-code-ruthlessly-to-maintain-velocity": {
+    "text": "无情地删除代码以保持速度。",
+    "original": "Delete code ruthlessly to maintain velocity",
+    "translated_at": "2026-01-19T09:58:55.243732"
+  },
+  "rewrites-are-almost-always-the-wrong-choice": {
+    "text": "重写几乎总是错误的选择。",
+    "original": "Rewrites are almost always the wrong choice",
+    "translated_at": "2026-01-19T09:58:55.243734"
+  },
+  "product-design-must-match-your-models-accuracy": {
+    "text": "产品设计必须与您的模型精度相匹配。",
+    "original": "Product design must match your model's accuracy",
+    "translated_at": "2026-01-19T09:58:55.243735"
+  },
+  "custom-models-create-the-real-product-magic": {
+    "text": "定制模型创造真正的产品魔力。",
+    "original": "Custom models create the real product magic",
+    "translated_at": "2026-01-19T09:58:55.243736"
+  },
+  "design-for-simplicity-not-cleverness": {
+    "text": "设计追求简约,而非巧妙",
+    "original": "Design for simplicity, not cleverness",
+    "translated_at": "2026-01-19T09:59:57.438077"
+  },
+  "ai-blurs-the-lines-between-roles": {
+    "text": "人工智能模糊了角色边界",
+    "original": "AI blurs the lines between roles",
+    "translated_at": "2026-01-19T09:59:57.438087"
+  },
+  "great-products-require-great-collaboration": {
+    "text": "卓越产品需要卓越协作",
+    "original": "Great products require great collaboration",
+    "translated_at": "2026-01-19T09:59:57.438089"
+  },
+  "design-excellence-is-table-stakes": {
+    "text": "设计卓越已成基本要求",
+    "original": "Design excellence is table stakes",
+    "translated_at": "2026-01-19T09:59:57.438090"
+  },
+  "friction-can-be-your-friend": {
+    "text": "摩擦可以是你的朋友",
+    "original": "Friction can be your friend",
+    "translated_at": "2026-01-19T09:59:57.438092"
+  },
+  "build-to-prototype-not-to-polish": {
+    "text": "构建原型而非精雕细琢",
+    "original": "Build to prototype, not to polish",
+    "translated_at": "2026-01-19T09:59:57.438093"
+  },
+  "design-systems-should-work-for-everyone": {
+    "text": "设计系统应适用于所有人",
+    "original": "Design systems should work for everyone",
+    "translated_at": "2026-01-19T09:59:57.438094"
+  },
+  "authenticity-beats-polish": {
+    "text": "真诚胜于华丽",
+    "original": "Authenticity beats polish",
+    "translated_at": "2026-01-19T09:59:57.438095"
+  },
+  "ai-challenges-traditional-design-craft": {
+    "text": "人工智能挑战传统设计工艺",
+    "original": "AI challenges traditional design craft",
+    "translated_at": "2026-01-19T09:59:57.438097"
+  },
+  "your-users-are-lazy-vain-and-selfishdesign-accordingly": {
+    "text": "你的用户懒惰、自私、虚荣——请据此设计产品",
+    "original": "Your users are lazy, vain, and selfish—design accordingly",
+    "translated_at": "2026-01-19T10:00:38.464410"
+  },
+  "watch-what-users-do-not-what-they-say": {
+    "text": "观察用户的行为,而非他们说的话",
+    "original": "Watch what users do, not what they say",
+    "translated_at": "2026-01-19T10:00:38.464424"
+  },
+  "users-hire-your-product-to-do-a-jobunderstand-the-job": {
+    "text": "用户雇佣你的产品来完成某项工作——了解这个工作",
+    "original": "Users hire your product to do a job—understand the job",
+    "translated_at": "2026-01-19T10:00:38.464427"
+  },
+  "you-are-nothing-like-your-users": {
+    "text": "你与你的用户完全不同",
+    "original": "You are nothing like your users",
+    "translated_at": "2026-01-19T10:00:38.464429"
+  },
+  "meet-users-where-they-already-are": {
+    "text": "在用户已经存在的地方与他们见面",
+    "original": "Meet users where they already are",
+    "translated_at": "2026-01-19T10:00:38.464431"
+  },
+  "understanding-beats-assumptions-every-time": {
+    "text": "理解战胜假设,总是如此",
+    "original": "Understanding beats assumptions every time",
+    "translated_at": "2026-01-19T10:00:38.464433"
+  },
+  "trust-beats-everythingespecially-from-friends": {
+    "text": "来自朋友的信任胜过一切",
+    "original": "Trust beats everything—especially from friends",
+    "translated_at": "2026-01-19T10:00:38.464435"
+  },
+  "b2b-buyers-are-terrified-of-making-mistakes": {
+    "text": "B2B买家害怕犯错",
+    "original": "B2B buyers are terrified of making mistakes",
+    "translated_at": "2026-01-19T10:00:38.464437"
+  },
+  "comprehension-beats-friction-reduction": {
+    "text": "理解力战胜降低摩擦力",
+    "original": "Comprehension beats friction reduction",
+    "translated_at": "2026-01-19T10:00:38.464439"
+  },
+  "small-details-signal-you-understand-your-users": {
+    "text": "细节信号着你理解你的用户",
+    "original": "Small details signal you understand your users",
+    "translated_at": "2026-01-19T10:00:38.464441"
+  },
+  "users-want-solutions-not-building-blocks": {
+    "text": "用户需要的是解决方案,而不是构建模块",
+    "original": "Users want solutions, not building blocks",
+    "translated_at": "2026-01-19T10:00:38.464443"
+  },
+  "emotional-needs-trump-logical-features": {
+    "text": "情感需求胜过逻辑功能",
+    "original": "Emotional needs trump logical features",
+    "translated_at": "2026-01-19T10:00:38.464445"
+  },
+  "developer-audiences-demand-authenticity-and-reliability": {
+    "text": "开发者群体需要真实可靠",
+    "original": "Developer audiences demand authenticity and reliability",
+    "translated_at": "2026-01-19T10:00:38.464447"
+  },
+  "human-behavior-is-predictably-irrationaluse-it": {
+    "text": "人类行为是可预测的不理性——利用它",
+    "original": "Human behavior is predictably irrational—use it",
+    "translated_at": "2026-01-19T10:00:38.464448"
+  },
+  "seven-days-is-the-magic-retention-threshold": {
+    "text": "七天是关键用户保留阈值",
+    "original": "Seven days is the magic retention threshold",
+    "translated_at": "2026-01-19T10:00:38.464450"
+  },
+  "build-for-your-best-users-not-edge-cases": {
+    "text": "为最优质用户而不是边缘用例构建产品",
+    "original": "Build for your best users, not edge cases",
+    "translated_at": "2026-01-19T10:00:38.464458"
+  },
+  "users-need-different-things-at-different-lifecycle-stages": {
+    "text": "不同生命周期阶段的用户需求不同",
+    "original": "Users need different things at different lifecycle stages",
+    "translated_at": "2026-01-19T10:00:38.464460"
+  },
+  "customer-expectations-will-force-you-to-adapt": {
+    "text": "用户期望将迫使你不断适应",
+    "original": "Customer expectations will force you to adapt",
+    "translated_at": "2026-01-19T10:00:38.464462"
+  },
+  "user-testing-reveals-patterns-with-shocking-consistency": {
+    "text": "用户测试揭示了惊人一致的模式",
+    "original": "User testing reveals patterns with shocking consistency",
+    "translated_at": "2026-01-19T10:00:38.464464"
+  },
+  "context-makes-the-irrational-rational": {
+    "text": "环境使得不理性变得合理",
+    "original": "Context makes the irrational rational",
+    "translated_at": "2026-01-19T10:00:38.464471"
+  },
+  "live-in-your-customers-world-not-your-conference-room": {
+    "text": "置身于客户的世界,而非您的会议室",
+    "original": "Live in your customer's world, not your conference room",
+    "translated_at": "2026-01-19T10:02:03.927408"
+  },
+  "stories-beat-surveys-for-discovering-real-needs": {
+    "text": "故事比调查更能发现真实需求",
+    "original": "Stories beat surveys for discovering real needs",
+    "translated_at": "2026-01-19T10:02:03.927416"
+  },
+  "your-non-customers-teach-you-more-than-your-fans": {
+    "text": "非客户告诉您更多,而非支持者",
+    "original": "Your non-customers teach you more than your fans",
+    "translated_at": "2026-01-19T10:02:03.927417"
+  },
+  "give-engineers-direct-customer-contact-to-build-product-intu": {
+    "text": "让工程师直接与客户接触以培养产品直觉",
+    "original": "Give engineers direct customer contact to build product intuition",
+    "translated_at": "2026-01-19T10:02:03.927418"
+  },
+  "research-pays-massive-dividends-or-reveals-youre-wasting-tim": {
+    "text": "用研究获取丰厚回报,或揭示您在浪费时间",
+    "original": "Research pays massive dividends or reveals you're wasting time",
+    "translated_at": "2026-01-19T10:02:03.927419"
+  },
+  "build-systematic-feedback-loops-or-die-from-ignorance": {
+    "text": "建立系统性反馈循环,否则会因无知而陨落",
+    "original": "Build systematic feedback loops or die from ignorance",
+    "translated_at": "2026-01-19T10:02:03.927419"
+  },
+  "true-product-market-fit-creates-evangelical-customers": {
+    "text": "真正的产品-市场契合度会造就狂热的客户",
+    "original": "True product-market fit creates evangelical customers",
+    "translated_at": "2026-01-19T10:02:03.927420"
+  },
+  "lead-with-their-problem-not-your-solution": {
+    "text": "从他们的问题出发,而非您的解决方案",
+    "original": "Lead with their problem, not your solution",
+    "translated_at": "2026-01-19T10:02:03.927421"
+  },
+  "stop-talking-to-customers-when-their-answers-become-predicta": {
+    "text": "当客户的回答变得可预测时,停止与他们交谈",
+    "original": "Stop talking to customers when their answers become predictable",
+    "translated_at": "2026-01-19T10:02:03.927422"
+  },
+  "customer-feedback-is-a-gift-treat-it-with-urgency": {
+    "text": "客户反馈是一份礼物 - 请以紧迫感对待",
+    "original": "Customer feedback is a gift - treat it with urgency",
+    "translated_at": "2026-01-19T10:02:03.927423"
+  },
+  "test-with-people-who-dont-care-if-you-succeed": {
+    "text": "测试那些不在乎您是否成功的人",
+    "original": "Test with people who don't care if you succeed",
+    "translated_at": "2026-01-19T10:02:03.927424"
+  },
+  "build-with-customers-not-for-them": {
+    "text": "与客户一起构建,而非为客户构建",
+    "original": "Build with customers, not for them",
+    "translated_at": "2026-01-19T10:02:03.927424"
+  },
+  "use-customer-words-in-your-messaging": {
+    "text": "在您的信息传达中使用客户的词语",
+    "original": "Use customer words in your messaging",
+    "translated_at": "2026-01-19T10:02:03.927425"
+  },
+  "target-desperate-customers-with-no-alternatives": {
+    "text": "瞄准绝望的客户,他们别无选择",
+    "original": "Target desperate customers with no alternatives",
+    "translated_at": "2026-01-19T10:02:03.927426"
+  },
+  "founder-intuition-comes-from-thousands-of-customer-touches": {
+    "text": "创始人的直觉来自与客户大量接触的经验",
+    "original": "Founder intuition comes from thousands of customer touches",
+    "translated_at": "2026-01-19T10:02:03.927427"
+  },
+  "vulnerability-unlocks-deeper-customer-insights": {
+    "text": "脆弱性解锁更深层次的客户洞见",
+    "original": "Vulnerability unlocks deeper customer insights",
+    "translated_at": "2026-01-19T10:02:03.927427"
+  },
+  "start-with-the-problem-not-the-solution": {
+    "text": "从问题开始,而不是解决方案",
+    "original": "Start with the problem, not the solution",
+    "translated_at": "2026-01-19T10:03:11.225081"
+  },
+  "go-deeper-than-surface-requests-to-root-causes": {
+    "text": "深入到根源,而不是表面需求",
+    "original": "Go deeper than surface requests to root causes",
+    "translated_at": "2026-01-19T10:03:11.225090"
+  },
+  "your-first-users-will-show-you-the-real-product": {
+    "text": "你的首批用户会告诉你真正的产品",
+    "original": "Your first users will show you the real product",
+    "translated_at": "2026-01-19T10:03:11.225091"
+  },
+  "real-commitment-shows-through-payment-not-promises": {
+    "text": "真正的承诺体现在付款,而不是承诺",
+    "original": "Real commitment shows through payment, not promises",
+    "translated_at": "2026-01-19T10:03:11.225092"
+  },
+  "research-should-challenge-assumptions-not-confirm-them": {
+    "text": "研究应该挑战假设,而不是确认它们",
+    "original": "Research should challenge assumptions, not confirm them",
+    "translated_at": "2026-01-19T10:03:11.225093"
+  },
+  "deep-workflow-understanding-beats-quick-deployment": {
+    "text": "深入理解工作流程胜过快速部署",
+    "original": "Deep workflow understanding beats quick deployment",
+    "translated_at": "2026-01-19T10:03:11.225093"
+  },
+  "products-are-hired-for-progress-not-features": {
+    "text": "产品被雇佣是为了进步,而不是功能",
+    "original": "Products are hired for progress, not features",
+    "translated_at": "2026-01-19T10:03:11.225094"
+  },
+  "build-what-frustrates-you-daily": {
+    "text": "构建你日常最烦恼的问题",
+    "original": "Build what frustrates you daily",
+    "translated_at": "2026-01-19T10:03:11.225095"
+  },
+  "data-reveals-problems-design-creates-solutions": {
+    "text": "数据揭示问题,设计创造解决方案",
+    "original": "Data reveals problems, design creates solutions",
+    "translated_at": "2026-01-19T10:03:11.225096"
+  },
+  "test-fast-with-real-users-not-assumptions": {
+    "text": "用真实用户快速测试,而不是假设",
+    "original": "Test fast with real users, not assumptions",
+    "translated_at": "2026-01-19T10:03:11.225097"
+  },
+  "markets-reveal-demand-you-dont-create-it": {
+    "text": "市场揭示需求,而不是你创造它",
+    "original": "Markets reveal demand, you don't create it",
+    "translated_at": "2026-01-19T10:03:11.225098"
+  },
+  "most-failures-stem-from-solving-non-problems": {
+    "text": "大多数失败源于解决非问题",
+    "original": "Most failures stem from solving non-problems",
+    "translated_at": "2026-01-19T10:03:11.225098"
+  },
+  "ais-limits-reveal-what-makes-us-human": {
+    "text": "AI的局限性揭示了人性中的独特之处",
+    "original": "AI's limits reveal what makes us human",
+    "translated_at": "2026-01-19T10:03:11.225099"
+  },
+  "problem-documentation-beats-solution-brainstorming": {
+    "text": "问题文档优于解决方案头脑风暴",
+    "original": "Problem documentation beats solution brainstorming",
+    "translated_at": "2026-01-19T10:03:11.225100"
+  },
+  "writing-forces-clarity-before-building": {
+    "text": "写作强迫在构建前达成清晰度",
+    "original": "Writing forces clarity before building",
+    "translated_at": "2026-01-19T10:03:11.225101"
+  },
+  "customer-obsession-can-become-performative-theater": {
+    "text": "对客户的痴迷可能沦为虚饰表演",
+    "original": "Customer obsession can become performative theater",
+    "translated_at": "2026-01-19T10:03:11.225102"
+  },
+  "live-in-the-future-to-find-whats-missing": {
+    "text": "居于未来,发掘缺失",
+    "original": "Live in the future to find what's missing",
+    "translated_at": "2026-01-19T10:04:17.635134"
+  },
+  "look-for-friction-that-reveals-hidden-demand": {
+    "text": "寻找隐藏需求的摩擦点",
+    "original": "Look for friction that reveals hidden demand",
+    "translated_at": "2026-01-19T10:04:17.635141"
+  },
+  "your-data-already-contains-tomorrows-insights": {
+    "text": "你的数据已包含明天的洞见",
+    "original": "Your data already contains tomorrow's insights",
+    "translated_at": "2026-01-19T10:04:17.635142"
+  },
+  "external-wisdom-beats-internal-assumptions": {
+    "text": "外部智慧胜过内部假设",
+    "original": "External wisdom beats internal assumptions",
+    "translated_at": "2026-01-19T10:04:17.635143"
+  },
+  "discovery-effort-should-match-solution-risk": {
+    "text": "发现努力应与解决方案风险相匹配",
+    "original": "Discovery effort should match solution risk",
+    "translated_at": "2026-01-19T10:04:17.635144"
+  },
+  "reference-customers-are-your-north-star": {
+    "text": "参考客户是你的北极星",
+    "original": "Reference customers are your North Star",
+    "translated_at": "2026-01-19T10:04:17.635145"
+  },
+  "ai-requires-hands-on-play-not-passive-observation": {
+    "text": "人工智能需要动手实践,而不是被动观察",
+    "original": "AI requires hands-on play, not passive observation",
+    "translated_at": "2026-01-19T10:04:41.589272"
+  },
+  "feel-it-before-you-build-it": {
+    "text": "先感受它,然后再去构建它",
+    "original": "Feel it before you build it",
+    "translated_at": "2026-01-19T10:04:41.589279"
+  },
+  "live-as-your-customer-not-as-yourself": {
+    "text": "以客户的视角生活,而不是自己的视角",
+    "original": "Live as your customer, not as yourself",
+    "translated_at": "2026-01-19T10:04:41.589280"
+  },
+  "data-diagnoses-problems-design-treats-them": {
+    "text": "数据诊断问题,设计治疗问题",
+    "original": "Data diagnoses problems, design treats them",
+    "translated_at": "2026-01-19T10:04:41.589281"
+  },
+  "design-for-someone-specific-not-everyone": {
+    "text": "为某个特定的人设计,而不是为每个人",
+    "original": "Design for someone specific, not everyone",
+    "translated_at": "2026-01-19T10:04:41.589282"
+  },
+  "ai-thinks-like-humans-so-design-for-humans": {
+    "text": "人工智能像人类思考,所以要为人类而设计",
+    "original": "AI thinks like humans, so design for humans",
+    "translated_at": "2026-01-19T10:04:41.589283"
+  },
+  "build-for-word-of-mouth-not-incremental-improvement": {
+    "text": "为口碑而不是渐进式改进而构建",
+    "original": "Build for word-of-mouth, not incremental improvement",
+    "translated_at": "2026-01-19T10:18:58.379462"
+  },
+  "love-transforms-users-into-champions": {
+    "text": "热爱转化用户为拥护者",
+    "original": "Love transforms users into champions",
+    "translated_at": "2026-01-19T10:18:58.379479"
+  },
+  "viral-mechanics-must-be-built-in-not-bolted-on": {
+    "text": "病毒式机制必须内置,而非附加",
+    "original": "Viral mechanics must be built-in, not bolted-on",
+    "translated_at": "2026-01-19T10:18:58.379481"
+  },
+  "own-your-distribution-dont-rent-it": {
+    "text": "拥有自己的分销,不要租用",
+    "original": "Own your distribution, don't rent it",
+    "translated_at": "2026-01-19T10:18:58.379482"
+  },
+  "fix-conversion-before-scaling-acquisition": {
+    "text": "在扩大获客之前先修复转化率",
+    "original": "Fix conversion before scaling acquisition",
+    "translated_at": "2026-01-19T10:18:58.379483"
+  },
+  "technical-audiences-reject-traditional-marketing": {
+    "text": "技术受众拒绝传统营销",
+    "original": "Technical audiences reject traditional marketing",
+    "translated_at": "2026-01-19T10:18:58.379485"
+  },
+  "go-where-your-customers-already-gather": {
+    "text": "去到用户已聚集的地方",
+    "original": "Go where your customers already gather",
+    "translated_at": "2026-01-19T10:18:58.379485"
+  },
+  "messages-spread-when-they-serve-the-messenger": {
+    "text": "服务传播者的信息才会传播",
+    "original": "Messages spread when they serve the messenger",
+    "translated_at": "2026-01-19T10:18:58.379486"
+  },
+  "master-basics-before-chasing-emerging-channels": {
+    "text": "先掌握基础,再追逐新兴渠道",
+    "original": "Master basics before chasing emerging channels",
+    "translated_at": "2026-01-19T10:18:58.379487"
+  },
+  "micro-influencers-beat-mega-celebrities": {
+    "text": "微型影响力大于大牌明星",
+    "original": "Micro-influencers beat mega-celebrities",
+    "translated_at": "2026-01-19T10:18:58.379488"
+  },
+  "seo-content-must-end-the-search-journey": {
+    "text": "SEO内容必须结束搜索之旅",
+    "original": "SEO content must end the search journey",
+    "translated_at": "2026-01-19T10:18:58.379489"
+  },
+  "champions-and-buyers-are-different-people": {
+    "text": "拥护者和买家是不同的人",
+    "original": "Champions and buyers are different people",
+    "translated_at": "2026-01-19T10:18:58.379490"
+  },
+  "high-frequency-use-drives-organic-growth": {
+    "text": "高频使用驱动有机增长",
+    "original": "High-frequency use drives organic growth",
+    "translated_at": "2026-01-19T10:18:58.379490"
+  },
+  "fear-of-failure-blocks-more-deals-than-competition": {
+    "text": "对失败的恐惧比竞争更阻碍交易",
+    "original": "Fear of failure blocks more deals than competition",
+    "translated_at": "2026-01-19T10:18:58.379491"
+  },
+  "building-in-public-accelerates-trust-and-growth": {
+    "text": "公开构建加速信任和增长",
+    "original": "Building in public accelerates trust and growth",
+    "translated_at": "2026-01-19T10:18:58.379492"
+  },
+  "press-coverage-builds-credibility-not-customers": {
+    "text": "媒体报道创造信誉,不是客户",
+    "original": "Press coverage builds credibility, not customers",
+    "translated_at": "2026-01-19T10:18:58.379493"
+  },
+  "in-person-beats-digital-for-conversion": {
+    "text": "线下超过线上的转化率",
+    "original": "In-person beats digital for conversion",
+    "translated_at": "2026-01-19T10:18:58.379494"
+  },
+  "paid-acquisition-necessary-evil-or-growth-trap": {
+    "text": "付费获客:必要之恶还是增长陷阱?",
+    "original": "Paid acquisition: necessary evil or growth trap?",
+    "translated_at": "2026-01-19T10:18:58.379494"
+  },
+  "start-niche-or-go-broad": {
+    "text": "从细分市场还是全面扩展?",
+    "original": "Start niche or go broad?",
+    "translated_at": "2026-01-19T10:18:58.379495"
+  },
+  "ai-search-rewards-frequency-over-ranking": {
+    "text": "AI搜索奖励频度胜于排名",
+    "original": "AI search rewards frequency over ranking",
+    "translated_at": "2026-01-19T10:18:58.379496"
+  },
+  "growth-means-moving-users-to-value-not-just-metrics": {
+    "text": "增长意味着将用户引导至价值,而不仅仅是指标",
+    "original": "Growth means moving users to value, not just metrics",
+    "translated_at": "2026-01-19T10:18:58.379497"
+  },
+  "the-best-pms-have-t-shaped-skills-deep-in-one-broad-in-many": {
+    "text": "最出色的产品经理都具备T型技能 - 在一个领域深谙其道,在多方面又有广博的涉猎",
+    "original": "The best PMs have T-shaped skills - deep in one, broad in many",
+    "translated_at": "2026-01-19T10:28:56.802595"
+  },
+  "do-things-that-give-you-energy-thats-where-impact-lives": {
+    "text": "做让自己充满活力的事 - 那里是影响力所在",
+    "original": "Do things that give you energy - that's where impact lives",
+    "translated_at": "2026-01-19T10:28:56.802612"
+  },
+  "master-ai-tools-now-or-become-obsolete": {
+    "text": "立即掌握人工智能工具,否则将会过时",
+    "original": "Master AI tools now or become obsolete",
+    "translated_at": "2026-01-19T10:28:56.802614"
+  },
+  "career-success-starts-with-self-knowledge": {
+    "text": "事业成功始于对自我的了解",
+    "original": "Career success starts with self-knowledge",
+    "translated_at": "2026-01-19T10:28:56.802616"
+  },
+  "own-your-career-like-a-product-nobody-else-will": {
+    "text": "将自己的职业生涯经营如同一件产品 - 否则别人也不会这么做",
+    "original": "Own your career like a product - nobody else will",
+    "translated_at": "2026-01-19T10:28:56.802618"
+  },
+  "your-career-is-longer-than-you-think-play-accordingly": {
+    "text": "你的事业会比你想象的更长远 - 要有相应的规划",
+    "original": "Your career is longer than you think - play accordingly",
+    "translated_at": "2026-01-19T10:28:56.802619"
+  },
+  "optimize-for-learning-velocity-not-job-titles": {
+    "text": "优化学习速度,而非职位头衔",
+    "original": "Optimize for learning velocity, not job titles",
+    "translated_at": "2026-01-19T10:28:56.802620"
+  },
+  "choose-meaningful-suffering-over-comfortable-mediocrity": {
+    "text": "选择有意义的艰辛过舒适的平庸",
+    "original": "Choose meaningful suffering over comfortable mediocrity",
+    "translated_at": "2026-01-19T10:28:56.802621"
+  },
+  "excellence-in-execution-earns-you-strategic-opportunities": {
+    "text": "出色的执行力会带来战略机会",
+    "original": "Excellence in execution earns you strategic opportunities",
+    "translated_at": "2026-01-19T10:28:56.802622"
+  },
+  "product-management-is-broken-most-shouldnt-be-pms": {
+    "text": "大多数人其实不适合做产品经理 - 产品管理存在问题",
+    "original": "Product management is broken - most shouldn't be PMs",
+    "translated_at": "2026-01-19T10:28:56.802623"
+  },
+  "impact-solves-all-pm-career-problems": {
+    "text": "影响力解决所有产品经理职业问题",
+    "original": "Impact solves all PM career problems",
+    "translated_at": "2026-01-19T10:28:56.802625"
+  },
+  "skills-beat-knowledge-practice-until-its-in-your-bones": {
+    "text": "技能胜于知识 - 练习到根植于骨髓",
+    "original": "Skills beat knowledge - practice until it's in your bones",
+    "translated_at": "2026-01-19T10:28:56.802626"
+  },
+  "your-discomfort-is-your-compass-to-growth": {
+    "text": "你的不适感就是通往成长的指引",
+    "original": "Your discomfort is your compass to growth",
+    "translated_at": "2026-01-19T10:28:56.802627"
+  },
+  "join-rockets-not-parking-lots-momentum-matters": {
+    "text": "加入有势头的公司,而非停滞的公司 - 动力才是关键",
+    "original": "Join rockets, not parking lots - momentum matters",
+    "translated_at": "2026-01-19T10:28:56.802628"
+  },
+  "trust-your-gut-about-culture-fit-its-never-wrong": {
+    "text": "相信你内心对文化契合度的感觉 - 它从未出错过",
+    "original": "Trust your gut about culture fit - it's never wrong",
+    "translated_at": "2026-01-19T10:28:56.802629"
+  },
+  "different-growth-stages-require-different-strengths": {
+    "text": "不同发展阶段需要不同的特质",
+    "original": "Different growth stages require different strengths",
+    "translated_at": "2026-01-19T10:28:56.802630"
+  },
+  "ship-fast-learn-faster-failure-is-data": {
+    "text": "快速交付,快速学习 - 失败就是数据",
+    "original": "Ship fast, learn faster - failure is data",
+    "translated_at": "2026-01-19T10:28:56.802632"
+  },
+  "your-hardest-struggles-become-your-greatest-teachings": {
+    "text": "你最艰难的挣扎最终会成为你最宝贵的教诲",
+    "original": "Your hardest struggles become your greatest teachings",
+    "translated_at": "2026-01-19T10:28:56.802633"
+  },
+  "dont-self-reject-let-others-say-no": {
+    "text": "不要自我否定 - 让别人来拒绝你",
+    "original": "Don't self-reject - let others say no",
+    "translated_at": "2026-01-19T10:28:56.802634"
+  },
+  "embrace-being-a-professional-idiot-ask-the-dumb-questions": {
+    "text": "拥抱成为专业的傻瓜 - 问那些愚蠢的问题",
+    "original": "Embrace being a professional idiot - ask the dumb questions",
+    "translated_at": "2026-01-19T10:28:56.802635"
+  },
+  "power-is-a-skill-not-a-personality-trait": {
+    "text": "权力是一种技能,不是性格特质",
+    "original": "Power is a skill, not a personality trait",
+    "translated_at": "2026-01-19T10:28:56.802636"
+  },
+  "career-stagnation-is-the-death-of-ambition": {
+    "text": "职业停滞就是野心的死亡",
+    "original": "Career stagnation is the death of ambition",
+    "translated_at": "2026-01-19T10:28:56.802638"
+  },
+  "creating-content-accelerates-your-career-but-only-if-you-lov": {
+    "text": "创造内容可以加速你的职业发展 - 但前提是你必须热爱它",
+    "original": "Creating content accelerates your career - but only if you love it",
+    "translated_at": "2026-01-19T10:28:56.802639"
+  },
+  "high-agency-is-the-ultimate-differentiator": {
+    "text": "高主动性是最终的差异化",
+    "original": "High agency is the ultimate differentiator",
+    "translated_at": "2026-01-19T10:28:56.802640"
+  },
+  "surround-yourself-with-a-players-they-compound-your-growth": {
+    "text": "让自己与A类人才为伍 - 他们会让你的成长倍增",
+    "original": "Surround yourself with A-players - they compound your growth",
+    "translated_at": "2026-01-19T10:28:56.802641"
+  },
+  "success-requires-both-doing-and-storytelling": {
+    "text": "成功需要行动和讲述故事的双重能力",
+    "original": "Success requires both doing and storytelling",
+    "translated_at": "2026-01-19T10:28:56.802642"
+  },
+  "pick-problems-worth-solving-not-comfortable-positions": {
+    "text": "选择值得解决的问题,而非舒适的位置",
+    "original": "Pick problems worth solving, not comfortable positions",
+    "translated_at": "2026-01-19T10:28:56.802643"
+  },
+  "product-management-requires-loving-the-grind-not-just-the-gl": {
+    "text": "产品管理不仅需要热爱磨难,更要热爱辉煌",
+    "original": "Product management requires loving the grind, not just the glory",
+    "translated_at": "2026-01-19T10:28:56.802645"
+  },
+  "help-first-ask-later-thats-how-mentorship-begins": {
+    "text": "先助人后询问 - 这就是指导的开端",
+    "original": "Help first, ask later - that's how mentorship begins",
+    "translated_at": "2026-01-19T10:28:56.802646"
+  },
+  "mock-interviews-matter-more-than-studying-questions": {
+    "text": "模拟面试比死记硬背更有价值",
+    "original": "Mock interviews matter more than studying questions",
+    "translated_at": "2026-01-19T10:28:56.802647"
+  },
+  "great-work-doesnt-speak-for-itself-tell-the-story": {
+    "text": "出色的工作并不能自我代言 - 要讲好故事",
+    "original": "Great work doesn't speak for itself - tell the story",
+    "translated_at": "2026-01-19T10:28:56.802648"
+  },
+  "wisdom-becomes-accessible-when-youre-ready-for-it": {
+    "text": "当你准备好时,智慧就会触手可及",
+    "original": "Wisdom becomes accessible when you're ready for it",
+    "translated_at": "2026-01-19T10:28:56.802649"
+  },
+  "focus-on-what-you-control-not-what-you-wish-would-happen": {
+    "text": "专注于你可控的,而非你期望发生的",
+    "original": "Focus on what you control, not what you wish would happen",
+    "translated_at": "2026-01-19T10:28:56.802650"
+  },
+  "jobs-cant-fulfill-all-needs-thats-not-failure": {
+    "text": "工作无法完全满足所有需求 - 这并非失败",
+    "original": "Jobs can't fulfill all needs - that's not failure",
+    "translated_at": "2026-01-19T10:28:56.802652"
+  },
+  "ceo-growth-must-outpace-company-growth": {
+    "text": "CEO的成长速度必须超过公司的成长",
+    "original": "CEO growth must outpace company growth",
+    "translated_at": "2026-01-19T10:28:56.802653"
+  },
+  "strategic-thinking-separates-senior-pms-from-the-pack": {
+    "text": "战略思维使资深产品经理脱颖而出",
+    "original": "Strategic thinking separates senior PMs from the pack",
+    "translated_at": "2026-01-19T10:28:56.802654"
+  },
+  "the-j-curve-career-beats-the-staircase-every-time": {
+    "text": "职业发展曲线优于传统的阶梯式",
+    "original": "The J-curve career beats the staircase every time",
+    "translated_at": "2026-01-19T10:28:56.802655"
+  },
+  "build-in-public-authenticity-beats-expertise": {
+    "text": "公开化运作 - 真诚性胜于专业性",
+    "original": "Build in public - authenticity beats expertise",
+    "translated_at": "2026-01-19T10:28:56.802656"
+  },
+  "consistent-daily-practice-beats-sporadic-brilliance": {
+    "text": "持之以恒的日常练习胜过偶尔的卓越",
+    "original": "Consistent daily practice beats sporadic brilliance",
+    "translated_at": "2026-01-19T10:28:56.802657"
+  },
+  "react-enthusiastically-to-feedback-even-when-it-hurts": {
+    "text": "即使反馈伤痛,也要积极回应",
+    "original": "React enthusiastically to feedback even when it hurts",
+    "translated_at": "2026-01-19T10:28:56.802659"
+  },
+  "frame-career-moves-as-helping-not-taking": {
+    "text": "将职业转变定位为助人,而非索取",
+    "original": "Frame career moves as helping, not taking",
+    "translated_at": "2026-01-19T10:28:56.802660"
+  },
+  "learn-from-success-not-just-failure": {
+    "text": "向成功学习,而非仅从失败中学习",
+    "original": "Learn from success, not just failure",
+    "translated_at": "2026-01-19T10:28:56.802661"
+  },
+  "great-careers-are-built-through-relationships-plus-serendipi": {
+    "text": "伟大的职业建立在关系和偶然性的基础之上",
+    "original": "Great careers are built through relationships plus serendipity",
+    "translated_at": "2026-01-19T10:28:56.802662"
+  },
+  "meta-skills-matter-more-than-specific-knowledge": {
+    "text": "元技能比专门知识更为重要",
+    "original": "Meta-skills matter more than specific knowledge",
+    "translated_at": "2026-01-19T10:28:56.802663"
+  },
+  "interview-coaches-dont-just-hire-the-first-one": {
+    "text": "选择合适的面试教练,而非只雇佣第一个",
+    "original": "Interview coaches, don't just hire the first one",
+    "translated_at": "2026-01-19T10:28:56.802665"
+  },
+  "economic-downturns-create-career-acceleration-opportunities": {
+    "text": "经济衰退创造职业加速机会",
+    "original": "Economic downturns create career acceleration opportunities",
+    "translated_at": "2026-01-19T10:28:56.802666"
+  },
+  "ai-companies-reward-chaos-to-clarity-converters": {
+    "text": "人工智能公司奖赏能从混乱走向清晰的人",
+    "original": "AI companies reward chaos-to-clarity converters",
+    "translated_at": "2026-01-19T10:28:56.802667"
+  },
+  "your-partner-choice-affects-your-career-more-than-your-job-c": {
+    "text": "选择伴侣比选择工作对你的职业影响更大",
+    "original": "Your partner choice affects your career more than your job choice",
+    "translated_at": "2026-01-19T10:28:56.802668"
+  },
+  "getting-fired-for-your-principles-accelerates-your-career": {
+    "text": "因原则而被解雇会加速你的事业",
+    "original": "Getting fired for your principles accelerates your career",
+    "translated_at": "2026-01-19T10:28:56.802669"
+  },
+  "focus-is-saying-no-to-everything-except-what-matters-most": {
+    "text": "专注于说「不」,除了最重要的事项之外",
+    "original": "Focus is saying no to everything except what matters most",
+    "translated_at": "2026-01-19T10:30:02.634007"
+  },
+  "the-best-strategy-hurts-because-it-forces-painful-trade-offs": {
+    "text": "最佳策略会带来痛苦,因为它需要做出艰难的权衡",
+    "original": "The best strategy hurts because it forces painful trade-offs",
+    "translated_at": "2026-01-19T10:30:02.634016"
+  },
+  "move-fastest-on-whats-already-working-not-what-might-work": {
+    "text": "快速推进已经奏效的方向,而不是可能有效的方向",
+    "original": "Move fastest on what's already working, not what might work",
+    "translated_at": "2026-01-19T10:30:02.634017"
+  },
+  "big-bets-require-accepting-failure-as-the-price-of-breakthro": {
+    "text": "大赌注需要接受失败是突破性成功的代价",
+    "original": "Big bets require accepting failure as the price of breakthrough success",
+    "translated_at": "2026-01-19T10:30:02.634018"
+  },
+  "minimize-opportunity-cost-dont-maximize-activity": {
+    "text": "最小化机会成本,而不是最大化活动",
+    "original": "Minimize opportunity cost, don't maximize activity",
+    "translated_at": "2026-01-19T10:30:02.634018"
+  },
+  "strategy-without-execution-is-worthless-execution-without-st": {
+    "text": "没有执行的战略是无用的,没有战略的执行是浪费",
+    "original": "Strategy without execution is worthless; execution without strategy is waste",
+    "translated_at": "2026-01-19T10:30:02.634019"
+  },
+  "speed-matters-but-only-when-you-know-what-to-build": {
+    "text": "速度很重要,但前提是你知道要建什么",
+    "original": "Speed matters, but only when you know what to build",
+    "translated_at": "2026-01-19T10:30:02.634020"
+  },
+  "product-market-fit-is-binaryyou-have-it-or-you-dont": {
+    "text": "产品市场契合度是非黑即白的—你要么有,要么没有",
+    "original": "Product-market fit is binary—you have it or you don't",
+    "translated_at": "2026-01-19T10:30:02.634020"
+  },
+  "ai-requires-starting-with-problems-not-capabilities": {
+    "text": "AI需要从问题出发,而不是能力",
+    "original": "AI requires starting with problems, not capabilities",
+    "translated_at": "2026-01-19T10:30:02.634021"
+  },
+  "simplicity-beats-features-in-driving-real-value": {
+    "text": "简单性比功能更能带来真正的价值",
+    "original": "Simplicity beats features in driving real value",
+    "translated_at": "2026-01-19T10:30:02.634022"
+  },
+  "growth-without-product-market-fit-amplifies-failure": {
+    "text": "没有产品市场契合度的增长会放大失败",
+    "original": "Growth without product-market fit amplifies failure",
+    "translated_at": "2026-01-19T10:30:02.634022"
+  },
+  "your-best-users-will-lead-you-away-from-your-core-job": {
+    "text": "你最好的用户会引导你远离你的核心工作",
+    "original": "Your best users will lead you away from your core job",
+    "translated_at": "2026-01-19T10:30:02.634023"
+  },
+  "your-first-priority-is-survival-not-optimization": {
+    "text": "首要任务是生存,而不是优化",
+    "original": "Your first priority is survival, not optimization",
+    "translated_at": "2026-01-19T10:30:02.634023"
+  },
+  "evidence-beats-opinion-but-most-companies-run-on-opinion": {
+    "text": "证据胜于意见,但大多数公司是基于意见运营的",
+    "original": "Evidence beats opinion, but most companies run on opinion",
+    "translated_at": "2026-01-19T10:30:02.634024"
+  },
+  "portfolio-your-bets-70-core-20-adjacent-10-moonshots": {
+    "text": "投资组合策略:70%核心,20%相邻,10%登月",
+    "original": "Portfolio your bets: 70% core, 20% adjacent, 10% moonshots",
+    "translated_at": "2026-01-19T10:30:02.634025"
+  },
+  "narrative-clarity-drives-better-prioritization-than-metrics": {
+    "text": "叙事清晰度驱动更好的优先级决策,胜过单纯的指标",
+    "original": "Narrative clarity drives better prioritization than metrics alone",
+    "translated_at": "2026-01-19T10:30:02.634025"
+  },
+  "build-for-tomorrows-users-not-todays-complainers": {
+    "text": "为明天的用户构建,而非今天的投诉者",
+    "original": "Build for tomorrow's users, not today's complainers",
+    "translated_at": "2026-01-19T10:30:02.634026"
+  },
+  "time-constraints-force-better-decisions-than-endless-plannin": {
+    "text": "时间限制会迫使做出更好的决策,而不是无休止的计划",
+    "original": "Time constraints force better decisions than endless planning",
+    "translated_at": "2026-01-19T10:30:02.634027"
+  },
+  "platform-shifts-are-mandatory-participation-not-optional": {
+    "text": "平台转变是必须参与的,而不是可选的",
+    "original": "Platform shifts are mandatory participation, not optional",
+    "translated_at": "2026-01-19T10:30:02.634028"
+  },
+  "startups-win-through-extreme-focus-not-balanced-execution": {
+    "text": "初创公司通过极致专注而非均衡执行获胜",
+    "original": "Startups win through extreme focus, not balanced execution",
+    "translated_at": "2026-01-19T10:30:02.634028"
+  }
+}

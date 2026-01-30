@@ -1,0 +1,542 @@
+{
+  "nav_home": {
+    "text": "Ana Sayfa",
+    "original": "Home",
+    "translated_at": "2026-01-19T10:38:32.225557"
+  },
+  "nav_about": {
+    "text": "Hakkımızda",
+    "original": "About",
+    "translated_at": "2026-01-19T10:38:32.225570"
+  },
+  "nav_guests": {
+    "text": "Konuklar",
+    "original": "Guests",
+    "translated_at": "2026-01-19T10:38:32.225572"
+  },
+  "nav_episodes": {
+    "text": "Bölümler",
+    "original": "Episodes",
+    "translated_at": "2026-01-19T10:38:32.225573"
+  },
+  "section_featured": {
+    "text": "Öne Çıkanlar",
+    "original": "Featured",
+    "translated_at": "2026-01-19T10:38:32.225575"
+  },
+  "section_browse_themes": {
+    "text": "Temalara Göre Gözat",
+    "original": "Browse by theme",
+    "translated_at": "2026-01-19T10:38:32.225576"
+  },
+  "section_common_questions": {
+    "text": "Sık Sorulan Sorular",
+    "original": "Common Questions",
+    "translated_at": "2026-01-19T10:38:32.225577"
+  },
+  "label_also_in": {
+    "text": "{topic} içinde de bulunuyor:",
+    "original": "Also in {topic}:",
+    "translated_at": "2026-01-19T10:38:32.225579"
+  },
+  "label_related_insight": {
+    "text": "İlgili içgörü:",
+    "original": "Related insight:",
+    "translated_at": "2026-01-19T10:38:32.225580"
+  },
+  "label_read_more": {
+    "text": "Daha fazla oku",
+    "original": "Read more",
+    "translated_at": "2026-01-19T10:38:32.225581"
+  },
+  "label_see_experts": {
+    "text": "Uzmanların söylediklerini gör",
+    "original": "See what experts say",
+    "translated_at": "2026-01-19T10:38:32.225582"
+  },
+  "action_share": {
+    "text": "Paylaş",
+    "original": "Share",
+    "translated_at": "2026-01-19T10:38:32.225584"
+  },
+  "action_share_insight": {
+    "text": "Bu içgörüyü paylaş",
+    "original": "Share this insight",
+    "translated_at": "2026-01-19T10:38:32.225585"
+  },
+  "action_copy_link": {
+    "text": "Bağlantıyı kopyala",
+    "original": "Copy link",
+    "translated_at": "2026-01-19T10:38:32.225586"
+  },
+  "action_share_linkedin": {
+    "text": "LinkedIn'de paylaş",
+    "original": "Share on LinkedIn",
+    "translated_at": "2026-01-19T10:38:32.225587"
+  },
+  "action_share_x": {
+    "text": "X'te paylaş",
+    "original": "Share on X",
+    "translated_at": "2026-01-19T10:38:32.225588"
+  },
+  "action_watch_at": {
+    "text": "{timestamp} konumunda izle",
+    "original": "Watch at {timestamp}",
+    "translated_at": "2026-01-19T10:38:32.225589"
+  },
+  "action_listen_episode": {
+    "text": "Bölümü dinle",
+    "original": "Listen to episode",
+    "translated_at": "2026-01-19T10:38:32.225590"
+  },
+  "meta_from_podcast": {
+    "text": "Lenny'nin Podcast'inden",
+    "original": "From Lenny's Podcast",
+    "translated_at": "2026-01-19T10:38:32.225592"
+  },
+  "meta_experts_wisdom": {
+    "text": "Lenny's Podcast'inde bilgeliklerini paylaşmış {count} uzman",
+    "original": "{count} experts who've shared their wisdom on Lenny's Podcast",
+    "translated_at": "2026-01-19T10:38:32.225593"
+  },
+  "meta_episodes_insights": {
+    "text": "Lenny's Podcast'inden damıtılmış {count} içgörü",
+    "original": "{count} Lenny's Podcast episodes with distilled insights",
+    "translated_at": "2026-01-19T10:38:32.225594"
+  },
+  "meta_pm_wisdom": {
+    "text": "Lenny's Podcast'inin her bölümünden damıtılmış ürün yönetimi bilgeliği",
+    "original": "PM wisdom distilled from every episode of Lenny's Podcast",
+    "translated_at": "2026-01-19T10:38:32.225595"
+  },
+  "meta_guest_on_topic": {
+    "text": "{topic} üzerine {guests}. Lenny's Podcast'inden.",
+    "original": "{guests} on {topic}. From Lenny's Podcast.",
+    "translated_at": "2026-01-19T10:38:32.225598"
+  },
+  "meta_insights_about": {
+    "text": "Ürün yöneticisi röportajlarından {topic} hakkında içgörüler",
+    "original": "Insights about {topic} from expert PM interviews",
+    "translated_at": "2026-01-19T10:38:32.225600"
+  },
+  "about_title": {
+    "text": "Hakkımızda",
+    "original": "About",
+    "translated_at": "2026-01-19T10:38:32.225601"
+  },
+  "about_story_label": {
+    "text": "Lenny Distilled'in hikayesi",
+    "original": "The story behind Lenny Distilled",
+    "translated_at": "2026-01-19T10:38:32.225602"
+  },
+  "about_description": {
+    "text": "Ürün yönetimi bilgeliğini gezinmek için minimalist bir arayüz",
+    "original": "A minimalist interface for navigating PM wisdom",
+    "translated_at": "2026-01-19T10:38:32.225603"
+  },
+  "about_stamp_question": {
+    "text": "LENNY BUNU GÖRDÜ Mİ?",
+    "original": "HAS LENNY SEEN THIS?",
+    "translated_at": "2026-01-19T10:38:32.225605"
+  },
+  "about_stamp_hint": {
+    "text": "Lenny bunu henüz görmedi",
+    "original": "Lenny hasn't seen this yet",
+    "translated_at": "2026-01-19T10:38:32.225606"
+  },
+  "about_stamp_approved": {
+    "text": "LENNY BURADAYDI",
+    "original": "LENNY WAS HERE",
+    "translated_at": "2026-01-19T10:38:32.225607"
+  },
+  "about_paragraph_1": {
+    "text": "gece yarısı deneyiyle başladı ve minimalizmle yazılmış bir aşk mektubu haline geldi.",
+    "original": "started as a midnight experiment and became a love letter to minimalism.",
+    "translated_at": "2026-01-19T10:38:32.225608"
+  },
+  "about_paragraph_2": {
+    "text": "Anneannemi̇n yatak odasında küçük, el yapımı bir alıntılar kitabı vardı... avuç içi kadar, çiçekli bir kumaş kapağı vardı. Onu alıp birkaç sayfa karıştırır ve geri bırakırdınız. Bazı alıntılar düşündürürdü. Diğerleri yıllarca sizinle kalırdı. O kitap bu projeye şekil verdi. \"Bu veriyi güzelce nasıl görselleştiririm\" sorusuyla başlayıp \"Bu cevherler nasıl kalıcı olur\" sorusuna dönüştü.",
+    "original": "My grandmother had a small hardbound book of quotes in her bedroom...palm-sized, with a floral textile cover. You'd pick it up, flip through a few pages, and put it down. Some quotes made you think. Others stayed with you for years. That book shaped this project. What began as \"how do I visualize this data beautifully\" became \"how do I make these nuggets stick.\"",
+    "translated_at": "2026-01-19T10:38:32.225609"
+  },
+  "about_paragraph_3": {
+    "text": "yıllar boyunca ürün yönetimi bilgeliğinin olağanüstü bir deposunu oluşturdu - milyarlarca insan tarafından kullanılan ürünler gönderen uygulayıcılarla yapılan söyleşiler. Bu proje, o derinliğin bir navigasyon katmanı, altınları ortaya çıkaran: içgörüler, uzlaşma noktaları ve uzmanların farklı şekillerde gördükleri anlar.",
+    "original": "has built an extraordinary repository of product wisdom over the years—conversations with practitioners who've shipped products used by billions. This project is a navigation layer for that depth, surfacing the gold: the insights, the points of consensus, and the moments where experts see things differently.",
+    "translated_at": "2026-01-19T10:38:32.225610"
+  },
+  "about_paragraph_4": {
+    "text": "Arayüz çok özellikle sade. Karmaşık görseller yok. Konukları kişileştiren sohbot yok. Sadece bir dakikada tüketip bırakabileceğiniz ve daha sonra yeniden ziyaret edebileceğiniz içgörüler. Ve belki de daha sonra yansıtmanızı sağlarlar. İçerik ürün, her şey başka kaybolmalı.",
+    "original": "The interface is very deliberately bare. No convoluted visuals. No chatbots personifying the guests. Just insights you can consume and put down in a minute and revisit. And maybe they make you reflect later. The content is the product, everything else should disappear.",
+    "translated_at": "2026-01-19T10:38:32.225612"
+  },
+  "about_tagline": {
+    "text": "Berlin'de ürünler inşa ediyoruz",
+    "original": "Building products in Berlin",
+    "translated_at": "2026-01-19T10:38:32.225613"
+  },
+  "breadcrumb_home": {
+    "text": "Ana Sayfa",
+    "original": "Home",
+    "translated_at": "2026-01-19T10:38:32.225614"
+  },
+  "aria_share": {
+    "text": "Paylaş",
+    "original": "Share",
+    "translated_at": "2026-01-19T10:38:32.225615"
+  },
+  "aria_copy_link": {
+    "text": "Bağlantıyı panoya kopyala",
+    "original": "Copy link to clipboard",
+    "translated_at": "2026-01-19T10:38:32.225616"
+  },
+  "aria_share_linkedin": {
+    "text": "LinkedIn'de paylaş",
+    "original": "Share on LinkedIn",
+    "translated_at": "2026-01-19T10:38:32.225617"
+  },
+  "aria_share_x": {
+    "text": "X'te paylaş",
+    "original": "Share on X",
+    "translated_at": "2026-01-19T10:38:32.225618"
+  },
+  "count_insights": {
+    "text": "{count} içgörü",
+    "original": "{count} insights",
+    "translated_at": "2026-01-19T10:38:32.225619"
+  },
+  "count_quotes": {
+    "text": "{count} alıntı",
+    "original": "{count} quotes",
+    "translated_at": "2026-01-19T10:38:32.225621"
+  },
+  "count_guests": {
+    "text": "{count} konuk",
+    "original": "{count} guests",
+    "translated_at": "2026-01-19T10:38:32.225622"
+  },
+  "count_episodes": {
+    "text": "{count} bölüm",
+    "original": "{count} episodes",
+    "translated_at": "2026-01-19T10:38:32.225623"
+  },
+  "lang_english": {
+    "text": "İngilizce",
+    "original": "English",
+    "translated_at": "2026-01-19T10:38:32.225624"
+  },
+  "lang_spanish": {
+    "text": "İspanyolca",
+    "original": "Spanish",
+    "translated_at": "2026-01-19T10:38:32.225625"
+  },
+  "lang_portuguese": {
+    "text": "Portekizce (Brezilya)",
+    "original": "Portuguese (Brazil)",
+    "translated_at": "2026-01-19T10:38:32.225627"
+  },
+  "lang_japanese": {
+    "text": "Japonca",
+    "original": "Japanese",
+    "translated_at": "2026-01-19T10:38:32.225628"
+  },
+  "lang_korean": {
+    "text": "Korece",
+    "original": "Korean",
+    "translated_at": "2026-01-19T10:38:32.225629"
+  },
+  "lang_german": {
+    "text": "Almanca",
+    "original": "German",
+    "translated_at": "2026-01-19T10:38:32.225630"
+  },
+  "lang_french": {
+    "text": "Fransızca",
+    "original": "French",
+    "translated_at": "2026-01-19T10:38:32.225631"
+  },
+  "lang_hindi": {
+    "text": "Hintçe",
+    "original": "Hindi",
+    "translated_at": "2026-01-19T10:38:32.225632"
+  },
+  "lang_marathi": {
+    "text": "Marathi",
+    "original": "Marathi",
+    "translated_at": "2026-01-19T10:38:32.225633"
+  },
+  "lang_turkish": {
+    "text": "Türkçe",
+    "original": "Turkish",
+    "translated_at": "2026-01-19T10:38:32.225634"
+  },
+  "lang_chinese": {
+    "text": "Çince (Basitleştirilmiş)",
+    "original": "Chinese (Simplified)",
+    "translated_at": "2026-01-19T10:38:32.225635"
+  },
+  "stance_supporting": {
+    "text": "Destekleyici",
+    "original": "Supporting",
+    "translated_at": "2026-01-19T10:38:32.225637"
+  },
+  "stance_nuanced": {
+    "text": "Özelleşmiş",
+    "original": "Nuanced",
+    "translated_at": "2026-01-19T10:38:32.225638"
+  },
+  "stance_caveat": {
+    "text": "Şartlı",
+    "original": "With caveats",
+    "translated_at": "2026-01-19T10:38:32.225639"
+  },
+  "stance_contrarian": {
+    "text": "Karşıt",
+    "original": "Contrarian",
+    "translated_at": "2026-01-19T10:38:32.225640"
+  },
+  "stance_defining": {
+    "text": "Tanımlayıcı",
+    "original": "Defining",
+    "translated_at": "2026-01-19T10:38:32.225641"
+  },
+  "footer_content_by": {
+    "text": "Tüm içerik",
+    "original": "All content by",
+    "translated_at": "2026-01-19T10:38:32.225642"
+  },
+  "footer_built_by": {
+    "text": "Yapımcı",
+    "original": "Built by",
+    "translated_at": "2026-01-19T10:38:32.225643"
+  },
+  "footer_privacy": {
+    "text": "Çerez-ücretsiz analitik · Kişisel veri toplanmıyor",
+    "original": "Cookie-free analytics · No personal data collected",
+    "translated_at": "2026-01-19T10:38:32.225644"
+  },
+  "footer_newsletter_title": {
+    "text": "Lenny'nin Bülteni",
+    "original": "Lenny's Newsletter",
+    "translated_at": "2026-01-19T10:38:32.225646"
+  },
+  "footer_newsletter_cta": {
+    "text": "www.lennysnewsletter.com adresinden okuyun ve abone olun",
+    "original": "Read and subscribe at www.lennysnewsletter.com",
+    "translated_at": "2026-01-19T10:38:32.225647"
+  },
+  "action_discover_another": {
+    "text": "Başka bir içgörü keşfet",
+    "original": "Discover another insight",
+    "translated_at": "2026-01-21T23:16:14.382051"
+  },
+  "section_explore_archetype": {
+    "text": "Arketip Öngörülerini Keşfedin",
+    "original": "Explore insights by archetype",
+    "translated_at": "2026-01-22T02:16:11.345260"
+  },
+  "archetype_framework_by": {
+    "text": "Ürün Lideri Arketipleri by",
+    "original": "Product Leader Archetypes by",
+    "translated_at": "2026-01-22T02:16:11.345272"
+  },
+  "archetype_also_explore": {
+    "text": "Ayrıca Keşfedin:",
+    "original": "Also explore:",
+    "translated_at": "2026-01-22T02:16:11.345273"
+  },
+  "archetype_also": {
+    "text": "ayrıca {archetype}",
+    "original": "also {archetype}",
+    "translated_at": "2026-01-22T02:16:11.345275"
+  },
+  "archetype_key_signals": {
+    "text": "Önemli İpuçları",
+    "original": "Key signals",
+    "translated_at": "2026-01-22T02:16:11.345276"
+  },
+  "archetype_operator_name": {
+    "text": "İşletimci",
+    "original": "The Operator",
+    "translated_at": "2026-01-22T02:16:11.345277"
+  },
+  "archetype_operator_desc": {
+    "text": "İşletimciler süreçlere, ölçeklendirmeye ve ekiplerin sorunsuz çalışmasına odaklanırlar. Uyum, koordinasyon ve yürütme sistemleri üzerinde düşünürler.",
+    "original": "Operators focus on processes, scaling, and making teams run smoothly. They think about alignment, coordination, and execution systems.",
+    "translated_at": "2026-01-22T02:16:11.345278"
+  },
+  "archetype_operator_tooltip": {
+    "text": "Ölçeklendirme, uyum, yürütme. Güçlü yanı: iletişim",
+    "original": "Scaling, alignment, execution. Superpower: communication",
+    "translated_at": "2026-01-22T02:16:11.345279"
+  },
+  "archetype_operator_signal_1": {
+    "text": "Ekip ritüelleri ve süreçleri",
+    "original": "Team rituals and processes",
+    "translated_at": "2026-01-22T02:16:11.345280"
+  },
+  "archetype_operator_signal_2": {
+    "text": "Fonksiyonlar arası koordinasyon",
+    "original": "Cross-functional coordination",
+    "translated_at": "2026-01-22T02:16:11.345281"
+  },
+  "archetype_operator_signal_3": {
+    "text": "Ölçeklendirme ve organizasyon tasarımı",
+    "original": "Scaling and org design",
+    "translated_at": "2026-01-22T02:16:11.345282"
+  },
+  "archetype_operator_signal_4": {
+    "text": "Ölçümler ve hesap verebilirlik",
+    "original": "Metrics and accountability",
+    "translated_at": "2026-01-22T02:16:11.345283"
+  },
+  "archetype_operator_signal_5": {
+    "text": "Engelleri kaldırma",
+    "original": "Removing blockers",
+    "translated_at": "2026-01-22T02:16:11.345284"
+  },
+  "archetype_craftsperson_name": {
+    "text": "Zanaatkâr",
+    "original": "The Craftsperson",
+    "translated_at": "2026-01-22T02:16:11.345284"
+  },
+  "archetype_craftsperson_desc": {
+    "text": "Zanaatkârlar ürün kalitesi, kullanıcı deneyimi ve kişisel mükemmellik üzerinde yoğunlaşırlar. Detaylara özen göstermeye büyük önem verirler.",
+    "original": "Craftspeople focus on product quality, user experience, and personal excellence. They care deeply about getting the details right.",
+    "translated_at": "2026-01-22T02:16:11.345285"
+  },
+  "archetype_craftsperson_tooltip": {
+    "text": "Ürün, strateji, mentorluk. Güçlü yanı: ürün içgörüsü",
+    "original": "Product, strategy, mentoring. Superpower: product insight",
+    "translated_at": "2026-01-22T02:16:11.345293"
+  },
+  "archetype_craftsperson_signal_1": {
+    "text": "Ürün sezgisi ve içgörüsü",
+    "original": "Product sense and intuition",
+    "translated_at": "2026-01-22T02:16:11.345294"
+  },
+  "archetype_craftsperson_signal_2": {
+    "text": "Kullanıcı empati ve psikolojisi",
+    "original": "User empathy and psychology",
+    "translated_at": "2026-01-22T02:16:11.345295"
+  },
+  "archetype_craftsperson_signal_3": {
+    "text": "Hızdan ziyade kalite",
+    "original": "Quality over speed",
+    "translated_at": "2026-01-22T02:16:11.345296"
+  },
+  "archetype_craftsperson_signal_4": {
+    "text": "Kişisel çerçeveler",
+    "original": "Personal frameworks",
+    "translated_at": "2026-01-22T02:16:11.345297"
+  },
+  "archetype_craftsperson_signal_5": {
+    "text": "Ayrıntılara özen gösterme",
+    "original": "Attention to detail",
+    "translated_at": "2026-01-22T02:16:11.345299"
+  },
+  "archetype_visionary_name": {
+    "text": "Vizyoner",
+    "original": "The Visionary",
+    "translated_at": "2026-01-22T02:16:11.345300"
+  },
+  "archetype_visionary_desc": {
+    "text": "Vizyonerler geleceğe, stratejiye ve cesur girişimlere odaklanırlar. Pazar değişikliklerini, yeni kategorileri ve uzun vadeli yönelimi düşünürler.",
+    "original": "Visionaries focus on the future, strategy, and bold bets. They think about market shifts, new categories, and long-term direction.",
+    "translated_at": "2026-01-22T02:16:11.345301"
+  },
+  "archetype_visionary_tooltip": {
+    "text": "Büyük resim, gelecek için yenilik yapma. Güçlü yanı: başkalarının göremediğini görebilme",
+    "original": "Big picture, inventing what's next. Superpower: seeing what others can't",
+    "translated_at": "2026-01-22T02:16:11.345302"
+  },
+  "archetype_visionary_signal_1": {
+    "text": "Uzun vadeli düşünme",
+    "original": "Long-term thinking",
+    "translated_at": "2026-01-22T02:16:11.345303"
+  },
+  "archetype_visionary_signal_2": {
+    "text": "Pazar tahminleri",
+    "original": "Market predictions",
+    "translated_at": "2026-01-22T02:16:11.345304"
+  },
+  "archetype_visionary_signal_3": {
+    "text": "Sıfırdan bire yaratma",
+    "original": "Zero-to-one creation",
+    "translated_at": "2026-01-22T02:16:11.345305"
+  },
+  "archetype_visionary_signal_4": {
+    "text": "Cesur girişimler",
+    "original": "Bold bets",
+    "translated_at": "2026-01-22T02:16:11.345306"
+  },
+  "archetype_visionary_signal_5": {
+    "text": "Noktaları bağlama",
+    "original": "Connecting dots",
+    "translated_at": "2026-01-22T02:16:11.345307"
+  },
+  "wisdom_map_title": {
+    "text": "PM Bilgelik Haritası",
+    "original": "PM Wisdom Map",
+    "translated_at": "2026-01-22T02:16:11.345308"
+  },
+  "wisdom_map_cta_title": {
+    "text": "PM Bilgelik Haritası",
+    "original": "PM Wisdom Map",
+    "translated_at": "2026-01-22T02:16:11.345309"
+  },
+  "wisdom_map_cta_desc": {
+    "text": "Öngörüleri etkileşimli bir görselleştirme olarak keşfedin",
+    "original": "Explore insights as an interactive visualization",
+    "translated_at": "2026-01-22T02:16:11.345310"
+  },
+  "wisdom_map_clear": {
+    "text": "Temizle",
+    "original": "Clear",
+    "translated_at": "2026-01-22T02:16:11.345311"
+  },
+  "wisdom_map_click_to_explore": {
+    "text": "Öngörüleri filtrelemek için düğümlere tıklayın",
+    "original": "Click nodes to filter insights",
+    "translated_at": "2026-01-22T02:16:11.345311"
+  },
+  "wisdom_map_click_dimension": {
+    "text": "Daraltmak için bir boyut seçin",
+    "original": "Click a dimension to narrow down",
+    "translated_at": "2026-01-22T02:16:11.345314"
+  },
+  "wisdom_map_subthemes": {
+    "text": "Alt temalar",
+    "original": "Sub-themes",
+    "translated_at": "2026-01-22T02:16:11.345315"
+  },
+  "wisdom_map_insights": {
+    "text": "Öngörüler",
+    "original": "Insights",
+    "translated_at": "2026-01-22T02:16:11.345316"
+  },
+  "wisdom_map_view_all": {
+    "text": "Hepsini sitede görüntüle →",
+    "original": "View all on site →",
+    "translated_at": "2026-01-22T02:16:11.345317"
+  },
+  "wisdom_map_desktop_required": {
+    "text": "Masaüstü Gerekli",
+    "original": "Desktop Required",
+    "translated_at": "2026-01-22T02:16:11.345317"
+  },
+  "wisdom_map_desktop_message": {
+    "text": "PM Bilgelik Haritası görselleştirmesi daha büyük ekranlar için tasarlanmıştır. Etkileşimli diyagramı keşfetmek için lütfen bir masaüstü veya dizüstü bilgisayar kullanın.",
+    "original": "The PM Wisdom Map visualization is designed for larger screens. Please visit on a desktop or laptop to explore the interactive diagram.",
+    "translated_at": "2026-01-22T02:16:11.345318"
+  },
+  "wisdom_map_browse_instead": {
+    "text": "← Tema bölümünde öngörüleri gözat",
+    "original": "← Browse insights by theme",
+    "translated_at": "2026-01-22T02:16:11.345319"
+  },
+  "wisdom_map_no_insights_match": {
+    "text": "Bu filtreye uyan öngörü yok",
+    "original": "No insights match this filter",
+    "translated_at": "2026-01-22T02:16:11.345320"
+  }
+}

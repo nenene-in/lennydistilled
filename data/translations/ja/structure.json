@@ -1,0 +1,217 @@
+{
+  "dim:craft": {
+    "text": "クラフト",
+    "original": "Craft",
+    "translated_at": "2026-01-18T14:29:33.889783"
+  },
+  "dim:strategy": {
+    "text": "戦略",
+    "original": "Strategy",
+    "translated_at": "2026-01-18T14:29:33.889789"
+  },
+  "dim:leadership": {
+    "text": "リーダーシップ",
+    "original": "Leadership",
+    "translated_at": "2026-01-18T14:29:33.889790"
+  },
+  "dim:growth": {
+    "text": "成長",
+    "original": "Growth",
+    "translated_at": "2026-01-18T14:29:33.889791"
+  },
+  "dim:execution": {
+    "text": "実行",
+    "original": "Execution",
+    "translated_at": "2026-01-18T14:29:33.889792"
+  },
+  "dim:discovery": {
+    "text": "発見",
+    "original": "Discovery",
+    "translated_at": "2026-01-18T14:29:33.889793"
+  },
+  "sub:career-growth": {
+    "text": "キャリア成長",
+    "original": "Career Growth",
+    "translated_at": "2026-01-18T14:29:33.889794"
+  },
+  "sub:decision-making": {
+    "text": "意思決定",
+    "original": "Decision Making",
+    "translated_at": "2026-01-18T14:29:33.889795"
+  },
+  "sub:product-sense": {
+    "text": "プロダクトセンス",
+    "original": "Product Sense",
+    "translated_at": "2026-01-18T14:29:33.889795"
+  },
+  "sub:time-energy": {
+    "text": "時間とエネルギー",
+    "original": "Time & Energy",
+    "translated_at": "2026-01-18T14:29:33.889796"
+  },
+  "sub:execution-sense": {
+    "text": "実行力",
+    "original": "Execution Sense",
+    "translated_at": "2026-01-18T14:29:33.889797"
+  },
+  "sub:analytical-sense": {
+    "text": "分析力",
+    "original": "Analytical Sense",
+    "translated_at": "2026-01-18T14:29:33.889798"
+  },
+  "sub:vision-mission": {
+    "text": "ビジョンとミッション",
+    "original": "Vision & Mission",
+    "translated_at": "2026-01-18T14:29:33.889798"
+  },
+  "sub:prioritization": {
+    "text": "優先順位付け",
+    "original": "Prioritization",
+    "translated_at": "2026-01-18T14:29:33.889799"
+  },
+  "sub:market-positioning": {
+    "text": "市場における位置付け",
+    "original": "Market Positioning",
+    "translated_at": "2026-01-18T14:29:33.889800"
+  },
+  "sub:roadmaps-planning": {
+    "text": "ロードマップと計画",
+    "original": "Roadmaps & Planning",
+    "translated_at": "2026-01-18T14:29:33.889801"
+  },
+  "sub:policy-compliance-ethics": {
+    "text": "ポリシーと倫理",
+    "original": "Policy & Ethics",
+    "translated_at": "2026-01-18T14:29:33.889801"
+  },
+  "sub:culture": {
+    "text": "カルチャー",
+    "original": "Culture",
+    "translated_at": "2026-01-18T14:29:33.889804"
+  },
+  "sub:team-building": {
+    "text": "チームビルディング",
+    "original": "Team Building",
+    "translated_at": "2026-01-18T14:29:33.889805"
+  },
+  "sub:org-design": {
+    "text": "組織設計",
+    "original": "Org Design",
+    "translated_at": "2026-01-18T14:29:33.889805"
+  },
+  "sub:stakeholder-management": {
+    "text": "ステークホルダーマネジメント",
+    "original": "Stakeholder Management",
+    "translated_at": "2026-01-18T14:29:33.889806"
+  },
+  "sub:influence-without-authority": {
+    "text": "権限なしの影響力",
+    "original": "Influence Without Authority",
+    "translated_at": "2026-01-18T14:29:33.889807"
+  },
+  "sub:acquisition": {
+    "text": "アクイジション",
+    "original": "Acquisition",
+    "translated_at": "2026-01-18T14:29:33.889808"
+  },
+  "sub:experimentation-metrics": {
+    "text": "実験とメトリクス",
+    "original": "Experimentation & Metrics",
+    "translated_at": "2026-01-18T14:29:33.889808"
+  },
+  "sub:activation-onboarding": {
+    "text": "アクティベーションとオンボーディング",
+    "original": "Activation & Onboarding",
+    "translated_at": "2026-01-18T14:29:33.889809"
+  },
+  "sub:monetization-pricing": {
+    "text": "収益化と価格設定",
+    "original": "Monetization & Pricing",
+    "translated_at": "2026-01-18T14:29:33.889810"
+  },
+  "sub:retention-engagement": {
+    "text": "リテンションと顧客エンゲージメント",
+    "original": "Retention & Engagement",
+    "translated_at": "2026-01-18T14:29:33.889811"
+  },
+  "sub:process-rituals": {
+    "text": "プロセスと儀式",
+    "original": "Process & Rituals",
+    "translated_at": "2026-01-18T14:29:33.889811"
+  },
+  "sub:shipping-velocity": {
+    "text": "スピーディなリリース",
+    "original": "Shipping Velocity",
+    "translated_at": "2026-01-18T14:29:33.889812"
+  },
+  "sub:working-with-engineering": {
+    "text": "エンジニアとの連携",
+    "original": "Working with Engineering",
+    "translated_at": "2026-01-18T14:29:33.889813"
+  },
+  "sub:technical-tradeoffs": {
+    "text": "技術的なトレードオフ",
+    "original": "Technical Tradeoffs",
+    "translated_at": "2026-01-18T14:29:33.889814"
+  },
+  "sub:working-with-design": {
+    "text": "デザイナーとの連携",
+    "original": "Working with Design",
+    "translated_at": "2026-01-18T14:29:33.889814"
+  },
+  "sub:user-psychology": {
+    "text": "ユーザーの心理",
+    "original": "User Psychology",
+    "translated_at": "2026-01-18T14:29:33.889815"
+  },
+  "sub:customer-interviews": {
+    "text": "顧客インタビュー",
+    "original": "Customer Interviews",
+    "translated_at": "2026-01-18T14:29:33.889816"
+  },
+  "sub:problem-identification": {
+    "text": "問題の特定",
+    "original": "Problem Identification",
+    "translated_at": "2026-01-18T14:29:33.889817"
+  },
+  "sub:opportunity-mapping": {
+    "text": "機会の把握",
+    "original": "Opportunity Mapping",
+    "translated_at": "2026-01-18T14:29:33.889817"
+  },
+  "sub:design-thinking": {
+    "text": "デザイン思考",
+    "original": "Design Thinking",
+    "translated_at": "2026-01-18T14:29:33.889818"
+  },
+  "desc:craft": {
+    "text": "個人の PM ツールキットとスキル",
+    "original": "Personal PM toolkit and skills",
+    "translated_at": "2026-01-18T18:39:37.097029"
+  },
+  "desc:strategy": {
+    "text": "ビジョン、ポジショニング、優先順位付け、ビジネスモデル、ロードマップ",
+    "original": "Vision, positioning, prioritization, business models, roadmaps",
+    "translated_at": "2026-01-18T18:39:37.097036"
+  },
+  "desc:leadership": {
+    "text": "影響力、ステークホルダー、チーム、文化",
+    "original": "Influence, stakeholders, teams, culture",
+    "translated_at": "2026-01-18T18:39:37.097037"
+  },
+  "desc:growth": {
+    "text": "アクワイアー、アクティベーション、リテンション、収益化、メトリクス",
+    "original": "Acquisition, activation, retention, monetization, metrics",
+    "translated_at": "2026-01-18T18:39:37.097037"
+  },
+  "desc:execution": {
+    "text": "出荷、イテレーション、プロセス、エンジニアリング/デザインとの連携",
+    "original": "Shipping, iteration, process, working with eng/design",
+    "translated_at": "2026-01-18T18:39:37.097038"
+  },
+  "desc:discovery": {
+    "text": "ユーザーの理解、リサーチ、問題と機会",
+    "original": "Understanding users, research, problems & opportunities",
+    "translated_at": "2026-01-18T18:39:37.097039"
+  }
+}

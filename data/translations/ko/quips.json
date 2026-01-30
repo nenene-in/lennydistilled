@@ -1,0 +1,135 @@
+[
+  {
+    "text": "사이드 프로젝트 #47. 맞아, 세고 있습니다.",
+    "original": "Side project #47. Yes, I'm counting.",
+    "humor": "Self-deprecating: admits to having way too many unfinished side projects, and the absurdity of actually counting them",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-18T18:54:04.419916"
+  },
+  {
+    "text": "다른 99개 할 일 대신 이거 만들었습니다.",
+    "original": "Built instead of finishing the other 99 things on my list.",
+    "humor": "Self-deprecating: procrastinated on responsibilities by building yet another thing",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-18T18:54:04.419924"
+  },
+  {
+    "text": "또 도메인을 하나 샀군요.",
+    "original": "Another day, another domain purchase.",
+    "humor": "Developer stereotype: buying domains for projects that never get built. The casualness implies this is a regular occurrence.",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-18T18:54:04.419926"
+  },
+  {
+    "text": "정말 이번엔 끝내겠어. (매번 그렇게 말하지만요.)",
+    "original": "I'll definitely finish this one. (I say, every time.)",
+    "humor": "Self-aware lie: the parenthetical admits they say this about every project and never follow through",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-18T18:54:04.419927"
+  },
+  {
+    "text": "클로드는 잠을 안 자니까 저도 안 자는 걸로 해야겠네요.",
+    "original": "Built at 3am because Claude doesn't need sleep and apparently neither do I.",
+    "humor": "Sleep deprivation humor: AI doesn't sleep, human thinks they don't need to either (they do)",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-18T18:54:04.419928"
+  },
+  {
+    "text": "내 수면 패턴이 이거 하느라 죽었네요.",
+    "original": "My sleep schedule died so this could live.",
+    "humor": "Dramatic sacrifice framing for something trivial (a website). Mock-heroic tone.",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-18T18:54:04.419929"
+  },
+  {
+    "text": "4시에 일어났더니 너무 좋았어요.",
+    "original": "Discovered it was 4am. Worth it.",
+    "humor": "Lost track of time coding, deadpan 'worth it' suggests questionable priorities",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-18T18:54:04.419930"
+  },
+  {
+    "text": "엄청난 양의 차와 의심스러운 인생 선택으로 버텼습니다.",
+    "original": "Fueled by mass amounts of tea and questionable life choices.",
+    "humor": "Classic developer fuel joke, but 'questionable life choices' adds self-awareness",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-18T18:54:04.419931"
+  },
+  {
+    "text": "클로드가 코드를 짰고 저는 PR을 했습니다. 누가 더 많이 했는지 둘 다 모르겠어요.",
+    "original": "Claude wrote the code. I approved the PRs. We're both in denial about who did more.",
+    "humor": "AI collaboration joke: unclear division of labor, both taking/avoiding credit",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-18T18:54:04.419932"
+  },
+  {
+    "text": "변수 이름 때문에 걱정하지 않는 AI랑 코딩했어요.",
+    "original": "Pair programmed with an AI that doesn't judge my variable names.",
+    "humor": "Developers are self-conscious about naming things. AI is portrayed as non-judgmental partner.",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-18T18:54:04.419933"
+  },
+  {
+    "text": "클로드랑 같이 코딩하다 보니 내가 조종사인지 조종사 보조인지 헷갈리네요.",
+    "original": "Built with Claude while questioning if I'm the copilot now.",
+    "humor": "Role reversal: human is supposed to be in charge but AI might be doing the real work. Reference to GitHub Copilot.",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-18T18:54:04.419934"
+  },
+  {
+    "text": "클로드랑 함수를 서로 완성했어요.",
+    "original": "Claude and I finished each other's... functions.",
+    "humor": "Subverted rom-com trope ('finish each other's sentences') applied to coding. Sweet but nerdy.",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-18T18:54:04.419935"
+  },
+  {
+    "text": "이 footer를 클릭하면 변해요. 도파민 받으시라고요.",
+    "original": "This footer changes on click. You're welcome for the dopamine.",
+    "humor": "Meta-humor about the interaction itself. Sarcastic 'you're welcome' for a tiny reward.",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:54:04.419936"
+  },
+  {
+    "text": "계속 클릭해 주세요. 너무 많은 공을 들였거든요.",
+    "original": "Keep clicking. I put way too much effort into these.",
+    "humor": "Breaking fourth wall, admitting disproportionate effort on a minor feature",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:54:04.419937"
+  },
+  {
+    "text": "아직도 클릭하고 있네요? 끈기 있네요, 존경합니다.",
+    "original": "You're still clicking? I respect the commitment.",
+    "humor": "Acknowledging the user's persistence with mock-respect",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:54:04.419938"
+  },
+  {
+    "text": "와, 정말 footer에 집착하시는군요.",
+    "original": "Wow, you really have a footer fetish.",
+    "humor": "Playfully calling out obsessive clicking behavior. Slightly edgy but harmless.",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:54:04.419939"
+  },
+  {
+    "text": "축하합니다! Footer 탐험가 업적 획득했습니다.",
+    "original": "Achievement unlocked: Footer Explorer.",
+    "humor": "Gaming reference: fake achievement for clicking through all quips",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:54:04.419940"
+  },
+  {
+    "text": "더 있긴 한데, 몇 개인지는 말해 드리지 않겠습니다.",
+    "original": "There are more. But I won't tell you how many.",
+    "humor": "Teasing withholding of information to encourage more clicking",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:54:04.419941"
+  },
+  {
+    "text": "다 보셨다고요? 농담이에요, 계속 클릭해 주세요.",
+    "original": "You've seen all of them. Just kidding, keep going.",
+    "humor": "Fake-out: pretends to end the game, then reveals there's more. Playful misdirection.",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:54:04.419942"
+  }
+]

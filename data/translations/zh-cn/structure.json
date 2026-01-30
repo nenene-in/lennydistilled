@@ -1,0 +1,217 @@
+{
+  "dim:craft": {
+    "text": "产品设计",
+    "original": "Craft",
+    "translated_at": "2026-01-19T09:23:20.985529"
+  },
+  "dim:strategy": {
+    "text": "战略",
+    "original": "Strategy",
+    "translated_at": "2026-01-19T09:23:20.985538"
+  },
+  "dim:leadership": {
+    "text": "领导力",
+    "original": "Leadership",
+    "translated_at": "2026-01-19T09:23:20.985540"
+  },
+  "dim:growth": {
+    "text": "增长",
+    "original": "Growth",
+    "translated_at": "2026-01-19T09:23:20.985541"
+  },
+  "dim:execution": {
+    "text": "执行",
+    "original": "Execution",
+    "translated_at": "2026-01-19T09:23:20.985542"
+  },
+  "dim:discovery": {
+    "text": "发现",
+    "original": "Discovery",
+    "translated_at": "2026-01-19T09:23:20.985543"
+  },
+  "sub:career-growth": {
+    "text": "职业发展",
+    "original": "Career Growth",
+    "translated_at": "2026-01-19T09:23:20.985544"
+  },
+  "sub:decision-making": {
+    "text": "决策制定",
+    "original": "Decision Making",
+    "translated_at": "2026-01-19T09:23:20.985545"
+  },
+  "sub:product-sense": {
+    "text": "产品洞察",
+    "original": "Product Sense",
+    "translated_at": "2026-01-19T09:23:20.985546"
+  },
+  "sub:time-energy": {
+    "text": "时间与精力",
+    "original": "Time & Energy",
+    "translated_at": "2026-01-19T09:23:20.985547"
+  },
+  "sub:execution-sense": {
+    "text": "执行力",
+    "original": "Execution Sense",
+    "translated_at": "2026-01-19T09:23:20.985548"
+  },
+  "sub:analytical-sense": {
+    "text": "分析能力",
+    "original": "Analytical Sense",
+    "translated_at": "2026-01-19T09:23:20.985549"
+  },
+  "sub:vision-mission": {
+    "text": "愿景与使命",
+    "original": "Vision & Mission",
+    "translated_at": "2026-01-19T09:23:20.985550"
+  },
+  "sub:prioritization": {
+    "text": "优先排序",
+    "original": "Prioritization",
+    "translated_at": "2026-01-19T09:23:20.985551"
+  },
+  "sub:market-positioning": {
+    "text": "市场定位",
+    "original": "Market Positioning",
+    "translated_at": "2026-01-19T09:23:20.985552"
+  },
+  "sub:roadmaps-planning": {
+    "text": "路线图与规划",
+    "original": "Roadmaps & Planning",
+    "translated_at": "2026-01-19T09:23:20.985552"
+  },
+  "sub:policy-compliance-ethics": {
+    "text": "政策与道德",
+    "original": "Policy & Ethics",
+    "translated_at": "2026-01-19T09:23:20.985553"
+  },
+  "sub:culture": {
+    "text": "文化",
+    "original": "Culture",
+    "translated_at": "2026-01-19T09:23:20.985554"
+  },
+  "sub:team-building": {
+    "text": "团队建设",
+    "original": "Team Building",
+    "translated_at": "2026-01-19T09:23:20.985555"
+  },
+  "sub:org-design": {
+    "text": "组织设计",
+    "original": "Org Design",
+    "translated_at": "2026-01-19T09:23:20.985556"
+  },
+  "sub:stakeholder-management": {
+    "text": "利益相关方管理",
+    "original": "Stakeholder Management",
+    "translated_at": "2026-01-19T09:23:20.985557"
+  },
+  "sub:influence-without-authority": {
+    "text": "无权力影响力",
+    "original": "Influence Without Authority",
+    "translated_at": "2026-01-19T09:23:20.985558"
+  },
+  "sub:acquisition": {
+    "text": "获客",
+    "original": "Acquisition",
+    "translated_at": "2026-01-19T09:23:20.985559"
+  },
+  "sub:experimentation-metrics": {
+    "text": "实验与指标",
+    "original": "Experimentation & Metrics",
+    "translated_at": "2026-01-19T09:23:20.985560"
+  },
+  "sub:activation-onboarding": {
+    "text": "激活与引导",
+    "original": "Activation & Onboarding",
+    "translated_at": "2026-01-19T09:23:20.985561"
+  },
+  "sub:monetization-pricing": {
+    "text": "盈利与定价",
+    "original": "Monetization & Pricing",
+    "translated_at": "2026-01-19T09:23:20.985562"
+  },
+  "sub:retention-engagement": {
+    "text": "留存与参与",
+    "original": "Retention & Engagement",
+    "translated_at": "2026-01-19T09:23:20.985563"
+  },
+  "sub:process-rituals": {
+    "text": "流程与仪式",
+    "original": "Process & Rituals",
+    "translated_at": "2026-01-19T09:23:20.985563"
+  },
+  "sub:shipping-velocity": {
+    "text": "交付速度",
+    "original": "Shipping Velocity",
+    "translated_at": "2026-01-19T09:23:20.985564"
+  },
+  "sub:working-with-engineering": {
+    "text": "与工程合作",
+    "original": "Working with Engineering",
+    "translated_at": "2026-01-19T09:23:20.985565"
+  },
+  "sub:technical-tradeoffs": {
+    "text": "技术权衡",
+    "original": "Technical Tradeoffs",
+    "translated_at": "2026-01-19T09:23:20.985566"
+  },
+  "sub:working-with-design": {
+    "text": "与设计合作",
+    "original": "Working with Design",
+    "translated_at": "2026-01-19T09:23:20.985567"
+  },
+  "sub:user-psychology": {
+    "text": "用户心理学",
+    "original": "User Psychology",
+    "translated_at": "2026-01-19T09:23:20.985568"
+  },
+  "sub:customer-interviews": {
+    "text": "客户访谈",
+    "original": "Customer Interviews",
+    "translated_at": "2026-01-19T09:23:20.985569"
+  },
+  "sub:problem-identification": {
+    "text": "问题识别",
+    "original": "Problem Identification",
+    "translated_at": "2026-01-19T09:23:20.985569"
+  },
+  "sub:opportunity-mapping": {
+    "text": "机会映射",
+    "original": "Opportunity Mapping",
+    "translated_at": "2026-01-19T09:23:20.985570"
+  },
+  "sub:design-thinking": {
+    "text": "设计思维",
+    "original": "Design Thinking",
+    "translated_at": "2026-01-19T09:23:20.985571"
+  },
+  "desc:craft": {
+    "text": "个人产品经理工具箱和技能",
+    "original": "Personal PM toolkit and skills",
+    "translated_at": "2026-01-19T09:23:23.588502"
+  },
+  "desc:strategy": {
+    "text": "愿景、定位、优先级、商业模式、路线图",
+    "original": "Vision, positioning, prioritization, business models, roadmaps",
+    "translated_at": "2026-01-19T09:23:23.588509"
+  },
+  "desc:leadership": {
+    "text": "影响力、利益相关者、团队、文化",
+    "original": "Influence, stakeholders, teams, culture",
+    "translated_at": "2026-01-19T09:23:23.588510"
+  },
+  "desc:growth": {
+    "text": "获客、激活、留存、盈利、指标",
+    "original": "Acquisition, activation, retention, monetization, metrics",
+    "translated_at": "2026-01-19T09:23:23.588511"
+  },
+  "desc:execution": {
+    "text": "交付、迭代、流程、与工程和设计合作",
+    "original": "Shipping, iteration, process, working with eng/design",
+    "translated_at": "2026-01-19T09:23:23.588512"
+  },
+  "desc:discovery": {
+    "text": "了解用户、研究、问题与机会",
+    "original": "Understanding users, research, problems & opportunities",
+    "translated_at": "2026-01-19T09:23:23.588512"
+  }
+}

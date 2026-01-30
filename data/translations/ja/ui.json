@@ -1,0 +1,542 @@
+{
+  "nav_home": {
+    "text": "ホーム",
+    "original": "Home",
+    "translated_at": "2026-01-19T08:11:52.594672"
+  },
+  "nav_about": {
+    "text": "について",
+    "original": "About",
+    "translated_at": "2026-01-19T08:11:52.594683"
+  },
+  "nav_guests": {
+    "text": "ゲスト",
+    "original": "Guests",
+    "translated_at": "2026-01-19T08:11:52.594685"
+  },
+  "nav_episodes": {
+    "text": "エピソード",
+    "original": "Episodes",
+    "translated_at": "2026-01-19T08:11:52.594686"
+  },
+  "section_featured": {
+    "text": "注目",
+    "original": "Featured",
+    "translated_at": "2026-01-19T08:11:52.594688"
+  },
+  "section_browse_themes": {
+    "text": "テーマで探す",
+    "original": "Browse by theme",
+    "translated_at": "2026-01-19T08:11:52.594689"
+  },
+  "section_common_questions": {
+    "text": "よくある質問",
+    "original": "Common Questions",
+    "translated_at": "2026-01-19T08:11:52.594691"
+  },
+  "label_also_in": {
+    "text": "{topic}にも掲載：",
+    "original": "Also in {topic}:",
+    "translated_at": "2026-01-19T08:11:52.594692"
+  },
+  "label_related_insight": {
+    "text": "関連するインサイト:",
+    "original": "Related insight:",
+    "translated_at": "2026-01-19T08:11:52.594694"
+  },
+  "label_read_more": {
+    "text": "もっと読む",
+    "original": "Read more",
+    "translated_at": "2026-01-19T08:11:52.594695"
+  },
+  "label_see_experts": {
+    "text": "専門家の意見を見る",
+    "original": "See what experts say",
+    "translated_at": "2026-01-19T08:11:52.594696"
+  },
+  "action_share": {
+    "text": "共有",
+    "original": "Share",
+    "translated_at": "2026-01-19T08:11:52.594698"
+  },
+  "action_share_insight": {
+    "text": "このインサイトを共有",
+    "original": "Share this insight",
+    "translated_at": "2026-01-19T08:11:52.594699"
+  },
+  "action_copy_link": {
+    "text": "リンクをコピー",
+    "original": "Copy link",
+    "translated_at": "2026-01-19T08:11:52.594700"
+  },
+  "action_share_linkedin": {
+    "text": "LinkedInで共有",
+    "original": "Share on LinkedIn",
+    "translated_at": "2026-01-19T08:11:52.594702"
+  },
+  "action_share_x": {
+    "text": "Xで共有",
+    "original": "Share on X",
+    "translated_at": "2026-01-19T08:11:52.594703"
+  },
+  "action_watch_at": {
+    "text": "{timestamp}で視聴",
+    "original": "Watch at {timestamp}",
+    "translated_at": "2026-01-19T08:11:52.594704"
+  },
+  "action_listen_episode": {
+    "text": "エピソードを聴く",
+    "original": "Listen to episode",
+    "translated_at": "2026-01-19T08:11:52.594705"
+  },
+  "meta_from_podcast": {
+    "text": "Lennyのポッドキャストより",
+    "original": "From Lenny's Podcast",
+    "translated_at": "2026-01-19T08:11:52.594707"
+  },
+  "meta_experts_wisdom": {
+    "text": "Lennyのポッドキャストに登場した{count}人の専門家のインサイト",
+    "original": "{count} experts who've shared their wisdom on Lenny's Podcast",
+    "translated_at": "2026-01-19T08:11:52.594708"
+  },
+  "meta_episodes_insights": {
+    "text": "Lennyのポッドキャストのエピソードから抽出した{count}個のインサイト",
+    "original": "{count} Lenny's Podcast episodes with distilled insights",
+    "translated_at": "2026-01-19T08:11:52.594709"
+  },
+  "meta_pm_wisdom": {
+    "text": "Lennyのポッドキャストのすべてのエピソードから抽出したPMの知見",
+    "original": "PM wisdom distilled from every episode of Lenny's Podcast",
+    "translated_at": "2026-01-19T08:11:52.594711"
+  },
+  "meta_guest_on_topic": {
+    "text": "{guests}が{topic}について語るエピソード。Lennyのポッドキャストより。",
+    "original": "{guests} on {topic}. From Lenny's Podcast.",
+    "translated_at": "2026-01-19T08:11:52.594712"
+  },
+  "meta_insights_about": {
+    "text": "Lennyのポッドキャスト出演者のインタビューから得られた{topic}に関するインサイト",
+    "original": "Insights about {topic} from expert PM interviews",
+    "translated_at": "2026-01-19T08:11:52.594713"
+  },
+  "about_title": {
+    "text": "について",
+    "original": "About",
+    "translated_at": "2026-01-19T08:11:52.594715"
+  },
+  "about_story_label": {
+    "text": "Lenny Distilledの裏話",
+    "original": "The story behind Lenny Distilled",
+    "translated_at": "2026-01-19T08:11:52.594716"
+  },
+  "about_description": {
+    "text": "PMの知見を整理するミニマリスティックなインターフェース",
+    "original": "A minimalist interface for navigating PM wisdom",
+    "translated_at": "2026-01-19T08:11:52.594717"
+  },
+  "about_stamp_question": {
+    "text": "Lennyにこれを見せましたか？",
+    "original": "HAS LENNY SEEN THIS?",
+    "translated_at": "2026-01-19T08:11:52.594718"
+  },
+  "about_stamp_hint": {
+    "text": "Lennyはまだ見ていません",
+    "original": "Lenny hasn't seen this yet",
+    "translated_at": "2026-01-19T08:11:52.594720"
+  },
+  "about_stamp_approved": {
+    "text": "Lennyが訪れました",
+    "original": "LENNY WAS HERE",
+    "translated_at": "2026-01-19T08:11:52.594721"
+  },
+  "about_paragraph_1": {
+    "text": "ミッドナイトの実験から始まり、ミニマリズムを讃える愛の手紙となりました。",
+    "original": "started as a midnight experiment and became a love letter to minimalism.",
+    "translated_at": "2026-01-19T08:11:52.594722"
+  },
+  "about_paragraph_2": {
+    "text": "祖母の寝室にあった小さな硬表紙の名言集は、手のひらサイズで、花柄の布張りでした。ページをめくり、数行読んで置いてくる。一部の名言は考えさせられ、他のものは何年も心に残りました。その本がこのプロジェクトの原点です。「データを美しく視覚化するにはどうすればいいか」から始まったのが、「これらの洞察をどのようにして心に残るものにするか」へと変わっていきました。",
+    "original": "My grandmother had a small hardbound book of quotes in her bedroom...palm-sized, with a floral textile cover. You'd pick it up, flip through a few pages, and put it down. Some quotes made you think. Others stayed with you for years. That book shaped this project. What began as \"how do I visualize this data beautifully\" became \"how do I make these nuggets stick.\"",
+    "translated_at": "2026-01-19T08:11:52.594724"
+  },
+  "about_paragraph_3": {
+    "text": "年月を経て、製品開発の実践者たちとの何千ものインタビューを通じて、膨大な知見のリポジトリを構築してきました。そこには、何十億人もの人々が使うプロダクトを生み出してきた専門家たちの知恵が凝縮されています。このプロジェクトは、その知見の奥深さに光を当て、共通の洞察、専門家の意見の違い、そして輝く金塊を表出させることを目的としています。",
+    "original": "has built an extraordinary repository of product wisdom over the years—conversations with practitioners who've shipped products used by billions. This project is a navigation layer for that depth, surfacing the gold: the insights, the points of consensus, and the moments where experts see things differently.",
+    "translated_at": "2026-01-19T08:11:52.594725"
+  },
+  "about_paragraph_4": {
+    "text": "インターフェースは、敢えて極端にシンプルに設計されています。複雑な視覚表現はなく、ゲストをパーソナライズするボットもいません。たった1分で消化でき、また後々振り返ることができる、そんな洞察を提供することが目的です。コンテンツこそがプロダクトであり、それ以外のものはすべて消えていくべきです。",
+    "original": "The interface is very deliberately bare. No convoluted visuals. No chatbots personifying the guests. Just insights you can consume and put down in a minute and revisit. And maybe they make you reflect later. The content is the product, everything else should disappear.",
+    "translated_at": "2026-01-19T08:11:52.594726"
+  },
+  "about_tagline": {
+    "text": "ベルリンでプロダクトを創る",
+    "original": "Building products in Berlin",
+    "translated_at": "2026-01-19T08:11:52.594727"
+  },
+  "breadcrumb_home": {
+    "text": "ホーム",
+    "original": "Home",
+    "translated_at": "2026-01-19T08:11:52.594729"
+  },
+  "aria_share": {
+    "text": "共有",
+    "original": "Share",
+    "translated_at": "2026-01-19T08:11:52.594730"
+  },
+  "aria_copy_link": {
+    "text": "リンクをクリップボードにコピー",
+    "original": "Copy link to clipboard",
+    "translated_at": "2026-01-19T08:11:52.594731"
+  },
+  "aria_share_linkedin": {
+    "text": "LinkedInで共有",
+    "original": "Share on LinkedIn",
+    "translated_at": "2026-01-19T08:11:52.594733"
+  },
+  "aria_share_x": {
+    "text": "Xで共有",
+    "original": "Share on X",
+    "translated_at": "2026-01-19T08:11:52.594734"
+  },
+  "count_insights": {
+    "text": "{count}個のインサイト",
+    "original": "{count} insights",
+    "translated_at": "2026-01-19T08:11:52.594735"
+  },
+  "count_quotes": {
+    "text": "{count}個の名言",
+    "original": "{count} quotes",
+    "translated_at": "2026-01-19T08:11:52.594737"
+  },
+  "count_guests": {
+    "text": "{count}人のゲスト",
+    "original": "{count} guests",
+    "translated_at": "2026-01-19T08:11:52.594738"
+  },
+  "count_episodes": {
+    "text": "{count}エピソード",
+    "original": "{count} episodes",
+    "translated_at": "2026-01-19T08:11:52.594739"
+  },
+  "lang_english": {
+    "text": "英語",
+    "original": "English",
+    "translated_at": "2026-01-19T08:11:52.594741"
+  },
+  "lang_spanish": {
+    "text": "スペイン語",
+    "original": "Spanish",
+    "translated_at": "2026-01-19T08:11:52.594742"
+  },
+  "lang_portuguese": {
+    "text": "ポルトガル語（ブラジル）",
+    "original": "Portuguese (Brazil)",
+    "translated_at": "2026-01-19T08:11:52.594743"
+  },
+  "lang_japanese": {
+    "text": "日本語",
+    "original": "Japanese",
+    "translated_at": "2026-01-19T08:11:52.594745"
+  },
+  "lang_korean": {
+    "text": "韓国語",
+    "original": "Korean",
+    "translated_at": "2026-01-19T08:11:52.594746"
+  },
+  "lang_german": {
+    "text": "ドイツ語",
+    "original": "German",
+    "translated_at": "2026-01-19T08:11:52.594747"
+  },
+  "lang_french": {
+    "text": "フランス語",
+    "original": "French",
+    "translated_at": "2026-01-19T08:11:52.594749"
+  },
+  "lang_hindi": {
+    "text": "ヒンディー語",
+    "original": "Hindi",
+    "translated_at": "2026-01-19T08:11:52.594750"
+  },
+  "lang_marathi": {
+    "text": "マラーティー語",
+    "original": "Marathi",
+    "translated_at": "2026-01-19T08:11:52.594751"
+  },
+  "stance_supporting": {
+    "text": "支持",
+    "original": "Supporting",
+    "translated_at": "2026-01-19T08:11:52.594752"
+  },
+  "stance_nuanced": {
+    "text": "微妙",
+    "original": "Nuanced",
+    "translated_at": "2026-01-19T08:11:52.594754"
+  },
+  "stance_caveat": {
+    "text": "但し書き付き",
+    "original": "With caveats",
+    "translated_at": "2026-01-19T08:11:52.594755"
+  },
+  "stance_contrarian": {
+    "text": "対立",
+    "original": "Contrarian",
+    "translated_at": "2026-01-19T08:11:52.594756"
+  },
+  "stance_defining": {
+    "text": "定義",
+    "original": "Defining",
+    "translated_at": "2026-01-19T08:11:52.594758"
+  },
+  "footer_content_by": {
+    "text": "コンテンツ作成者",
+    "original": "All content by",
+    "translated_at": "2026-01-19T08:11:52.594759"
+  },
+  "footer_built_by": {
+    "text": "制作",
+    "original": "Built by",
+    "translated_at": "2026-01-19T08:11:52.594760"
+  },
+  "footer_privacy": {
+    "text": "Cookie不使用・個人情報収集なし",
+    "original": "Cookie-free analytics · No personal data collected",
+    "translated_at": "2026-01-19T08:11:52.594761"
+  },
+  "footer_newsletter_title": {
+    "text": "Lennyのニュースレター",
+    "original": "Lenny's Newsletter",
+    "translated_at": "2026-01-19T08:11:52.594763"
+  },
+  "footer_newsletter_cta": {
+    "text": "www.lennysnewsletter.comで購読",
+    "original": "Read and subscribe at www.lennysnewsletter.com",
+    "translated_at": "2026-01-19T08:11:52.594764"
+  },
+  "lang_turkish": {
+    "text": "トルコ語",
+    "original": "Turkish",
+    "translated_at": "2026-01-19T10:38:20.251740"
+  },
+  "lang_chinese": {
+    "text": "中国語(簡体字)",
+    "original": "Chinese (Simplified)",
+    "translated_at": "2026-01-19T10:38:20.251747"
+  },
+  "action_discover_another": {
+    "text": "別のインサイトを探す",
+    "original": "Discover another insight",
+    "translated_at": "2026-01-21T23:16:14.378202"
+  },
+  "section_explore_archetype": {
+    "text": "アーキタイプ別の洞察を探索",
+    "original": "Explore insights by archetype",
+    "translated_at": "2026-01-22T02:15:14.305781"
+  },
+  "archetype_framework_by": {
+    "text": "プロダクトリーダーのアーキタイプ by",
+    "original": "Product Leader Archetypes by",
+    "translated_at": "2026-01-22T02:15:14.305790"
+  },
+  "archetype_also_explore": {
+    "text": "さらに探索:",
+    "original": "Also explore:",
+    "translated_at": "2026-01-22T02:15:14.305791"
+  },
+  "archetype_also": {
+    "text": "{archetype}も",
+    "original": "also {archetype}",
+    "translated_at": "2026-01-22T02:15:14.305792"
+  },
+  "archetype_key_signals": {
+    "text": "重要なシグナル",
+    "original": "Key signals",
+    "translated_at": "2026-01-22T02:15:14.305794"
+  },
+  "archetype_operator_name": {
+    "text": "オペレーター",
+    "original": "The Operator",
+    "translated_at": "2026-01-22T02:15:14.305795"
+  },
+  "archetype_operator_desc": {
+    "text": "オペレーターは、プロセス、スケーリング、そして円滑にチームを運営することに焦点を置きます。彼らは、アラインメント、調整、そして実行システムについて考えます。",
+    "original": "Operators focus on processes, scaling, and making teams run smoothly. They think about alignment, coordination, and execution systems.",
+    "translated_at": "2026-01-22T02:15:14.305796"
+  },
+  "archetype_operator_tooltip": {
+    "text": "スケーリング、アラインメント、実行。特殊能力: コミュニケーション",
+    "original": "Scaling, alignment, execution. Superpower: communication",
+    "translated_at": "2026-01-22T02:15:14.305797"
+  },
+  "archetype_operator_signal_1": {
+    "text": "チームの儀式とプロセス",
+    "original": "Team rituals and processes",
+    "translated_at": "2026-01-22T02:15:14.305798"
+  },
+  "archetype_operator_signal_2": {
+    "text": "クロスファンクショナルなコーディネーション",
+    "original": "Cross-functional coordination",
+    "translated_at": "2026-01-22T02:15:14.305799"
+  },
+  "archetype_operator_signal_3": {
+    "text": "スケーリングと組織設計",
+    "original": "Scaling and org design",
+    "translated_at": "2026-01-22T02:15:14.305800"
+  },
+  "archetype_operator_signal_4": {
+    "text": "メトリクスと説明責任",
+    "original": "Metrics and accountability",
+    "translated_at": "2026-01-22T02:15:14.305801"
+  },
+  "archetype_operator_signal_5": {
+    "text": "障害の除去",
+    "original": "Removing blockers",
+    "translated_at": "2026-01-22T02:15:14.305802"
+  },
+  "archetype_craftsperson_name": {
+    "text": "クラフトマン",
+    "original": "The Craftsperson",
+    "translated_at": "2026-01-22T02:15:14.305803"
+  },
+  "archetype_craftsperson_desc": {
+    "text": "クラフトマンは、製品の品質、ユーザー体験、そして個人の優秀さに焦点を置きます。彼らは細部を正しく行うことに深い関心があります。",
+    "original": "Craftspeople focus on product quality, user experience, and personal excellence. They care deeply about getting the details right.",
+    "translated_at": "2026-01-22T02:15:14.305804"
+  },
+  "archetype_craftsperson_tooltip": {
+    "text": "製品、戦略、メンタリング。特殊能力: 製品洞察",
+    "original": "Product, strategy, mentoring. Superpower: product insight",
+    "translated_at": "2026-01-22T02:15:14.305805"
+  },
+  "archetype_craftsperson_signal_1": {
+    "text": "製品の感覚と直感",
+    "original": "Product sense and intuition",
+    "translated_at": "2026-01-22T02:15:14.305806"
+  },
+  "archetype_craftsperson_signal_2": {
+    "text": "ユーザーの共感と心理学",
+    "original": "User empathy and psychology",
+    "translated_at": "2026-01-22T02:15:14.305807"
+  },
+  "archetype_craftsperson_signal_3": {
+    "text": "速度より品質",
+    "original": "Quality over speed",
+    "translated_at": "2026-01-22T02:15:14.305808"
+  },
+  "archetype_craftsperson_signal_4": {
+    "text": "個人のフレームワーク",
+    "original": "Personal frameworks",
+    "translated_at": "2026-01-22T02:15:14.305808"
+  },
+  "archetype_craftsperson_signal_5": {
+    "text": "細部への配慮",
+    "original": "Attention to detail",
+    "translated_at": "2026-01-22T02:15:14.305811"
+  },
+  "archetype_visionary_name": {
+    "text": "ビジョナリー",
+    "original": "The Visionary",
+    "translated_at": "2026-01-22T02:15:14.305812"
+  },
+  "archetype_visionary_desc": {
+    "text": "ビジョナリーは、未来、戦略、そして大胆な賭けに焦点を置きます。彼らは、市場の変化、新しいカテゴリー、そして長期的な方向性について考えます。",
+    "original": "Visionaries focus on the future, strategy, and bold bets. They think about market shifts, new categories, and long-term direction.",
+    "translated_at": "2026-01-22T02:15:14.305813"
+  },
+  "archetype_visionary_tooltip": {
+    "text": "ビッグピクチャー、次の発明。特殊能力: 他人にはわからないものを見ること",
+    "original": "Big picture, inventing what's next. Superpower: seeing what others can't",
+    "translated_at": "2026-01-22T02:15:14.305814"
+  },
+  "archetype_visionary_signal_1": {
+    "text": "長期的な思考",
+    "original": "Long-term thinking",
+    "translated_at": "2026-01-22T02:15:14.305815"
+  },
+  "archetype_visionary_signal_2": {
+    "text": "市場予測",
+    "original": "Market predictions",
+    "translated_at": "2026-01-22T02:15:14.305816"
+  },
+  "archetype_visionary_signal_3": {
+    "text": "ゼロから一への創造",
+    "original": "Zero-to-one creation",
+    "translated_at": "2026-01-22T02:15:14.305817"
+  },
+  "archetype_visionary_signal_4": {
+    "text": "大胆な賭け",
+    "original": "Bold bets",
+    "translated_at": "2026-01-22T02:15:14.305817"
+  },
+  "archetype_visionary_signal_5": {
+    "text": "点と点をつなぐ",
+    "original": "Connecting dots",
+    "translated_at": "2026-01-22T02:15:14.305818"
+  },
+  "wisdom_map_title": {
+    "text": "PM知識マップ",
+    "original": "PM Wisdom Map",
+    "translated_at": "2026-01-22T02:15:14.305819"
+  },
+  "wisdom_map_cta_title": {
+    "text": "PM知識マップ",
+    "original": "PM Wisdom Map",
+    "translated_at": "2026-01-22T02:15:14.305820"
+  },
+  "wisdom_map_cta_desc": {
+    "text": "対話型のビジュアライゼーションで洞察を探索",
+    "original": "Explore insights as an interactive visualization",
+    "translated_at": "2026-01-22T02:15:14.305821"
+  },
+  "wisdom_map_clear": {
+    "text": "クリア",
+    "original": "Clear",
+    "translated_at": "2026-01-22T02:15:14.305822"
+  },
+  "wisdom_map_click_to_explore": {
+    "text": "ノードをクリックして洞察をフィルターする",
+    "original": "Click nodes to filter insights",
+    "translated_at": "2026-01-22T02:15:14.305823"
+  },
+  "wisdom_map_click_dimension": {
+    "text": "次元をクリックして絞り込む",
+    "original": "Click a dimension to narrow down",
+    "translated_at": "2026-01-22T02:15:14.305826"
+  },
+  "wisdom_map_subthemes": {
+    "text": "サブテーマ",
+    "original": "Sub-themes",
+    "translated_at": "2026-01-22T02:15:14.305827"
+  },
+  "wisdom_map_insights": {
+    "text": "洞察",
+    "original": "Insights",
+    "translated_at": "2026-01-22T02:15:14.305828"
+  },
+  "wisdom_map_view_all": {
+    "text": "サイト上のすべてを表示 →",
+    "original": "View all on site →",
+    "translated_at": "2026-01-22T02:15:14.305829"
+  },
+  "wisdom_map_desktop_required": {
+    "text": "デスクトップが必要",
+    "original": "Desktop Required",
+    "translated_at": "2026-01-22T02:15:14.305829"
+  },
+  "wisdom_map_desktop_message": {
+    "text": "PM知識マップのビジュアライゼーションはより大きな画面向けに設計されています。対話型の図を探索するには、デスクトップやラップトップでアクセスしてください。",
+    "original": "The PM Wisdom Map visualization is designed for larger screens. Please visit on a desktop or laptop to explore the interactive diagram.",
+    "translated_at": "2026-01-22T02:15:14.305830"
+  },
+  "wisdom_map_browse_instead": {
+    "text": "← テーマ別の洞察を閲覧",
+    "original": "← Browse insights by theme",
+    "translated_at": "2026-01-22T02:15:14.305831"
+  },
+  "wisdom_map_no_insights_match": {
+    "text": "この条件に一致する洞察はありません",
+    "original": "No insights match this filter",
+    "translated_at": "2026-01-22T02:15:14.305832"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "dim:craft": {
+    "text": "कला",
+    "original": "Craft",
+    "translated_at": "2026-01-18T14:30:06.391242"
+  },
+  "dim:strategy": {
+    "text": "रणनीती",
+    "original": "Strategy",
+    "translated_at": "2026-01-18T14:30:06.391255"
+  },
+  "dim:leadership": {
+    "text": "नेतृत्व",
+    "original": "Leadership",
+    "translated_at": "2026-01-18T14:30:06.391256"
+  },
+  "dim:growth": {
+    "text": "वाढ",
+    "original": "Growth",
+    "translated_at": "2026-01-18T14:30:06.391257"
+  },
+  "dim:execution": {
+    "text": "अंमलबजावणी",
+    "original": "Execution",
+    "translated_at": "2026-01-18T14:30:06.391258"
+  },
+  "dim:discovery": {
+    "text": "शोध",
+    "original": "Discovery",
+    "translated_at": "2026-01-18T14:30:06.391258"
+  },
+  "sub:career-growth": {
+    "text": "करियर वाढ",
+    "original": "Career Growth",
+    "translated_at": "2026-01-18T14:30:06.391259"
+  },
+  "sub:decision-making": {
+    "text": "निर्णय घेणे",
+    "original": "Decision Making",
+    "translated_at": "2026-01-18T14:30:06.391260"
+  },
+  "sub:product-sense": {
+    "text": "उत्पादन प्रतीती",
+    "original": "Product Sense",
+    "translated_at": "2026-01-18T14:30:06.391261"
+  },
+  "sub:time-energy": {
+    "text": "वेळ आणि ऊर्जा",
+    "original": "Time & Energy",
+    "translated_at": "2026-01-18T14:30:06.391262"
+  },
+  "sub:execution-sense": {
+    "text": "अंमलबजावणी प्रतीती",
+    "original": "Execution Sense",
+    "translated_at": "2026-01-18T14:30:06.391262"
+  },
+  "sub:analytical-sense": {
+    "text": "विश्लेषणात्मक प्रतीती",
+    "original": "Analytical Sense",
+    "translated_at": "2026-01-18T14:30:06.391263"
+  },
+  "sub:vision-mission": {
+    "text": "दृष्टी आणि ध्येय",
+    "original": "Vision & Mission",
+    "translated_at": "2026-01-18T14:30:06.391264"
+  },
+  "sub:prioritization": {
+    "text": "प्राधान्यक्रम",
+    "original": "Prioritization",
+    "translated_at": "2026-01-18T14:30:06.391265"
+  },
+  "sub:market-positioning": {
+    "text": "बाजारातील स्थान",
+    "original": "Market Positioning",
+    "translated_at": "2026-01-18T14:30:06.391266"
+  },
+  "sub:roadmaps-planning": {
+    "text": "रोडमॅप आणि नियोजन",
+    "original": "Roadmaps & Planning",
+    "translated_at": "2026-01-18T14:30:06.391266"
+  },
+  "sub:policy-compliance-ethics": {
+    "text": "धोरण आणि नैतिकता",
+    "original": "Policy & Ethics",
+    "translated_at": "2026-01-18T14:30:06.391267"
+  },
+  "sub:culture": {
+    "text": "संस्कृती",
+    "original": "Culture",
+    "translated_at": "2026-01-18T14:30:06.391268"
+  },
+  "sub:team-building": {
+    "text": "टीम बांधणी",
+    "original": "Team Building",
+    "translated_at": "2026-01-18T14:30:06.391269"
+  },
+  "sub:org-design": {
+    "text": "संघटना डिझाइन",
+    "original": "Org Design",
+    "translated_at": "2026-01-18T14:30:06.391270"
+  },
+  "sub:stakeholder-management": {
+    "text": "हितधारक व्यवस्थापन",
+    "original": "Stakeholder Management",
+    "translated_at": "2026-01-18T14:30:06.391270"
+  },
+  "sub:influence-without-authority": {
+    "text": "प्राधिकार शिवाय प्रभाव",
+    "original": "Influence Without Authority",
+    "translated_at": "2026-01-18T14:30:06.391271"
+  },
+  "sub:acquisition": {
+    "text": "संग्रह",
+    "original": "Acquisition",
+    "translated_at": "2026-01-18T14:30:06.391276"
+  },
+  "sub:experimentation-metrics": {
+    "text": "प्रायोगिकता आणि मापदंड",
+    "original": "Experimentation & Metrics",
+    "translated_at": "2026-01-18T14:30:06.391277"
+  },
+  "sub:activation-onboarding": {
+    "text": "सक्रियण आणि ऑनबोर्डिंग",
+    "original": "Activation & Onboarding",
+    "translated_at": "2026-01-18T14:30:06.391277"
+  },
+  "sub:monetization-pricing": {
+    "text": "मुद्रीकरण आणि किंमत",
+    "original": "Monetization & Pricing",
+    "translated_at": "2026-01-18T14:30:06.391278"
+  },
+  "sub:retention-engagement": {
+    "text": "प्रतिधारण आणि गुंतवणूक",
+    "original": "Retention & Engagement",
+    "translated_at": "2026-01-18T14:30:06.391279"
+  },
+  "sub:process-rituals": {
+    "text": "प्रक्रिया आणि संस्कार",
+    "original": "Process & Rituals",
+    "translated_at": "2026-01-18T14:30:06.391280"
+  },
+  "sub:shipping-velocity": {
+    "text": "शिपिंग वेग",
+    "original": "Shipping Velocity",
+    "translated_at": "2026-01-18T14:30:06.391280"
+  },
+  "sub:working-with-engineering": {
+    "text": "अभियांत्रिकीसह काम करणे",
+    "original": "Working with Engineering",
+    "translated_at": "2026-01-18T14:30:06.391281"
+  },
+  "sub:technical-tradeoffs": {
+    "text": "तांत्रिक विनिमय",
+    "original": "Technical Tradeoffs",
+    "translated_at": "2026-01-18T14:30:06.391282"
+  },
+  "sub:working-with-design": {
+    "text": "डिझाइनसह काम करणे",
+    "original": "Working with Design",
+    "translated_at": "2026-01-18T14:30:06.391283"
+  },
+  "sub:user-psychology": {
+    "text": "वापरकर्ता मानसशास्त्र",
+    "original": "User Psychology",
+    "translated_at": "2026-01-18T14:30:06.391283"
+  },
+  "sub:customer-interviews": {
+    "text": "ग्राहक मुलाखती",
+    "original": "Customer Interviews",
+    "translated_at": "2026-01-18T14:30:06.391284"
+  },
+  "sub:problem-identification": {
+    "text": "समस्या ओळख",
+    "original": "Problem Identification",
+    "translated_at": "2026-01-18T14:30:06.391285"
+  },
+  "sub:opportunity-mapping": {
+    "text": "संधी मॅपिंग",
+    "original": "Opportunity Mapping",
+    "translated_at": "2026-01-18T14:30:06.391286"
+  },
+  "sub:design-thinking": {
+    "text": "डिझाइन चिंतन",
+    "original": "Design Thinking",
+    "translated_at": "2026-01-18T14:30:06.391287"
+  },
+  "desc:craft": {
+    "text": "वैयक्तिक PM साधनपेटी आणि कौशल्ये",
+    "original": "Personal PM toolkit and skills",
+    "translated_at": "2026-01-18T18:39:52.231141"
+  },
+  "desc:strategy": {
+    "text": "दृष्टी, स्थानिकीकरण, प्राधान्यक्रम निर्धारण, व्यावसायिक मॉडेल, रुपरेषा",
+    "original": "Vision, positioning, prioritization, business models, roadmaps",
+    "translated_at": "2026-01-18T18:39:52.231151"
+  },
+  "desc:leadership": {
+    "text": "प्रभाव, हितधारक, टीमस, संस्कृती",
+    "original": "Influence, stakeholders, teams, culture",
+    "translated_at": "2026-01-18T18:39:52.231152"
+  },
+  "desc:growth": {
+    "text": "अधिग्रहण, सक्रियीकरण, धारणा, मुद्रीकरण, मापदंड",
+    "original": "Acquisition, activation, retention, monetization, metrics",
+    "translated_at": "2026-01-18T18:39:52.231153"
+  },
+  "desc:execution": {
+    "text": "प्रकाशन, पुनरावृत्ती, प्रक्रिया, इंजिनिअरिंग/डिझाइनसह काम करणे",
+    "original": "Shipping, iteration, process, working with eng/design",
+    "translated_at": "2026-01-18T18:39:52.231154"
+  },
+  "desc:discovery": {
+    "text": "वापरकर्त्यांचे समजून घेणे, संशोधन, समस्या आणि संधी",
+    "original": "Understanding users, research, problems & opportunities",
+    "translated_at": "2026-01-18T18:39:52.231155"
+  }
+}

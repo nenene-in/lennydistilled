@@ -1,0 +1,217 @@
+{
+  "dim:craft": {
+    "text": "Uygulama",
+    "original": "Craft",
+    "translated_at": "2026-01-19T09:13:15.521789"
+  },
+  "dim:strategy": {
+    "text": "Strateji",
+    "original": "Strategy",
+    "translated_at": "2026-01-19T09:13:15.521801"
+  },
+  "dim:leadership": {
+    "text": "Liderlik",
+    "original": "Leadership",
+    "translated_at": "2026-01-19T09:13:15.521802"
+  },
+  "dim:growth": {
+    "text": "Büyüme",
+    "original": "Growth",
+    "translated_at": "2026-01-19T09:13:15.521803"
+  },
+  "dim:execution": {
+    "text": "İcra",
+    "original": "Execution",
+    "translated_at": "2026-01-19T09:13:15.521804"
+  },
+  "dim:discovery": {
+    "text": "Keşif",
+    "original": "Discovery",
+    "translated_at": "2026-01-19T09:13:15.521805"
+  },
+  "sub:career-growth": {
+    "text": "Kariyer Gelişimi",
+    "original": "Career Growth",
+    "translated_at": "2026-01-19T09:13:15.521806"
+  },
+  "sub:decision-making": {
+    "text": "Karar Verme",
+    "original": "Decision Making",
+    "translated_at": "2026-01-19T09:13:15.521807"
+  },
+  "sub:product-sense": {
+    "text": "Ürün Algısı",
+    "original": "Product Sense",
+    "translated_at": "2026-01-19T09:13:15.521808"
+  },
+  "sub:time-energy": {
+    "text": "Zaman ve Enerji",
+    "original": "Time & Energy",
+    "translated_at": "2026-01-19T09:13:15.521809"
+  },
+  "sub:execution-sense": {
+    "text": "İcra Algısı",
+    "original": "Execution Sense",
+    "translated_at": "2026-01-19T09:13:15.521810"
+  },
+  "sub:analytical-sense": {
+    "text": "Analitik Algı",
+    "original": "Analytical Sense",
+    "translated_at": "2026-01-19T09:13:15.521811"
+  },
+  "sub:vision-mission": {
+    "text": "Vizyon ve Misyon",
+    "original": "Vision & Mission",
+    "translated_at": "2026-01-19T09:13:15.521813"
+  },
+  "sub:prioritization": {
+    "text": "Önceliklendirme",
+    "original": "Prioritization",
+    "translated_at": "2026-01-19T09:13:15.521813"
+  },
+  "sub:market-positioning": {
+    "text": "Pazar Konumlandırma",
+    "original": "Market Positioning",
+    "translated_at": "2026-01-19T09:13:15.521814"
+  },
+  "sub:roadmaps-planning": {
+    "text": "Yol Haritaları ve Planlama",
+    "original": "Roadmaps & Planning",
+    "translated_at": "2026-01-19T09:13:15.521815"
+  },
+  "sub:policy-compliance-ethics": {
+    "text": "Politika ve Etik",
+    "original": "Policy & Ethics",
+    "translated_at": "2026-01-19T09:13:15.521816"
+  },
+  "sub:culture": {
+    "text": "Kültür",
+    "original": "Culture",
+    "translated_at": "2026-01-19T09:13:15.521817"
+  },
+  "sub:team-building": {
+    "text": "Takım Oluşturma",
+    "original": "Team Building",
+    "translated_at": "2026-01-19T09:13:15.521818"
+  },
+  "sub:org-design": {
+    "text": "Organizasyon Tasarımı",
+    "original": "Org Design",
+    "translated_at": "2026-01-19T09:13:15.521820"
+  },
+  "sub:stakeholder-management": {
+    "text": "Paydaş Yönetimi",
+    "original": "Stakeholder Management",
+    "translated_at": "2026-01-19T09:13:15.521820"
+  },
+  "sub:influence-without-authority": {
+    "text": "Yetkisiz Etkileme",
+    "original": "Influence Without Authority",
+    "translated_at": "2026-01-19T09:13:15.521822"
+  },
+  "sub:acquisition": {
+    "text": "Edinim",
+    "original": "Acquisition",
+    "translated_at": "2026-01-19T09:13:15.521823"
+  },
+  "sub:experimentation-metrics": {
+    "text": "Deneysellik ve Ölçümler",
+    "original": "Experimentation & Metrics",
+    "translated_at": "2026-01-19T09:13:15.521824"
+  },
+  "sub:activation-onboarding": {
+    "text": "Aktifleştirme ve Onboarding",
+    "original": "Activation & Onboarding",
+    "translated_at": "2026-01-19T09:13:15.521825"
+  },
+  "sub:monetization-pricing": {
+    "text": "Gelir Modeli ve Fiyatlandırma",
+    "original": "Monetization & Pricing",
+    "translated_at": "2026-01-19T09:13:15.521826"
+  },
+  "sub:retention-engagement": {
+    "text": "Tutundurma ve Bağlılık",
+    "original": "Retention & Engagement",
+    "translated_at": "2026-01-19T09:13:15.521827"
+  },
+  "sub:process-rituals": {
+    "text": "Süreçler ve Ritüeller",
+    "original": "Process & Rituals",
+    "translated_at": "2026-01-19T09:13:15.521828"
+  },
+  "sub:shipping-velocity": {
+    "text": "Yayınlama Hızı",
+    "original": "Shipping Velocity",
+    "translated_at": "2026-01-19T09:13:15.521829"
+  },
+  "sub:working-with-engineering": {
+    "text": "Mühendislikle Çalışma",
+    "original": "Working with Engineering",
+    "translated_at": "2026-01-19T09:13:15.521830"
+  },
+  "sub:technical-tradeoffs": {
+    "text": "Teknik Ödünler",
+    "original": "Technical Tradeoffs",
+    "translated_at": "2026-01-19T09:13:15.521831"
+  },
+  "sub:working-with-design": {
+    "text": "Tasarımla Çalışma",
+    "original": "Working with Design",
+    "translated_at": "2026-01-19T09:13:15.521832"
+  },
+  "sub:user-psychology": {
+    "text": "Kullanıcı Psikolojisi",
+    "original": "User Psychology",
+    "translated_at": "2026-01-19T09:13:15.521833"
+  },
+  "sub:customer-interviews": {
+    "text": "Müşteri Görüşmeleri",
+    "original": "Customer Interviews",
+    "translated_at": "2026-01-19T09:13:15.521834"
+  },
+  "sub:problem-identification": {
+    "text": "Problem Tanımlama",
+    "original": "Problem Identification",
+    "translated_at": "2026-01-19T09:13:15.521835"
+  },
+  "sub:opportunity-mapping": {
+    "text": "Fırsat Haritalama",
+    "original": "Opportunity Mapping",
+    "translated_at": "2026-01-19T09:13:15.521836"
+  },
+  "sub:design-thinking": {
+    "text": "Tasarım Düşüncesi",
+    "original": "Design Thinking",
+    "translated_at": "2026-01-19T09:13:15.521837"
+  },
+  "desc:craft": {
+    "text": "Kişisel ürün yönetimi araç kutusu ve becerileri",
+    "original": "Personal PM toolkit and skills",
+    "translated_at": "2026-01-19T09:13:18.497039"
+  },
+  "desc:strategy": {
+    "text": "Vizyon, konumlandırma, önceliklendirme, iş modelleri, yol haritaları",
+    "original": "Vision, positioning, prioritization, business models, roadmaps",
+    "translated_at": "2026-01-19T09:13:18.497049"
+  },
+  "desc:leadership": {
+    "text": "Etki, paydaşlar, takımlar, kültür",
+    "original": "Influence, stakeholders, teams, culture",
+    "translated_at": "2026-01-19T09:13:18.497050"
+  },
+  "desc:growth": {
+    "text": "Kazanma, aktivasyon, tutma, parasal değerlendirme, ölçümler",
+    "original": "Acquisition, activation, retention, monetization, metrics",
+    "translated_at": "2026-01-19T09:13:18.497051"
+  },
+  "desc:execution": {
+    "text": "Gönderme, yineleme, süreç, mühendislik/tasarımla çalışma",
+    "original": "Shipping, iteration, process, working with eng/design",
+    "translated_at": "2026-01-19T09:13:18.497053"
+  },
+  "desc:discovery": {
+    "text": "Kullanıcıları anlama, araştırma, sorunlar ve fırsatlar",
+    "original": "Understanding users, research, problems & opportunities",
+    "translated_at": "2026-01-19T09:13:18.497054"
+  }
+}

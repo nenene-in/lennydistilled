@@ -1,0 +1,542 @@
+{
+  "nav_home": {
+    "text": "Accueil",
+    "original": "Home",
+    "translated_at": "2026-01-19T08:12:40.565686"
+  },
+  "nav_about": {
+    "text": "À propos",
+    "original": "About",
+    "translated_at": "2026-01-19T08:12:40.565696"
+  },
+  "nav_guests": {
+    "text": "Invités",
+    "original": "Guests",
+    "translated_at": "2026-01-19T08:12:40.565697"
+  },
+  "nav_episodes": {
+    "text": "Épisodes",
+    "original": "Episodes",
+    "translated_at": "2026-01-19T08:12:40.565699"
+  },
+  "section_featured": {
+    "text": "À la une",
+    "original": "Featured",
+    "translated_at": "2026-01-19T08:12:40.565700"
+  },
+  "section_browse_themes": {
+    "text": "Explorer par thème",
+    "original": "Browse by theme",
+    "translated_at": "2026-01-19T08:12:40.565701"
+  },
+  "section_common_questions": {
+    "text": "Questions fréquentes",
+    "original": "Common Questions",
+    "translated_at": "2026-01-19T08:12:40.565703"
+  },
+  "label_also_in": {
+    "text": "Également dans {topic} :",
+    "original": "Also in {topic}:",
+    "translated_at": "2026-01-19T08:12:40.565704"
+  },
+  "label_related_insight": {
+    "text": "Insight connexe :",
+    "original": "Related insight:",
+    "translated_at": "2026-01-19T08:12:40.565705"
+  },
+  "label_read_more": {
+    "text": "En savoir plus",
+    "original": "Read more",
+    "translated_at": "2026-01-19T08:12:40.565707"
+  },
+  "label_see_experts": {
+    "text": "Voir ce que disent les experts",
+    "original": "See what experts say",
+    "translated_at": "2026-01-19T08:12:40.565708"
+  },
+  "action_share": {
+    "text": "Partager",
+    "original": "Share",
+    "translated_at": "2026-01-19T08:12:40.565709"
+  },
+  "action_share_insight": {
+    "text": "Partager cet insight",
+    "original": "Share this insight",
+    "translated_at": "2026-01-19T08:12:40.565710"
+  },
+  "action_copy_link": {
+    "text": "Copier le lien",
+    "original": "Copy link",
+    "translated_at": "2026-01-19T08:12:40.565711"
+  },
+  "action_share_linkedin": {
+    "text": "Partager sur LinkedIn",
+    "original": "Share on LinkedIn",
+    "translated_at": "2026-01-19T08:12:40.565712"
+  },
+  "action_share_x": {
+    "text": "Partager sur X",
+    "original": "Share on X",
+    "translated_at": "2026-01-19T08:12:40.565713"
+  },
+  "action_watch_at": {
+    "text": "Regarder à {timestamp}",
+    "original": "Watch at {timestamp}",
+    "translated_at": "2026-01-19T08:12:40.565715"
+  },
+  "action_listen_episode": {
+    "text": "Écouter l'épisode",
+    "original": "Listen to episode",
+    "translated_at": "2026-01-19T08:12:40.565716"
+  },
+  "meta_from_podcast": {
+    "text": "Issu du podcast de Lenny",
+    "original": "From Lenny's Podcast",
+    "translated_at": "2026-01-19T08:12:40.565717"
+  },
+  "meta_experts_wisdom": {
+    "text": "{count} experts qui ont partagé leur sagesse sur le podcast de Lenny",
+    "original": "{count} experts who've shared their wisdom on Lenny's Podcast",
+    "translated_at": "2026-01-19T08:12:40.565718"
+  },
+  "meta_episodes_insights": {
+    "text": "{count} épisodes du podcast de Lenny avec des insights distillés",
+    "original": "{count} Lenny's Podcast episodes with distilled insights",
+    "translated_at": "2026-01-19T08:12:40.565719"
+  },
+  "meta_pm_wisdom": {
+    "text": "Sagesse PM distillée de chaque épisode du podcast de Lenny",
+    "original": "PM wisdom distilled from every episode of Lenny's Podcast",
+    "translated_at": "2026-01-19T08:12:40.565720"
+  },
+  "meta_guest_on_topic": {
+    "text": "{guests} sur {topic}. Issu du podcast de Lenny.",
+    "original": "{guests} on {topic}. From Lenny's Podcast.",
+    "translated_at": "2026-01-19T08:12:40.565722"
+  },
+  "meta_insights_about": {
+    "text": "Insights sur {topic} tirés d'interviews d'experts PM",
+    "original": "Insights about {topic} from expert PM interviews",
+    "translated_at": "2026-01-19T08:12:40.565723"
+  },
+  "about_title": {
+    "text": "À propos",
+    "original": "About",
+    "translated_at": "2026-01-19T08:12:40.565724"
+  },
+  "about_story_label": {
+    "text": "L'histoire derrière Lenny Distilled",
+    "original": "The story behind Lenny Distilled",
+    "translated_at": "2026-01-19T08:12:40.565725"
+  },
+  "about_description": {
+    "text": "Une interface minimaliste pour naviguer dans la sagesse PM",
+    "original": "A minimalist interface for navigating PM wisdom",
+    "translated_at": "2026-01-19T08:12:40.565726"
+  },
+  "about_stamp_question": {
+    "text": "LENNY A-T-IL VU CELA ?",
+    "original": "HAS LENNY SEEN THIS?",
+    "translated_at": "2026-01-19T08:12:40.565728"
+  },
+  "about_stamp_hint": {
+    "text": "Lenny n'a pas encore vu cela",
+    "original": "Lenny hasn't seen this yet",
+    "translated_at": "2026-01-19T08:12:40.565729"
+  },
+  "about_stamp_approved": {
+    "text": "LENNY ÉTAIT LÀ",
+    "original": "LENNY WAS HERE",
+    "translated_at": "2026-01-19T08:12:40.565730"
+  },
+  "about_paragraph_1": {
+    "text": "a débuté comme une expérience de minuit et est devenu une lettre d'amour au minimalisme.",
+    "original": "started as a midnight experiment and became a love letter to minimalism.",
+    "translated_at": "2026-01-19T08:12:40.565731"
+  },
+  "about_paragraph_2": {
+    "text": "Ma grand-mère avait un petit livre relié avec des citations dans sa chambre... de la taille d'une paume, avec une couverture en textile floral. Vous le preniez, le feuilletiez quelques pages, et le reposiez. Certaines citations vous faisaient réfléchir. D'autres sont restées avec vous pendant des années. Ce livre a façonné ce projet. Ce qui a commencé comme \"comment visualiser ces données de manière magnifique\" est devenu \"comment faire en sorte que ces pépites restent\".",
+    "original": "My grandmother had a small hardbound book of quotes in her bedroom...palm-sized, with a floral textile cover. You'd pick it up, flip through a few pages, and put it down. Some quotes made you think. Others stayed with you for years. That book shaped this project. What began as \"how do I visualize this data beautifully\" became \"how do I make these nuggets stick.\"",
+    "translated_at": "2026-01-19T08:12:40.565732"
+  },
+  "about_paragraph_3": {
+    "text": "a constitué un dépôt extraordinaire de sagesse produit au fil des années - des conversations avec des praticiens qui ont expédié des produits utilisés par des milliards de personnes. Ce projet est une couche de navigation pour cette profondeur, faisant remonter l'or : les insights, les points de consensus et les moments où les experts voient les choses différemment.",
+    "original": "has built an extraordinary repository of product wisdom over the years—conversations with practitioners who've shipped products used by billions. This project is a navigation layer for that depth, surfacing the gold: the insights, the points of consensus, and the moments where experts see things differently.",
+    "translated_at": "2026-01-19T08:12:40.565733"
+  },
+  "about_paragraph_4": {
+    "text": "L'interface est volontairement dépouillée. Pas de visuels compliqués. Pas de chatbots personnifiant les invités. Juste des insights que vous pouvez consommer et poser en une minute et revoir. Et peut-être qu'ils vous feront réfléchir plus tard. Le contenu est le produit, tout le reste doit disparaître.",
+    "original": "The interface is very deliberately bare. No convoluted visuals. No chatbots personifying the guests. Just insights you can consume and put down in a minute and revisit. And maybe they make you reflect later. The content is the product, everything else should disappear.",
+    "translated_at": "2026-01-19T08:12:40.565735"
+  },
+  "about_tagline": {
+    "text": "Construire des produits à Berlin",
+    "original": "Building products in Berlin",
+    "translated_at": "2026-01-19T08:12:40.565736"
+  },
+  "breadcrumb_home": {
+    "text": "Accueil",
+    "original": "Home",
+    "translated_at": "2026-01-19T08:12:40.565737"
+  },
+  "aria_share": {
+    "text": "Partager",
+    "original": "Share",
+    "translated_at": "2026-01-19T08:12:40.565738"
+  },
+  "aria_copy_link": {
+    "text": "Copier le lien dans le presse-papiers",
+    "original": "Copy link to clipboard",
+    "translated_at": "2026-01-19T08:12:40.565739"
+  },
+  "aria_share_linkedin": {
+    "text": "Partager sur LinkedIn",
+    "original": "Share on LinkedIn",
+    "translated_at": "2026-01-19T08:12:40.565740"
+  },
+  "aria_share_x": {
+    "text": "Partager sur X",
+    "original": "Share on X",
+    "translated_at": "2026-01-19T08:12:40.565742"
+  },
+  "count_insights": {
+    "text": "{count} insights",
+    "original": "{count} insights",
+    "translated_at": "2026-01-19T08:12:40.565743"
+  },
+  "count_quotes": {
+    "text": "{count} citations",
+    "original": "{count} quotes",
+    "translated_at": "2026-01-19T08:12:40.565744"
+  },
+  "count_guests": {
+    "text": "{count} invités",
+    "original": "{count} guests",
+    "translated_at": "2026-01-19T08:12:40.565745"
+  },
+  "count_episodes": {
+    "text": "{count} épisodes",
+    "original": "{count} episodes",
+    "translated_at": "2026-01-19T08:12:40.565747"
+  },
+  "lang_english": {
+    "text": "Anglais",
+    "original": "English",
+    "translated_at": "2026-01-19T08:12:40.565748"
+  },
+  "lang_spanish": {
+    "text": "Espagnol",
+    "original": "Spanish",
+    "translated_at": "2026-01-19T08:12:40.565749"
+  },
+  "lang_portuguese": {
+    "text": "Portugais (Brésil)",
+    "original": "Portuguese (Brazil)",
+    "translated_at": "2026-01-19T08:12:40.565750"
+  },
+  "lang_japanese": {
+    "text": "Japonais",
+    "original": "Japanese",
+    "translated_at": "2026-01-19T08:12:40.565751"
+  },
+  "lang_korean": {
+    "text": "Coréen",
+    "original": "Korean",
+    "translated_at": "2026-01-19T08:12:40.565752"
+  },
+  "lang_german": {
+    "text": "Allemand",
+    "original": "German",
+    "translated_at": "2026-01-19T08:12:40.565753"
+  },
+  "lang_french": {
+    "text": "Français",
+    "original": "French",
+    "translated_at": "2026-01-19T08:12:40.565754"
+  },
+  "lang_hindi": {
+    "text": "Hindi",
+    "original": "Hindi",
+    "translated_at": "2026-01-19T08:12:40.565756"
+  },
+  "lang_marathi": {
+    "text": "Marathi",
+    "original": "Marathi",
+    "translated_at": "2026-01-19T08:12:40.565757"
+  },
+  "stance_supporting": {
+    "text": "En faveur",
+    "original": "Supporting",
+    "translated_at": "2026-01-19T08:12:40.565758"
+  },
+  "stance_nuanced": {
+    "text": "Nuancé",
+    "original": "Nuanced",
+    "translated_at": "2026-01-19T08:12:40.565759"
+  },
+  "stance_caveat": {
+    "text": "Avec réserves",
+    "original": "With caveats",
+    "translated_at": "2026-01-19T08:12:40.565760"
+  },
+  "stance_contrarian": {
+    "text": "Contrarian",
+    "original": "Contrarian",
+    "translated_at": "2026-01-19T08:12:40.565761"
+  },
+  "stance_defining": {
+    "text": "Définissant",
+    "original": "Defining",
+    "translated_at": "2026-01-19T08:12:40.565762"
+  },
+  "footer_content_by": {
+    "text": "Tout le contenu par",
+    "original": "All content by",
+    "translated_at": "2026-01-19T08:12:40.565763"
+  },
+  "footer_built_by": {
+    "text": "Construit par",
+    "original": "Built by",
+    "translated_at": "2026-01-19T08:12:40.565764"
+  },
+  "footer_privacy": {
+    "text": "Analyses sans cookies · Aucune donnée personnelle collectée",
+    "original": "Cookie-free analytics · No personal data collected",
+    "translated_at": "2026-01-19T08:12:40.565766"
+  },
+  "footer_newsletter_title": {
+    "text": "La Newsletter de Lenny",
+    "original": "Lenny's Newsletter",
+    "translated_at": "2026-01-19T08:12:40.565767"
+  },
+  "footer_newsletter_cta": {
+    "text": "Lire et s'abonner sur www.lennysnewsletter.com",
+    "original": "Read and subscribe at www.lennysnewsletter.com",
+    "translated_at": "2026-01-19T08:12:40.565768"
+  },
+  "lang_turkish": {
+    "text": "Turc",
+    "original": "Turkish",
+    "translated_at": "2026-01-19T10:38:20.175291"
+  },
+  "lang_chinese": {
+    "text": "Chinois (simplifié)",
+    "original": "Chinese (Simplified)",
+    "translated_at": "2026-01-19T10:38:20.175301"
+  },
+  "action_discover_another": {
+    "text": "Découvrir une autre idée",
+    "original": "Discover another insight",
+    "translated_at": "2026-01-21T23:16:14.380249"
+  },
+  "section_explore_archetype": {
+    "text": "Explorer les perspectives par archétype",
+    "original": "Explore insights by archetype",
+    "translated_at": "2026-01-22T02:15:33.217870"
+  },
+  "archetype_framework_by": {
+    "text": "Archétypes de Leaders Produit par",
+    "original": "Product Leader Archetypes by",
+    "translated_at": "2026-01-22T02:15:33.217884"
+  },
+  "archetype_also_explore": {
+    "text": "Explorez également :",
+    "original": "Also explore:",
+    "translated_at": "2026-01-22T02:15:33.217886"
+  },
+  "archetype_also": {
+    "text": "aussi {archetype}",
+    "original": "also {archetype}",
+    "translated_at": "2026-01-22T02:15:33.217887"
+  },
+  "archetype_key_signals": {
+    "text": "Signaux clés",
+    "original": "Key signals",
+    "translated_at": "2026-01-22T02:15:33.217888"
+  },
+  "archetype_operator_name": {
+    "text": "L'Opérateur",
+    "original": "The Operator",
+    "translated_at": "2026-01-22T02:15:33.217889"
+  },
+  "archetype_operator_desc": {
+    "text": "Les opérateurs se concentrent sur les processus, la mise à l'échelle et le bon fonctionnement des équipes. Ils réfléchissent à l'alignement, à la coordination et aux systèmes d'exécution.",
+    "original": "Operators focus on processes, scaling, and making teams run smoothly. They think about alignment, coordination, and execution systems.",
+    "translated_at": "2026-01-22T02:15:33.217892"
+  },
+  "archetype_operator_tooltip": {
+    "text": "Mise à l'échelle, alignement, exécution. Superpouvoirs : communication",
+    "original": "Scaling, alignment, execution. Superpower: communication",
+    "translated_at": "2026-01-22T02:15:33.217893"
+  },
+  "archetype_operator_signal_1": {
+    "text": "Rituels et processus d'équipe",
+    "original": "Team rituals and processes",
+    "translated_at": "2026-01-22T02:15:33.217894"
+  },
+  "archetype_operator_signal_2": {
+    "text": "Coordination interfonctionnelle",
+    "original": "Cross-functional coordination",
+    "translated_at": "2026-01-22T02:15:33.217895"
+  },
+  "archetype_operator_signal_3": {
+    "text": "Mise à l'échelle et conception organisationnelle",
+    "original": "Scaling and org design",
+    "translated_at": "2026-01-22T02:15:33.217896"
+  },
+  "archetype_operator_signal_4": {
+    "text": "Métriques et responsabilité",
+    "original": "Metrics and accountability",
+    "translated_at": "2026-01-22T02:15:33.217897"
+  },
+  "archetype_operator_signal_5": {
+    "text": "Suppression des obstacles",
+    "original": "Removing blockers",
+    "translated_at": "2026-01-22T02:15:33.217898"
+  },
+  "archetype_craftsperson_name": {
+    "text": "L'Artisan",
+    "original": "The Craftsperson",
+    "translated_at": "2026-01-22T02:15:33.217899"
+  },
+  "archetype_craftsperson_desc": {
+    "text": "Les artisans se concentrent sur la qualité du produit, l'expérience utilisateur et l'excellence personnelle. Ils se soucient profondément de bien faire les choses.",
+    "original": "Craftspeople focus on product quality, user experience, and personal excellence. They care deeply about getting the details right.",
+    "translated_at": "2026-01-22T02:15:33.217900"
+  },
+  "archetype_craftsperson_tooltip": {
+    "text": "Produit, stratégie, mentorat. Superpouvoirs : intuition produit",
+    "original": "Product, strategy, mentoring. Superpower: product insight",
+    "translated_at": "2026-01-22T02:15:33.217901"
+  },
+  "archetype_craftsperson_signal_1": {
+    "text": "Sens et intuition produit",
+    "original": "Product sense and intuition",
+    "translated_at": "2026-01-22T02:15:33.217902"
+  },
+  "archetype_craftsperson_signal_2": {
+    "text": "Empathie et psychologie de l'utilisateur",
+    "original": "User empathy and psychology",
+    "translated_at": "2026-01-22T02:15:33.217903"
+  },
+  "archetype_craftsperson_signal_3": {
+    "text": "Qualité plutôt que vitesse",
+    "original": "Quality over speed",
+    "translated_at": "2026-01-22T02:15:33.217904"
+  },
+  "archetype_craftsperson_signal_4": {
+    "text": "Cadres personnels",
+    "original": "Personal frameworks",
+    "translated_at": "2026-01-22T02:15:33.217905"
+  },
+  "archetype_craftsperson_signal_5": {
+    "text": "Attention aux détails",
+    "original": "Attention to detail",
+    "translated_at": "2026-01-22T02:15:33.217909"
+  },
+  "archetype_visionary_name": {
+    "text": "Le Visionnaire",
+    "original": "The Visionary",
+    "translated_at": "2026-01-22T02:15:33.217910"
+  },
+  "archetype_visionary_desc": {
+    "text": "Les visionnaires se concentrent sur l'avenir, la stratégie et les paris audacieux. Ils réfléchissent aux évolutions du marché, aux nouvelles catégories et à la direction à long terme.",
+    "original": "Visionaries focus on the future, strategy, and bold bets. They think about market shifts, new categories, and long-term direction.",
+    "translated_at": "2026-01-22T02:15:33.217911"
+  },
+  "archetype_visionary_tooltip": {
+    "text": "Vue d'ensemble, inventer ce qui va suivre. Superpouvoirs : voir ce que les autres ne peuvent pas",
+    "original": "Big picture, inventing what's next. Superpower: seeing what others can't",
+    "translated_at": "2026-01-22T02:15:33.217912"
+  },
+  "archetype_visionary_signal_1": {
+    "text": "Réflexion à long terme",
+    "original": "Long-term thinking",
+    "translated_at": "2026-01-22T02:15:33.217913"
+  },
+  "archetype_visionary_signal_2": {
+    "text": "Prédictions de marché",
+    "original": "Market predictions",
+    "translated_at": "2026-01-22T02:15:33.217914"
+  },
+  "archetype_visionary_signal_3": {
+    "text": "Création de zéro à un",
+    "original": "Zero-to-one creation",
+    "translated_at": "2026-01-22T02:15:33.217915"
+  },
+  "archetype_visionary_signal_4": {
+    "text": "Paris audacieux",
+    "original": "Bold bets",
+    "translated_at": "2026-01-22T02:15:33.217916"
+  },
+  "archetype_visionary_signal_5": {
+    "text": "Relier les points",
+    "original": "Connecting dots",
+    "translated_at": "2026-01-22T02:15:33.217917"
+  },
+  "wisdom_map_title": {
+    "text": "Carte de la sagesse des gestionnaires de produits",
+    "original": "PM Wisdom Map",
+    "translated_at": "2026-01-22T02:15:33.217918"
+  },
+  "wisdom_map_cta_title": {
+    "text": "Carte de la sagesse des gestionnaires de produits",
+    "original": "PM Wisdom Map",
+    "translated_at": "2026-01-22T02:15:33.217919"
+  },
+  "wisdom_map_cta_desc": {
+    "text": "Explorer les perspectives sous forme de visualisation interactive",
+    "original": "Explore insights as an interactive visualization",
+    "translated_at": "2026-01-22T02:15:33.217920"
+  },
+  "wisdom_map_clear": {
+    "text": "Effacer",
+    "original": "Clear",
+    "translated_at": "2026-01-22T02:15:33.217921"
+  },
+  "wisdom_map_click_to_explore": {
+    "text": "Cliquez sur les nœuds pour filtrer les perspectives",
+    "original": "Click nodes to filter insights",
+    "translated_at": "2026-01-22T02:15:33.217922"
+  },
+  "wisdom_map_click_dimension": {
+    "text": "Cliquez sur une dimension pour affiner",
+    "original": "Click a dimension to narrow down",
+    "translated_at": "2026-01-22T02:15:33.217925"
+  },
+  "wisdom_map_subthemes": {
+    "text": "Sous-thèmes",
+    "original": "Sub-themes",
+    "translated_at": "2026-01-22T02:15:33.217926"
+  },
+  "wisdom_map_insights": {
+    "text": "Perspectives",
+    "original": "Insights",
+    "translated_at": "2026-01-22T02:15:33.217927"
+  },
+  "wisdom_map_view_all": {
+    "text": "Voir tout sur le site →",
+    "original": "View all on site →",
+    "translated_at": "2026-01-22T02:15:33.217928"
+  },
+  "wisdom_map_desktop_required": {
+    "text": "Ordinateur de bureau requis",
+    "original": "Desktop Required",
+    "translated_at": "2026-01-22T02:15:33.217929"
+  },
+  "wisdom_map_desktop_message": {
+    "text": "La visualisation de la carte de la sagesse des gestionnaires de produits est conçue pour les grands écrans. Veuillez la visiter sur un ordinateur de bureau ou un ordinateur portable pour explorer le diagramme interactif.",
+    "original": "The PM Wisdom Map visualization is designed for larger screens. Please visit on a desktop or laptop to explore the interactive diagram.",
+    "translated_at": "2026-01-22T02:15:33.217930"
+  },
+  "wisdom_map_browse_instead": {
+    "text": "← Parcourir les perspectives par thème",
+    "original": "← Browse insights by theme",
+    "translated_at": "2026-01-22T02:15:33.217931"
+  },
+  "wisdom_map_no_insights_match": {
+    "text": "Aucune perspective ne correspond à ce filtre",
+    "original": "No insights match this filter",
+    "translated_at": "2026-01-22T02:15:33.217932"
+  }
+}

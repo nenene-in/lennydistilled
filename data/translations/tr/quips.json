@@ -1,0 +1,135 @@
+[
+  {
+    "text": "47. yan proje. Evet, sayıyorum.",
+    "original": "Side project #47. Yes, I'm counting.",
+    "humor": "Self-deprecating: admits to having way too many unfinished side projects, and the absurdity of actually counting them",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-19T09:13:08.644230"
+  },
+  {
+    "text": "Diğer 99 şeyi bitirmek yerine bunu yaptım.",
+    "original": "Built instead of finishing the other 99 things on my list.",
+    "humor": "Self-deprecating: procrastinated on responsibilities by building yet another thing",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-19T09:13:08.644248"
+  },
+  {
+    "text": "Başka bir gün, başka bir alan adı satın alma.",
+    "original": "Another day, another domain purchase.",
+    "humor": "Developer stereotype: buying domains for projects that never get built. The casualness implies this is a regular occurrence.",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-19T09:13:08.644250"
+  },
+  {
+    "text": "Bunu kesinlikle bitireceğim. (Her seferinde söylediğim gibi.)",
+    "original": "I'll definitely finish this one. (I say, every time.)",
+    "humor": "Self-aware lie: the parenthetical admits they say this about every project and never follow through",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-19T09:13:08.644251"
+  },
+  {
+    "text": "Claude'un uyumaya ihtiyacı olmadığı için ben de uykusuz kaldım.",
+    "original": "Built at 3am because Claude doesn't need sleep and apparently neither do I.",
+    "humor": "Sleep deprivation humor: AI doesn't sleep, human thinks they don't need to either (they do)",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-19T09:13:08.644252"
+  },
+  {
+    "text": "Uyku düzenim bu projenin hayata geçmesi için öldü.",
+    "original": "My sleep schedule died so this could live.",
+    "humor": "Dramatic sacrifice framing for something trivial (a website). Mock-heroic tone.",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-19T09:13:08.644254"
+  },
+  {
+    "text": "Saat 4'e geldiğini fark ettim. Değdi.",
+    "original": "Discovered it was 4am. Worth it.",
+    "humor": "Lost track of time coding, deadpan 'worth it' suggests questionable priorities",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-19T09:13:08.644255"
+  },
+  {
+    "text": "Bilinçsizce çay ve hayatım hakkında soru işaretleri ile beslendim.",
+    "original": "Fueled by mass amounts of tea and questionable life choices.",
+    "humor": "Classic developer fuel joke, but 'questionable life choices' adds self-awareness",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-19T09:13:08.644257"
+  },
+  {
+    "text": "Claude kodu yazdı, ben PR'ları onayladım. İkimiz de kimin daha çok yaptığı konusunda inkardasız.",
+    "original": "Claude wrote the code. I approved the PRs. We're both in denial about who did more.",
+    "humor": "AI collaboration joke: unclear division of labor, both taking/avoiding credit",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-19T09:13:08.644258"
+  },
+  {
+    "text": "AI'ın değişken adlandırma konusunda yargılamadığı bir çift programlama yaptık.",
+    "original": "Pair programmed with an AI that doesn't judge my variable names.",
+    "humor": "Developers are self-conscious about naming things. AI is portrayed as non-judgmental partner.",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-19T09:13:08.644259"
+  },
+  {
+    "text": "AI ile çalışıp artık ben kopilot muyum diye sorguladım.",
+    "original": "Built with Claude while questioning if I'm the copilot now.",
+    "humor": "Role reversal: human is supposed to be in charge but AI might be doing the real work. Reference to GitHub Copilot.",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-19T09:13:08.644260"
+  },
+  {
+    "text": "Claude ve ben birbirimizin... fonksiyonlarını tamamladık.",
+    "original": "Claude and I finished each other's... functions.",
+    "humor": "Subverted rom-com trope ('finish each other's sentences') applied to coding. Sweet but nerdy.",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-19T09:13:08.644262"
+  },
+  {
+    "text": "Bu footer'a tıkladığınız için dopamin veriyorum.",
+    "original": "This footer changes on click. You're welcome for the dopamine.",
+    "humor": "Meta-humor about the interaction itself. Sarcastic 'you're welcome' for a tiny reward.",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-19T09:13:08.644263"
+  },
+  {
+    "text": "Daha çok tıklayın, bunlar için gereksiz çok emek harcadım.",
+    "original": "Keep clicking. I put way too much effort into these.",
+    "humor": "Breaking fourth wall, admitting disproportionate effort on a minor feature",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-19T09:13:08.644264"
+  },
+  {
+    "text": "Hâlâ tıklıyorsun? Kararlılığına saygı duyuyorum.",
+    "original": "You're still clicking? I respect the commitment.",
+    "humor": "Acknowledging the user's persistence with mock-respect",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-19T09:13:08.644265"
+  },
+  {
+    "text": "Vay be, footer fetişin var.",
+    "original": "Wow, you really have a footer fetish.",
+    "humor": "Playfully calling out obsessive clicking behavior. Slightly edgy but harmless.",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-19T09:13:08.644266"
+  },
+  {
+    "text": "Başarı kilidi açıldı: Footer Gezgini.",
+    "original": "Achievement unlocked: Footer Explorer.",
+    "humor": "Gaming reference: fake achievement for clicking through all quips",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-19T09:13:08.644268"
+  },
+  {
+    "text": "Daha fazlası var ama kaç tane olduğunu söylemeyeceğim.",
+    "original": "There are more. But I won't tell you how many.",
+    "humor": "Teasing withholding of information to encourage more clicking",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-19T09:13:08.644269"
+  },
+  {
+    "text": "Hepsini gördün. Şaka, devam et.",
+    "original": "You've seen all of them. Just kidding, keep going.",
+    "humor": "Fake-out: pretends to end the game, then reveals there's more. Playful misdirection.",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-19T09:13:08.644270"
+  }
+]

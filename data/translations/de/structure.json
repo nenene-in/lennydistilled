@@ -1,0 +1,217 @@
+{
+  "dim:craft": {
+    "text": "Handwerk",
+    "original": "Craft",
+    "translated_at": "2026-01-18T14:29:46.264472"
+  },
+  "dim:strategy": {
+    "text": "Strategie",
+    "original": "Strategy",
+    "translated_at": "2026-01-18T14:29:46.264484"
+  },
+  "dim:leadership": {
+    "text": "Führung",
+    "original": "Leadership",
+    "translated_at": "2026-01-18T14:29:46.264485"
+  },
+  "dim:growth": {
+    "text": "Wachstum",
+    "original": "Growth",
+    "translated_at": "2026-01-18T14:29:46.264486"
+  },
+  "dim:execution": {
+    "text": "Umsetzung",
+    "original": "Execution",
+    "translated_at": "2026-01-18T14:29:46.264487"
+  },
+  "dim:discovery": {
+    "text": "Entdeckung",
+    "original": "Discovery",
+    "translated_at": "2026-01-18T14:29:46.264488"
+  },
+  "sub:career-growth": {
+    "text": "Karriereverlauf",
+    "original": "Career Growth",
+    "translated_at": "2026-01-18T14:29:46.264489"
+  },
+  "sub:decision-making": {
+    "text": "Entscheidungsfindung",
+    "original": "Decision Making",
+    "translated_at": "2026-01-18T14:29:46.264489"
+  },
+  "sub:product-sense": {
+    "text": "Produktgefühl",
+    "original": "Product Sense",
+    "translated_at": "2026-01-18T14:29:46.264490"
+  },
+  "sub:time-energy": {
+    "text": "Zeit & Energie",
+    "original": "Time & Energy",
+    "translated_at": "2026-01-18T14:29:46.264491"
+  },
+  "sub:execution-sense": {
+    "text": "Umsetzungsverständnis",
+    "original": "Execution Sense",
+    "translated_at": "2026-01-18T14:29:46.264492"
+  },
+  "sub:analytical-sense": {
+    "text": "Analytisches Verständnis",
+    "original": "Analytical Sense",
+    "translated_at": "2026-01-18T14:29:46.264492"
+  },
+  "sub:vision-mission": {
+    "text": "Vision & Mission",
+    "original": "Vision & Mission",
+    "translated_at": "2026-01-18T14:29:46.264493"
+  },
+  "sub:prioritization": {
+    "text": "Priorisierung",
+    "original": "Prioritization",
+    "translated_at": "2026-01-18T14:29:46.264494"
+  },
+  "sub:market-positioning": {
+    "text": "Marktpositionierung",
+    "original": "Market Positioning",
+    "translated_at": "2026-01-18T14:29:46.264495"
+  },
+  "sub:roadmaps-planning": {
+    "text": "Roadmaps & Planung",
+    "original": "Roadmaps & Planning",
+    "translated_at": "2026-01-18T14:29:46.264495"
+  },
+  "sub:policy-compliance-ethics": {
+    "text": "Richtlinien & Ethik",
+    "original": "Policy & Ethics",
+    "translated_at": "2026-01-18T14:29:46.264496"
+  },
+  "sub:culture": {
+    "text": "Kultur",
+    "original": "Culture",
+    "translated_at": "2026-01-18T14:29:46.264497"
+  },
+  "sub:team-building": {
+    "text": "Teamaufbau",
+    "original": "Team Building",
+    "translated_at": "2026-01-18T14:29:46.264497"
+  },
+  "sub:org-design": {
+    "text": "Organisationsdesign",
+    "original": "Org Design",
+    "translated_at": "2026-01-18T14:29:46.264498"
+  },
+  "sub:stakeholder-management": {
+    "text": "Stakeholder-Management",
+    "original": "Stakeholder Management",
+    "translated_at": "2026-01-18T14:29:46.264499"
+  },
+  "sub:influence-without-authority": {
+    "text": "Einflussnahme ohne Autorität",
+    "original": "Influence Without Authority",
+    "translated_at": "2026-01-18T14:29:46.264500"
+  },
+  "sub:acquisition": {
+    "text": "Akquisition",
+    "original": "Acquisition",
+    "translated_at": "2026-01-18T14:29:46.264500"
+  },
+  "sub:experimentation-metrics": {
+    "text": "Experimente & Kennzahlen",
+    "original": "Experimentation & Metrics",
+    "translated_at": "2026-01-18T14:29:46.264501"
+  },
+  "sub:activation-onboarding": {
+    "text": "Aktivierung & Onboarding",
+    "original": "Activation & Onboarding",
+    "translated_at": "2026-01-18T14:29:46.264502"
+  },
+  "sub:monetization-pricing": {
+    "text": "Monetarisierung & Preisgestaltung",
+    "original": "Monetization & Pricing",
+    "translated_at": "2026-01-18T14:29:46.264502"
+  },
+  "sub:retention-engagement": {
+    "text": "Bindung & Engagement",
+    "original": "Retention & Engagement",
+    "translated_at": "2026-01-18T14:29:46.264503"
+  },
+  "sub:process-rituals": {
+    "text": "Prozesse & Rituale",
+    "original": "Process & Rituals",
+    "translated_at": "2026-01-18T14:29:46.264504"
+  },
+  "sub:shipping-velocity": {
+    "text": "Auslieferungsgeschwindigkeit",
+    "original": "Shipping Velocity",
+    "translated_at": "2026-01-18T14:29:46.264504"
+  },
+  "sub:working-with-engineering": {
+    "text": "Zusammenarbeit mit Technik",
+    "original": "Working with Engineering",
+    "translated_at": "2026-01-18T14:29:46.264505"
+  },
+  "sub:technical-tradeoffs": {
+    "text": "Technische Abwägungen",
+    "original": "Technical Tradeoffs",
+    "translated_at": "2026-01-18T14:29:46.264506"
+  },
+  "sub:working-with-design": {
+    "text": "Zusammenarbeit mit Design",
+    "original": "Working with Design",
+    "translated_at": "2026-01-18T14:29:46.264506"
+  },
+  "sub:user-psychology": {
+    "text": "Benutzerpsychologie",
+    "original": "User Psychology",
+    "translated_at": "2026-01-18T14:29:46.264507"
+  },
+  "sub:customer-interviews": {
+    "text": "Kundeninterviews",
+    "original": "Customer Interviews",
+    "translated_at": "2026-01-18T14:29:46.264508"
+  },
+  "sub:problem-identification": {
+    "text": "Problemidentifikation",
+    "original": "Problem Identification",
+    "translated_at": "2026-01-18T14:29:46.264508"
+  },
+  "sub:opportunity-mapping": {
+    "text": "Chancenmapping",
+    "original": "Opportunity Mapping",
+    "translated_at": "2026-01-18T14:29:46.264509"
+  },
+  "sub:design-thinking": {
+    "text": "Design Thinking",
+    "original": "Design Thinking",
+    "translated_at": "2026-01-18T14:29:46.264510"
+  },
+  "desc:craft": {
+    "text": "Persönliche PM-Werkzeuge und -Kompetenzen",
+    "original": "Personal PM toolkit and skills",
+    "translated_at": "2026-01-18T18:39:42.623113"
+  },
+  "desc:strategy": {
+    "text": "Vision, Positionierung, Priorisierung, Geschäftsmodelle, Roadmaps",
+    "original": "Vision, positioning, prioritization, business models, roadmaps",
+    "translated_at": "2026-01-18T18:39:42.623121"
+  },
+  "desc:leadership": {
+    "text": "Einfluss, Interessengruppen, Teams, Kultur",
+    "original": "Influence, stakeholders, teams, culture",
+    "translated_at": "2026-01-18T18:39:42.623122"
+  },
+  "desc:growth": {
+    "text": "Akquise, Aktivierung, Retention, Monetarisierung, Metriken",
+    "original": "Acquisition, activation, retention, monetization, metrics",
+    "translated_at": "2026-01-18T18:39:42.623123"
+  },
+  "desc:execution": {
+    "text": "Auslieferung, Iteration, Prozess, Zusammenarbeit mit Entwicklung/Design",
+    "original": "Shipping, iteration, process, working with eng/design",
+    "translated_at": "2026-01-18T18:39:42.623124"
+  },
+  "desc:discovery": {
+    "text": "Verständnis von Benutzern, Forschung, Probleme & Chancen",
+    "original": "Understanding users, research, problems & opportunities",
+    "translated_at": "2026-01-18T18:39:42.623125"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "dim:craft": {
+    "text": "기술",
+    "original": "Craft",
+    "translated_at": "2026-01-18T14:29:39.882430"
+  },
+  "dim:strategy": {
+    "text": "전략",
+    "original": "Strategy",
+    "translated_at": "2026-01-18T14:29:39.882440"
+  },
+  "dim:leadership": {
+    "text": "리더십",
+    "original": "Leadership",
+    "translated_at": "2026-01-18T14:29:39.882441"
+  },
+  "dim:growth": {
+    "text": "성장",
+    "original": "Growth",
+    "translated_at": "2026-01-18T14:29:39.882442"
+  },
+  "dim:execution": {
+    "text": "실행",
+    "original": "Execution",
+    "translated_at": "2026-01-18T14:29:39.882443"
+  },
+  "dim:discovery": {
+    "text": "발견",
+    "original": "Discovery",
+    "translated_at": "2026-01-18T14:29:39.882444"
+  },
+  "sub:career-growth": {
+    "text": "경력 성장",
+    "original": "Career Growth",
+    "translated_at": "2026-01-18T14:29:39.882445"
+  },
+  "sub:decision-making": {
+    "text": "의사결정",
+    "original": "Decision Making",
+    "translated_at": "2026-01-18T14:29:39.882446"
+  },
+  "sub:product-sense": {
+    "text": "제품 감각",
+    "original": "Product Sense",
+    "translated_at": "2026-01-18T14:29:39.882446"
+  },
+  "sub:time-energy": {
+    "text": "시간 & 에너지",
+    "original": "Time & Energy",
+    "translated_at": "2026-01-18T14:29:39.882447"
+  },
+  "sub:execution-sense": {
+    "text": "실행 감각",
+    "original": "Execution Sense",
+    "translated_at": "2026-01-18T14:29:39.882448"
+  },
+  "sub:analytical-sense": {
+    "text": "분석적 감각",
+    "original": "Analytical Sense",
+    "translated_at": "2026-01-18T14:29:39.882449"
+  },
+  "sub:vision-mission": {
+    "text": "비전 & 미션",
+    "original": "Vision & Mission",
+    "translated_at": "2026-01-18T14:29:39.882450"
+  },
+  "sub:prioritization": {
+    "text": "우선순위화",
+    "original": "Prioritization",
+    "translated_at": "2026-01-18T14:29:39.882450"
+  },
+  "sub:market-positioning": {
+    "text": "시장 포지셔닝",
+    "original": "Market Positioning",
+    "translated_at": "2026-01-18T14:29:39.882451"
+  },
+  "sub:roadmaps-planning": {
+    "text": "로드맵 & 계획",
+    "original": "Roadmaps & Planning",
+    "translated_at": "2026-01-18T14:29:39.882452"
+  },
+  "sub:policy-compliance-ethics": {
+    "text": "정책 & 윤리",
+    "original": "Policy & Ethics",
+    "translated_at": "2026-01-18T14:29:39.882453"
+  },
+  "sub:culture": {
+    "text": "문화",
+    "original": "Culture",
+    "translated_at": "2026-01-18T14:29:39.882453"
+  },
+  "sub:team-building": {
+    "text": "팀 빌딩",
+    "original": "Team Building",
+    "translated_at": "2026-01-18T14:29:39.882454"
+  },
+  "sub:org-design": {
+    "text": "조직 설계",
+    "original": "Org Design",
+    "translated_at": "2026-01-18T14:29:39.882455"
+  },
+  "sub:stakeholder-management": {
+    "text": "이해관계자 관리",
+    "original": "Stakeholder Management",
+    "translated_at": "2026-01-18T14:29:39.882456"
+  },
+  "sub:influence-without-authority": {
+    "text": "권위 없이 영향력 행사하기",
+    "original": "Influence Without Authority",
+    "translated_at": "2026-01-18T14:29:39.882457"
+  },
+  "sub:acquisition": {
+    "text": "획득",
+    "original": "Acquisition",
+    "translated_at": "2026-01-18T14:29:39.882457"
+  },
+  "sub:experimentation-metrics": {
+    "text": "실험 & 지표",
+    "original": "Experimentation & Metrics",
+    "translated_at": "2026-01-18T14:29:39.882458"
+  },
+  "sub:activation-onboarding": {
+    "text": "활성화 & 온보딩",
+    "original": "Activation & Onboarding",
+    "translated_at": "2026-01-18T14:29:39.882459"
+  },
+  "sub:monetization-pricing": {
+    "text": "수익화 & 가격책정",
+    "original": "Monetization & Pricing",
+    "translated_at": "2026-01-18T14:29:39.882460"
+  },
+  "sub:retention-engagement": {
+    "text": "리텐션 & 참여",
+    "original": "Retention & Engagement",
+    "translated_at": "2026-01-18T14:29:39.882460"
+  },
+  "sub:process-rituals": {
+    "text": "프로세스 & 의례",
+    "original": "Process & Rituals",
+    "translated_at": "2026-01-18T14:29:39.882461"
+  },
+  "sub:shipping-velocity": {
+    "text": "배송 속도",
+    "original": "Shipping Velocity",
+    "translated_at": "2026-01-18T14:29:39.882462"
+  },
+  "sub:working-with-engineering": {
+    "text": "엔지니어링팀과 협업하기",
+    "original": "Working with Engineering",
+    "translated_at": "2026-01-18T14:29:39.882463"
+  },
+  "sub:technical-tradeoffs": {
+    "text": "기술적 트레이드오프",
+    "original": "Technical Tradeoffs",
+    "translated_at": "2026-01-18T14:29:39.882464"
+  },
+  "sub:working-with-design": {
+    "text": "디자인팀과 협업하기",
+    "original": "Working with Design",
+    "translated_at": "2026-01-18T14:29:39.882464"
+  },
+  "sub:user-psychology": {
+    "text": "사용자 심리",
+    "original": "User Psychology",
+    "translated_at": "2026-01-18T14:29:39.882465"
+  },
+  "sub:customer-interviews": {
+    "text": "고객 인터뷰",
+    "original": "Customer Interviews",
+    "translated_at": "2026-01-18T14:29:39.882466"
+  },
+  "sub:problem-identification": {
+    "text": "문제 식별",
+    "original": "Problem Identification",
+    "translated_at": "2026-01-18T14:29:39.882466"
+  },
+  "sub:opportunity-mapping": {
+    "text": "기회 매핑",
+    "original": "Opportunity Mapping",
+    "translated_at": "2026-01-18T14:29:39.882467"
+  },
+  "sub:design-thinking": {
+    "text": "디자인 씽킹",
+    "original": "Design Thinking",
+    "translated_at": "2026-01-18T14:29:39.882468"
+  },
+  "desc:craft": {
+    "text": "개인 PM 도구와 스킬",
+    "original": "Personal PM toolkit and skills",
+    "translated_at": "2026-01-18T18:39:39.895718"
+  },
+  "desc:strategy": {
+    "text": "비전, 포지셔닝, 우선순위 결정, 비즈니스 모델, 로드맵",
+    "original": "Vision, positioning, prioritization, business models, roadmaps",
+    "translated_at": "2026-01-18T18:39:39.895726"
+  },
+  "desc:leadership": {
+    "text": "영향력, 이해관계자, 팀, 문화",
+    "original": "Influence, stakeholders, teams, culture",
+    "translated_at": "2026-01-18T18:39:39.895727"
+  },
+  "desc:growth": {
+    "text": "고객 획득, 활성화, 유지, 수익화, 지표",
+    "original": "Acquisition, activation, retention, monetization, metrics",
+    "translated_at": "2026-01-18T18:39:39.895728"
+  },
+  "desc:execution": {
+    "text": "제품 출시, 반복, 프로세스, 엔지니어링/디자인 협업",
+    "original": "Shipping, iteration, process, working with eng/design",
+    "translated_at": "2026-01-18T18:39:39.895728"
+  },
+  "desc:discovery": {
+    "text": "사용자 이해, 리서치, 문제 및 기회 발견",
+    "original": "Understanding users, research, problems & opportunities",
+    "translated_at": "2026-01-18T18:39:39.895729"
+  }
+}

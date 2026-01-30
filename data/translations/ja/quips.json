@@ -1,0 +1,135 @@
+[
+  {
+    "text": "サイドプロジェクト #47。数えているとは本当に無駄な人間ですね。",
+    "original": "Side project #47. Yes, I'm counting.",
+    "humor": "Self-deprecating: admits to having way too many unfinished side projects, and the absurdity of actually counting them",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-18T18:53:58.900726"
+  },
+  {
+    "text": "他のやるべきことは99個も放置して、これを作っちゃった。",
+    "original": "Built instead of finishing the other 99 things on my list.",
+    "humor": "Self-deprecating: procrastinated on responsibilities by building yet another thing",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-18T18:53:58.900733"
+  },
+  {
+    "text": "またドメイン買っちゃった。いつものことですね。",
+    "original": "Another day, another domain purchase.",
+    "humor": "Developer stereotype: buying domains for projects that never get built. The casualness implies this is a regular occurrence.",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-18T18:53:58.900734"
+  },
+  {
+    "text": "絶対に完成させるって、毎回言ってるけど結局…(ホントかな?)。",
+    "original": "I'll definitely finish this one. (I say, every time.)",
+    "humor": "Self-aware lie: the parenthetical admits they say this about every project and never follow through",
+    "category": "side_project_addict",
+    "translated_at": "2026-01-18T18:53:58.900735"
+  },
+  {
+    "text": "クロードは眠らないから、私も眠れないのかな。3時まで作業したわ。",
+    "original": "Built at 3am because Claude doesn't need sleep and apparently neither do I.",
+    "humor": "Sleep deprivation humor: AI doesn't sleep, human thinks they don't need to either (they do)",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-18T18:53:58.900736"
+  },
+  {
+    "text": "睡眠スケジュールが死んでもこれは生きた。",
+    "original": "My sleep schedule died so this could live.",
+    "humor": "Dramatic sacrifice framing for something trivial (a website). Mock-heroic tone.",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-18T18:53:58.900737"
+  },
+  {
+    "text": "4時になってたわ。でも全然後悔していない。",
+    "original": "Discovered it was 4am. Worth it.",
+    "humor": "Lost track of time coding, deadpan 'worth it' suggests questionable priorities",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-18T18:53:58.900737"
+  },
+  {
+    "text": "無限のお茶とグレーゾーンな人生選択で頑張ってます。",
+    "original": "Fueled by mass amounts of tea and questionable life choices.",
+    "humor": "Classic developer fuel joke, but 'questionable life choices' adds self-awareness",
+    "category": "flow_state_zombie",
+    "translated_at": "2026-01-18T18:53:58.900738"
+  },
+  {
+    "text": "コードはクロードが書いて、PRはわたしがマージした。どっちが本当に頑張ったかは内緒ね。",
+    "original": "Claude wrote the code. I approved the PRs. We're both in denial about who did more.",
+    "humor": "AI collaboration joke: unclear division of labor, both taking/avoiding credit",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-18T18:53:58.900739"
+  },
+  {
+    "text": "変数の命名を気にしないAIと一緒に作業できるなんて最高。",
+    "original": "Pair programmed with an AI that doesn't judge my variable names.",
+    "humor": "Developers are self-conscious about naming things. AI is portrayed as non-judgmental partner.",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-18T18:53:58.900740"
+  },
+  {
+    "text": "クロードと一緒に作ってたらいつの間にか私がコ・パイロットになってた。",
+    "original": "Built with Claude while questioning if I'm the copilot now.",
+    "humor": "Role reversal: human is supposed to be in charge but AI might be doing the real work. Reference to GitHub Copilot.",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-18T18:53:58.900740"
+  },
+  {
+    "text": "クロードとは関数を交互に書き合ってるみたい。まるで恋人みたい(違う)。",
+    "original": "Claude and I finished each other's... functions.",
+    "humor": "Subverted rom-com trope ('finish each other's sentences') applied to coding. Sweet but nerdy.",
+    "category": "claude_collaboration",
+    "translated_at": "2026-01-18T18:53:58.900741"
+  },
+  {
+    "text": "クリックしてね。ドーパミン出るから。",
+    "original": "This footer changes on click. You're welcome for the dopamine.",
+    "humor": "Meta-humor about the interaction itself. Sarcastic 'you're welcome' for a tiny reward.",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:53:58.900741"
+  },
+  {
+    "text": "もっとクリックしてね。これに時間かけすぎたんだから。",
+    "original": "Keep clicking. I put way too much effort into these.",
+    "humor": "Breaking fourth wall, admitting disproportionate effort on a minor feature",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:53:58.900742"
+  },
+  {
+    "text": "まだクリックしてるの?集中力すごいわ。尊敬する。",
+    "original": "You're still clicking? I respect the commitment.",
+    "humor": "Acknowledging the user's persistence with mock-respect",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:53:58.900743"
+  },
+  {
+    "text": "フッターフェチ扱いされちゃった。",
+    "original": "Wow, you really have a footer fetish.",
+    "humor": "Playfully calling out obsessive clicking behavior. Slightly edgy but harmless.",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:53:58.900744"
+  },
+  {
+    "text": "実績解除:フッター探検家",
+    "original": "Achievement unlocked: Footer Explorer.",
+    "humor": "Gaming reference: fake achievement for clicking through all quips",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:53:58.900744"
+  },
+  {
+    "text": "まだいくつかあるけど、数は言わないからね。",
+    "original": "There are more. But I won't tell you how many.",
+    "humor": "Teasing withholding of information to encourage more clicking",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:53:58.900745"
+  },
+  {
+    "text": "全部見たと思ったら嘘でした。まだまだ続きます。",
+    "original": "You've seen all of them. Just kidding, keep going.",
+    "humor": "Fake-out: pretends to end the game, then reveals there's more. Playful misdirection.",
+    "category": "meta_interactive",
+    "translated_at": "2026-01-18T18:53:58.900745"
+  }
+]
